@@ -1,0 +1,1490 @@
+,price,Furnishing,Bathroom,Balcony,bhk,locality,City
+0,"90,000",Semi-Furnished,3,3,4 BHK Flat," Rahul Arcus, Balewadi Phata, Baner, ",Pune
+1,"65,000",Furnished,3,2,4 BHK Flat," Marvel Zephyr, EON Free Zone, Kharadi, ",Pune
+2,"12,000",Unfurnished,2,2,2 BHK Flat," Optima Heights Phase 4, Kesnand, ",Pune
+3,"18,600",Unfurnished,2,1,2 BHK Flat," Astoria Royals, Ravet, Pimpri Chinchwad, ",Pune
+4,"44,000",Semi-Furnished,2,1,2 BHK Flat," Ganga Platino, Kharadi, ",Pune
+5,"30,000",Unfurnished,3,2,3 BHK Flat," Kingston Atlantis, NIBM Annexe Area, ",Pune
+6,"35,000",Unfurnished,2,1,2 BHK Flat," Blue Ridge, Hinjawadi, ",Pune
+7,150000,Semi-Furnished,5,2,4 BHK Flat," One North, Magarpatta, ",Pune
+8,"17,500",Unfurnished,2,2,2 BHK Flat," Vertical Alcinia, Mohammed Wadi, ",Pune
+9,"35,000",Unfurnished,2,2,2 BHK Flat," Meander, Kharadi, ",Pune
+10,250000,Furnished,5,2,4 BHK Flat," Kasturi the Balmoral Estate, Baner, ",Pune
+11,"25,000",Furnished,2,2,2 BHKHouse ," Vishrantwadi, Airport Road ",Pune
+12,"78,000",Unfurnished,3,2,3 BHK Flat," Panchshil Towers, EON Free Zone, Kharadi, ",Pune
+13,"79,000",Semi-Furnished,4,5,3 BHK Flat," Panchshil Towers, Kharadi, ",Pune
+14,"38,000",Semi-Furnished,3,3,3 BHK Villa ," Pimple Saudagar, Pimpri Chinchwad ",Pune
+15,"40,000",Unfurnished,3,2,3 BHK Flat," Sadhu Vaswani Road, ",Pune
+16,"50,000",Furnished,3,3,3 BHK Flat," Brahma Suncity Platinum, Kalyani Nagar, ",Pune
+17,"48,000",Furnished,4,2,3 BHK Villa ," Jagtap Dairy, Pimpri Chinchwad ",Pune
+18,"25,000",Unfurnished,2,2,2 BHK Flat," Aswani Galaxy, Kaspate Wasti, ",Pune
+19,"75,000",Furnished,3,2,3 BHK Flat," Viman Nagar, ",Pune
+20,120000,Semi-Furnished,5,3,4 BHK Flat," Park Grandeur, Baner, ",Pune
+21,"57,000",Semi-Furnished,3,2,3 BHK Flat," Erandwane, ",Pune
+22,"35,000",Semi-Furnished,3,2,3 BHK Flat," Kolte-Patil 24k Glamore, Hills and Dales, ",Pune
+23,110000,Semi-Furnished,5,2,4 BHK Flat," The Ark Voyage To The Stars, NIBM Road, ",Pune
+24,"15,999",Furnished,1,0,1 BHK Flat," Wakad, ",Pune
+25,"27,000",Furnished,2,1,2 BHK Flat," Ganga Aurum, Tathawade Pimpri Chinchwad, ",Pune
+26,300000,Furnished,4,1,4 BHK Flat," Amar Westview, Meera Nagar, Koregaon Park, ",Pune
+27,"40,000",Unfurnished,3,1,3 BHK Flat," Sheela Vihar Colony, ",Pune
+28,"15,000",Unfurnished,2,3,2 BHK Flat," Nyati Ebony, Undri, ",Pune
+29,240000,Unfurnished,4,2,4 BHK Flat," Verde Residence collection, Kalyani Nagar, ",Pune
+30,"46,000",Unfurnished,2,1,2 BHK Apartment ," Ganga Platino Commercial , Kharadi ",Pune
+31,"65,000",Semi-Furnished,4,2,3 BHK Apartment ," Ganga Platino, Kharadi ",Pune
+32,"40,000",Furnished,2,2,2 BHK Apartment ," Kunal Aspiree, Balewadi ",Pune
+33,190000,Semi-Furnished,4,2,4 BHK Apartment , Balewadi ,Pune
+34,"25,000",Unfurnished,2,2,2 BHK Apartment ," Silver Gracia, Ravet, Pimpri Chinchwad ",Pune
+35,120000,Furnished,3,2,3 BHK Apartment ," Rohan 1 Modibaug, Shivajinagar ",Pune
+36,"75,000",Furnished,4,3,3 BHK Apartment ," river crest, Boat Club Road ",Pune
+37,100000,Semi-Furnished,3,3,3 BHK Apartment ," Supreme Pallacio, Baner ",Pune
+38,150000,Semi-Furnished,4,4,4 BHK Apartment ," One North, Magarpatta ",Pune
+39,"36,000",Unfurnished,3,1,3 BHK Apartment ," Kolte-Patil 24k Glamore, NIBM Road ",Pune
+40,"80,000",Semi-Furnished,5,2,3 BHK Apartment ," Panchshil Towers, Kharadi ",Pune
+41,"18,000",Unfurnished,2,2,2 BHK Apartment ," Panama Park, Lohegaon ",Pune
+42,"80,000",Semi-Furnished,5,1,3 BHK Apartment ," Panchshil Towers, EON Free Zone, Kharadi ",Pune
+43,"42,000",Unfurnished,2,2,2 BHK Apartment ," Forest Edge, Kharadi ",Pune
+44,"17,000",Unfurnished,2,2,2 BHK Apartment ," Life Park, Undri ",Pune
+45,"45,000",Semi-Furnished,3,2,3 BHK Villa ," Purple Cloud 9, NIBM Road ",Pune
+46,250000,Semi-Furnished,4,2,4 BHK Apartment ," Kasturi the Balmoral Estate, Baner ",Pune
+47,"42,000",Unfurnished,3,2,3 BHK Apartment ," Raheja Reserve, NIBM Road ",Pune
+48,"90,000",Semi-Furnished,5,2,3 BHK Apartment ," Panchshil Towers, EON Free Zone, Kharadi ",Pune
+49,150000,Unfurnished,4,2,4 BHK Apartment ," Panchshil Towers, Kharadi ",Pune
+50,"30,000",Furnished,2,1,2 BHK Apartment ," R7 LIFE REPUBLIC, Hinjawadi ",Pune
+51,"45,000",Furnished,2,1,2 BHK Apartment ," Anand Residency, Kothrud ",Pune
+52,120000,Unfurnished,5,3,5 BHK Apartment , Phase 1 Hinjewadi Rajiv Gandhi Infotech Park ,Pune
+53,"65,000",Furnished,3,1,3 BHK Apartment ," Kolte Patil Tuscan Estate Signature Meadows, EON Free Zone, Kharadi ",Pune
+54,"32,000",Furnished,2,2,2 BHK Apartment , Balewadi ,Pune
+55,"42,000",Unfurnished,3,2,3 BHK Apartment ," Kakkad Madhukosh, Balewadi ",Pune
+56,"75,000",Furnished,3,1,2 BHK Apartment ," Lodha Belmondo, Mumbai  Expressway ",Pune
+57,"45,000",Unfurnished,2,2,2 BHK Apartment ," Ganga Platino, EON Free Zone, Kharadi ",Pune
+58,"32,000",Semi-Furnished,3,4,3 BHK Apartment ," Mantra Insignia, Keshav Nagar Mundhwa ",Pune
+59,"24,000",Furnished,1,1,1 BHK Apartment ," Blue Ridge, Hinjawadi ",Pune
+60,"50,000",Semi-Furnished,3,1,3 BHK Apartment ," Kumar Prospera, Hadapsar ",Pune
+61,"21,800",Unfurnished,2,2,2 BHK Apartment ," Rohan Abhilasha, Wagholi ",Pune
+62,140000,Furnished,4,2,4 BHK Apartment ," Kasturi Legacy, Baner ",Pune
+63,280000,Furnished,4,3,4 BHK Apartment ," Supreme Esteban, Meera Nagar, Koregaon Park ",Pune
+64,"16,000",Unfurnished,2,1,2 BHK Apartment ," Vishrantwadi, Airport Road ",Pune
+65,"90,000",Unfurnished,4,2,4 BHK Villa ," Diamond Park, Wakad ",Pune
+66,120000,Furnished,4,2,4 BHK Apartment ," Kasturi Legacy, Baner ",Pune
+67,"70,000",Furnished,3,2,3 BHK Apartment ," Forest County, Kharadi ",Pune
+68,"32,000",Unfurnished,2,1,2 BHK Apartment ," Gulmohar City, Kharadi ",Pune
+69,"75,000",Furnished,2,2,2 BHK Apartment ," Clover Acropolis, Viman Nagar ",Pune
+70,"60,000",Unfurnished,3,2,4 BHK Apartment ," Belmac Residences, Wadgaon Sheri ",Pune
+71,"35,000",Unfurnished,2,1,2 BHK Apartment ," Royal Majestic, Rahatani ",Pune
+72,"18,000",Unfurnished,2,2,1 BHK Apartment ," Bon Vivant, Keshav Nagar Mundhwa ",Pune
+73,"17,000",Unfurnished,2,3,2 BHK Apartment , anushree Aurelia koyate wasti punawale ,Pune
+74,"17,500",Unfurnished,2,1,2 BHK Apartment , Kalubai Nagar Wagholi ,Pune
+75,"6,000",Furnished,1,1,Studio Apartment ," Dreams Sankalp, Yashwant nagar, Bakori road,Wagholi ",Pune
+76,"50,000",Furnished,2,1,2 BHK Apartment , Joggers Park ,Pune
+77,100000,Furnished,5,2,4 BHK Apartment ," Kasturi Epitome, Wakad ",Pune
+78,"14,000",Semi-Furnished,2,0,2 BHK Apartment , Katraj Kondhwa Road ,Pune
+79,"11,000",Semi-Furnished,2,1,2 BHK Apartment ," Grassland, Sinhgad Road ",Pune
+80,"14,000",Unfurnished,1,1,1 BHK Apartment ," Venkateshwara Aprtments, Wakad ",Pune
+81,"21,000",Semi-Furnished,2,1,2 BHK Apartment ," Shree Manibhadra Wakad Centre, Wakad ",Pune
+82,"27,000",Unfurnished,2,2,2 BHK Apartment ," Basant Bahar Cooperative Housing Society, Pashan ",Pune
+83,"15,000",Unfurnished,2,2,2 BHK Apartment ," Madhav Nilay, Dhayari Phata Road ",Pune
+84,250000,Semi-Furnished,6,3,4 BHK Villa , Baner ,Pune
+85,"15,000",Semi-Furnished,2,2,2 BHK Apartment ," Gulmohar Park Apartment, Abasaheb Raikar Nagar ",Pune
+86,"14,000",Semi-Furnished,1,0,2 BHKHouse , Katraj Kondhwa Road ,Pune
+87,"33,000",Semi-Furnished,3,1,3 BHK Apartment ," KBD Palladion, Balewadi Phata, Baner ",Pune
+88,"17,000",Unfurnished,1,1,1 BHK Apartment ," Joyville Hinjawadi, Hinjawadi ",Pune
+89,160000,Unfurnished,5,2,4 BHK Apartment ," Amanora Gateway Towers, Amanora Park Town ",Pune
+90,"14,000",Unfurnished,2,1,2 BHK Apartment , Chikhali Pimpri Chinchwad ,Pune
+91,"39,500",Unfurnished,2,1,2 BHK Apartment ," Kumar Prospera, Hadapsar ",Pune
+92,"40,000",Furnished,3,0,3 BHK Apartment , Gultekadi ,Pune
+93,"15,000",Semi-Furnished,1,0,1 BHK Builder Floor , Bibwewadi ,Pune
+94,"24,000",Unfurnished,3,2,3 BHK Apartment , Bhukum ,Pune
+95,"45,000",Unfurnished,5,6,5 BHKHouse , Lohgaon Wagholi Road ,Pune
+96,"72,000",Semi-Furnished,4,1,4 BHK Apartment ," Buena Vista, Pashan Sus Road ",Pune
+97,"40,000",Semi-Furnished,4,0,3 BHKHouse , Wagholi ,Pune
+98,"50,000",Furnished,2,2,2 BHK Apartment ," Shiv Windmill Village, Bavdhan ",Pune
+99,"14,000",Semi-Furnished,2,2,2 BHK Apartment , Satara Road ,Pune
+100,300000,Unfurnished,7,2,6 BHK Apartment ," Castel Royale Excellente, Bhoslenagar Ashok Nagar ",Pune
+101,"26,000",Unfurnished,3,1,3 BHK Villa ," Sun Planet III, Sinhgad Road ",Pune
+102,"25,000",Semi-Furnished,2,1,2 BHK Apartment ," Newton Homes , Magarpatta ",Pune
+103,"18,000",Unfurnished,2,2,2 BHK Apartment ," Forest Trails Highland, Bhugaon, Bavdhan ",Pune
+104,"45,000",Furnished,2,2,2 BHK Apartment ," Amanora Aspire Towers, Hadapsar ",Pune
+105,"45,000",Furnished,2,2,2 BHK Apartment ," Forest County, EON Free Zone, Kharadi ",Pune
+106,"21,000",Unfurnished,3,2,3 BHK Apartment ," Gini Sanskruti, Hadapsar ",Pune
+107,"75,000",Semi-Furnished,3,2,3 BHK Apartment ," Panchshil Towers, Kharadi ",Pune
+108,"29,000",Semi-Furnished,2,2,2 BHK Apartment ," Oriana Crest, Wakad ",Pune
+109,"30,000",Unfurnished,2,1,2 BHK Apartment ," Kumar Primrose, EON Free Zone, Kharadi ",Pune
+110,"10,000",Unfurnished,2,2,2 BHK Apartment ," Laxmi green county, Kondhawe Dhawade ",Pune
+111,"36,000",Unfurnished,3,3,3 BHK Apartment ," Godrej Infinity, Keshav Nagar Mundhwa ",Pune
+112,"95,000",Unfurnished,3,3,3 BHK Apartment ," Emirus, Baner ",Pune
+113,"47,000",Furnished,3,4,3 BHK Apartment ," Oravi Apartment, Patil Nagar Balewadi ",Pune
+114,220000,Unfurnished,6,3,4 BHK Apartment ," Vascon Windermere, Koregaon Park ",Pune
+115,"22,000",Semi-Furnished,2,2,2 BHK Apartment ," Gagan Adira, Wagholi ",Pune
+116,"25,000",Semi-Furnished,2,2,2 BHK Apartment ," Pebbles II, Bavdhan ",Pune
+117,280000,Furnished,5,2,4 BHK Apartment ," Esteban, Koregaon Park ",Pune
+118,"50,000",Semi-Furnished,3,2,3 BHK Apartment ," Prabhat Vandan Apartments, Prabhat Road ",Pune
+119,"26,000",Unfurnished,2,2,2 BHK Apartment ," Godrej Rejuve, Keshav Nagar Mundhwa ",Pune
+120,"20,002",Semi-Furnished,2,1,2 BHK Apartment ," Kolte Patil Life Republic, Hinjawadi ",Pune
+121,"30,000",Furnished,2,1,2 BHK Apartment , Viman Nagar ,Pune
+122,"18,000",Unfurnished,2,2,2 BHK Apartment ," Kolte-Patil Life Republic Oro Avenue, Hinjawadi ",Pune
+123,"40,000",Unfurnished,2,2,2 BHK Apartment ," Project Koregaon Park, Koregaon Park ",Pune
+124,"22,000",Unfurnished,2,2,2 BHK Apartment ," Pride Purple Park Connect, Hinjawadi ",Pune
+125,"55,000",Furnished,4,2,3 BHK Apartment ," Forest County, EON Free Zone, Kharadi ",Pune
+126,200000,Furnished,4,3,4 BHK Apartment ," The Address, Boat Club Road ",Pune
+127,"39,000",Unfurnished,3,3,3 BHK Apartment ," Avon Vista, Balewadi ",Pune
+128,"18,000",Unfurnished,2,1,2 BHK Apartment , Ubale Nagar ,Pune
+129,"75,000",Furnished,4,3,4 BHK Apartment ," Buena Vista, Pashan ",Pune
+130,"35,000",Semi-Furnished,3,2,3 BHK Villa ," Daffodils Housing Society, Pimple Saudagar, Pimpri Chinchwad ",Pune
+131,"16,000",Unfurnished,2,3,1 BHK Apartment , Sus ,Pune
+132,"47,000",Furnished,2,1,2 BHK Apartment ," Camelot Royale, Viman Nagar ",Pune
+133,"24,999",Semi-Furnished,2,1,2 BHK Apartment ," Supriya Sankul, Laxman Nagar Baner ",Pune
+134,"38,000",Unfurnished,3,2,3 BHK Apartment ," Kumar Aatman, Baner Road ",Pune
+135,"29,000",Semi-Furnished,2,1,2 BHK Apartment ," Amanora Gold Towers, Amanora Park Town ",Pune
+136,"20,000",Unfurnished,1,1,1 BHK Apartment ," Disha Horizon, Viman Nagar ",Pune
+137,"10,000",Unfurnished,1,1,1 BHK Apartment ," Pimple Gurav, Pimpri Chinchwad ",Pune
+138,"80,000",Furnished,3,2,3 BHK Apartment ," Marvel Enigma, EON Free Zone, Kharadi ",Pune
+139,"16,000",Semi-Furnished,1,1,1 BHK Apartment , Anand Nagar ,Pune
+140,"25,000",Unfurnished,2,2,2 BHK Apartment ," GK Atlanta Phase 1, Wakad ",Pune
+141,"42,000",Furnished,3,3,2 BHK Apartment ," Kolte Patil 24k Sereno, Baner ",Pune
+142,"30,000",Semi-Furnished,3,1,3 BHK Apartment ," Bhandari Latitude, Wakad ",Pune
+143,"25,000",Semi-Furnished,1,1,1 BHK Apartment ," Magarpatta Heliconia, Magarpatta ",Pune
+144,"45,000",Furnished,3,2,3 BHK Apartment ," Kool Homes Arena, Balewadi ",Pune
+145,"40,000",Unfurnished,3,3,3 BHK Apartment ," Kolte Patil 24k Sereno, Pan Card Club Road ",Pune
+146,"48,500",Furnished,3,2,3 BHK Apartment ," Pinnac Memories , Ideal Colony, Kothrud ",Pune
+147,100000,Semi-Furnished,4,3,4 BHK Apartment ," Kasturi Epitome, Wakad ",Pune
+148,"25,000",Unfurnished,3,2,3 BHK Apartment ," Sanskriti Arcade, Kaspate Wasti ",Pune
+149,"26,000",Semi-Furnished,2,2,2 BHK Apartment ," Kolte-Patil Western Avenue, Shankar Kalat Nagar ",Pune
+150,"15,000",Unfurnished,2,2,3 BHK Apartment ," kalashree nanded city, Nanded ",Pune
+151,"35,000",Unfurnished,2,1,2 BHK Apartment ," Park Xpress II, Baner ",Pune
+152,"27,000",Unfurnished,3,2,3 BHK Villa ," Shubhashree Woods, Pimple Saudagar, Pimpri Chinchwad ",Pune
+153,"91,000",Furnished,4,2,4 BHK Penthouse ," Marvel Bounty, Hadapsar ",Pune
+154,"51,000",Semi-Furnished,3,2,3 BHK Apartment , Agarkar Nagar ,Pune
+155,"38,000",Unfurnished,2,1,2 BHK Apartment ," Ganga Platino, EON Free Zone, Kharadi ",Pune
+156,"65,000",Semi-Furnished,3,2,3 BHK Apartment ," Panchshil Towers, Kharadi ",Pune
+157,"24,000",Semi-Furnished,2,2,2 BHK Apartment ," Pyramid Atlante, Bhumkar Nagar Wakad ",Pune
+158,"27,000",Semi-Furnished,2,2,2 BHK Apartment ," Prasun Sarvam, Tukaram Nagar Kharadi ",Pune
+159,"40,000",Furnished,3,2,3 BHK Villa , Dwarkadheesh Gardens ,Pune
+160,"16,000",Unfurnished,1,1,1 BHK Apartment ," Vardhaman Residency, Wakad ",Pune
+161,110000,Unfurnished,3,2,3 BHK Apartment ," Marvel Vivacity, Kalyani Nagar ",Pune
+162,"35,000",Semi-Furnished,2,1,2 BHK Apartment , Erandwane ,Pune
+163,"80,000",Unfurnished,3,3,3 BHK Apartment ," Panchshil Towers, Kharadi ",Pune
+164,"70,000",Furnished,3,2,3 BHK Apartment ," Hyde Park, Gultekadi ",Pune
+165,"8,000",Semi-Furnished,2,1,1 BHK Apartment ," Yash Platinum, Dhayari ",Pune
+166,"65,000",Unfurnished,3,2,3 BHK Apartment ," Marvel Diva, Hadapsar ",Pune
+167,"45,000",Semi-Furnished,2,2,2 BHK Apartment ," Amanora Gateway Tower 100 , Hadapsar Industrial Estate ",Pune
+168,"32,000",Furnished,2,2,2 BHK Apartment ," Prima Domus, Balewadi ",Pune
+169,"18,000",Unfurnished,1,1,1 BHK Apartment ," Atlantis Apartments, Balewadi ",Pune
+170,160000,Unfurnished,4,3,4 BHK Apartment ," Emirus, Laxman Nagar Baner ",Pune
+171,"30,000",Furnished,2,2,2 BHK Apartment ," Gera Park View, Kharadi ",Pune
+172,"16,000",Unfurnished,2,2,2 BHK Apartment ," Mantra Parkview, Dhayari ",Pune
+173,"27,000",Furnished,2,1,2 BHK Apartment ," Shiv Sai Vishwa, Pimple Saudagar, Pimpri Chinchwad ",Pune
+174,"24,000",Unfurnished,2,2,2 BHK Apartment ," Pebbles II, Bavdhan ",Pune
+175,100000,Semi-Furnished,3,3,4 BHK Villa ," Vasant Vihar Row House, Baner ",Pune
+176,"26,000",Unfurnished,2,2,2 BHK Apartment ," Raheja Vistas Phase II, NIBM Road ",Pune
+177,300000,Furnished,5,5,5 BHK Apartment ," Sangam Solitaire, Kothrud ",Pune
+178,"45,000",Furnished,3,3,3 BHK Apartment ," Godrej 24, Phase 1 Hinjewadi Rajiv Gandhi Infotech Park ",Pune
+179,"25,000",Unfurnished,2,1,2 BHK Apartment ," GK Atlanta Phase 1, Wakad ",Pune
+180,"36,000",Furnished,2,2,2 BHK Apartment ," Prima Domus, Balewadi ",Pune
+181,"28,000",Unfurnished,2,2,3 BHK Apartment ," Signature Park, Wakad ",Pune
+182,"30,000",Furnished,2,1,2 BHK Apartment ," Prudentia Towers, Wakad ",Pune
+183,"35,000",Semi-Furnished,2,1,2 BHK Apartment , Kothrud ,Pune
+184,"85,000",Furnished,3,3,3 BHK Penthouse ," Marvel Enigma, Kharadi ",Pune
+185,"20,000",Unfurnished,2,1,2 BHK Apartment ," Nanded Asawari, Sinhgad Road ",Pune
+186,"15,000",Unfurnished,2,2,2 BHK Apartment , Wagholi ,Pune
+187,"50,000",Semi-Furnished,3,1,3 BHK Apartment ," Hermes Heritage, Shastrinagar Yerawada ",Pune
+188,350000,Semi-Furnished,4,2,4 BHK Apartment ," Verde Residence collection, Kalyani Nagar ",Pune
+189,"60,000",Furnished,3,3,4 BHK Apartment ," Bramha Sun City Phase 2, Kalyani Nagar ",Pune
+190,"40,000",Unfurnished,2,1,2 BHK Apartment ," liberty society koregaon park, Koregaon Park ",Pune
+191,"30,000",Unfurnished,2,2,2 BHK Apartment ," Vallonia, Bavdhan ",Pune
+192,"15,000",Unfurnished,2,1,2 BHK Apartment ," Nanded City Bageshree, Sinhgad Road ",Pune
+193,"11,000",Unfurnished,2,1,1 BHK Apartment ," Dreams Aakruti, Hadapsar ",Pune
+194,"40,000",Furnished,2,2,2 BHK Apartment ," Hari Ganga, Vishrantwadi, Airport Road ",Pune
+195,"45,000",Furnished,3,3,3 BHK Apartment ," Mirchandani Palms, Shivraj Nagar Rahatani ",Pune
+196,"24,000",Semi-Furnished,2,1,2 BHK Apartment ," Green Valley, Wakad ",Pune
+197,"80,000",Semi-Furnished,3,3,3 BHK Apartment ," Nandan Prospera Gold, Baner ",Pune
+198,"50,000",Furnished,2,1,2 BHK Apartment ," Amanora Gateway Towers, Amanora Park Town ",Pune
+199,"50,000",Furnished,3,2,3 BHK Apartment ," Runwal Regency, Camp ",Pune
+200,"28,000",Unfurnished,2,3,2 BHK Apartment ," Sasane Colony, Mundhwa ",Pune
+201,"45,000",Semi-Furnished,3,1,3 BHK Apartment ," Project Clover Village, Wanowrie ",Pune
+202,"19,000",Furnished,1,1,1 BHK Apartment ," Rohan Abhilasha, Wagholi ",Pune
+203,180000,Furnished,5,2,4 BHK Apartment ," One North, Magarpatta ",Pune
+204,"35,000",Furnished,2,2,2 BHK Apartment ," Urban Nirvana, Kharadi ",Pune
+205,"28,000",Semi-Furnished,3,2,3 BHK Apartment , Aundh ,Pune
+206,"37,000",Semi-Furnished,3,1,3 BHK Apartment ," Avon Vista, Laxmi Nagar Balewadi ",Pune
+207,"45,000",Unfurnished,2,3,2 BHK Apartment ," Bramha Sun City Phase 2, Kalyani Nagar ",Pune
+208,"40,000",Furnished,2,2,2 BHK Apartment ," Brahma Suncity, Wadgaon Sheri ",Pune
+209,"22,000",Unfurnished,2,1,2 BHK Apartment , Kharadi ,Pune
+210,"20,000",Semi-Furnished,2,2,2 BHK Apartment ," Nestoria Pratiknagar, Pratik Nagar Mohanwadi ",Pune
+211,"19,000",Semi-Furnished,1,0,1 BHK Apartment ," Joyville Hinjawadi, Hinjawadi ",Pune
+212,"24,000",Unfurnished,2,2,2 BHK Apartment ," Padmavati Hills, Bavdhan ",Pune
+213,"34,000",Furnished,2,3,2 BHK Apartment ," Pristine Pronext, Wakad ",Pune
+214,"11,000",Unfurnished,2,2,2 BHK Apartment ," TATA La Montana Phase 1, Talegaon Dabhade ",Pune
+215,"50,000",Furnished,3,2,3 BHK Apartment , Phase 1 Hinjewadi Rajiv Gandhi Infotech Park ,Pune
+216,130000,Furnished,3,4,3 BHK Apartment ," Panchshil Towers, EON Free Zone, Kharadi ",Pune
+217,"40,000",Furnished,2,2,2 BHK Apartment ," Fortaleza, Kalyani Nagar ",Pune
+218,"18,000",Semi-Furnished,2,2,2 BHK Apartment ," Dhankawade Patil Township, Dhankawadi ",Pune
+219,"21,000",Unfurnished,2,2,2 BHK Apartment ," Kolte Patil Life Republic, Hinjawadi ",Pune
+220,"45,000",Furnished,2,2,2 BHK Apartment ," Imperial Residence, Kalyani Nagar ",Pune
+221,"35,000",Unfurnished,3,2,3 BHK Apartment ," Pristine Grandeur, Kaspate Wasti ",Pune
+222,110000,Semi-Furnished,5,2,4 BHK Apartment ," Panchshil Towers, Kharadi ",Pune
+223,"45,000",Furnished,2,2,2 BHK Apartment ," Amanora Aspire Towers, Hadapsar ",Pune
+224,"30,000",Unfurnished,2,2,2 BHK Apartment , Baner ,Pune
+225,"25,000",Semi-Furnished,2,2,2 BHK Apartment ," Pride Aashiyana, Dhanori ",Pune
+226,"20,000",Unfurnished,2,1,2 BHK Apartment ," Square Elegance, Baner ",Pune
+227,"46,000",Furnished,2,2,3 BHK Apartment ," Lunkad Valencia, Viman Nagar ",Pune
+228,"40,000",Semi-Furnished,3,2,3 BHK Apartment ," Icon Sterling Towers, Baner ",Pune
+229,"30,000",Unfurnished,3,3,3 BHK Apartment ," Bhoomi Spring Towns, Undri ",Pune
+230,"30,000",Unfurnished,2,2,2 BHK Apartment ," Park Xpress II, Baner ",Pune
+231,"14,000",Semi-Furnished,1,1,1 BHK Apartment ," Majestique Manhattan, Wagholi ",Pune
+232,"72,000",Furnished,3,2,3 BHK Apartment ," Kumar Sienna, Magarpatta ",Pune
+233,"22,000",Unfurnished,2,0,2 BHK Apartment ," Citadel Enclave Co Op Housing Society, Ghorpadi ",Pune
+234,"30,000",Unfurnished,2,1,2 BHK Penthouse ," Gera Adara, Hinjawadi ",Pune
+235,"15,000",Semi-Furnished,2,2,2 BHK Apartment ," Dynamic Grandeur, Undri ",Pune
+236,"18,000",Unfurnished,2,1,2 BHK Apartment ," Whitefield, Sus ",Pune
+237,"21,000",Unfurnished,2,1,3 BHK Apartment ," Megapolis Sunway, Hinjawadi ",Pune
+238,100000,Semi-Furnished,4,2,4 BHK Apartment ," The Ark, Kondhwa ",Pune
+239,"24,000",Semi-Furnished,1,1,1 BHK Apartment ," Hi Line, Sakore Nagar, Viman Nagar ",Pune
+240,"25,000",Unfurnished,2,1,2 BHK Apartment ," Megapolis Sunway, Phase 3 Hinjewadi Rajiv Gandhi Infotech Park ",Pune
+241,130000,Unfurnished,5,3,4 BHK Apartment ," Eon Waterfront, Kharadi ",Pune
+242,"67,000",Furnished,4,3,3 BHK Apartment ," EON Free Zone, Kharadi ",Pune
+243,"75,000",Unfurnished,3,4,3 BHK Apartment ," Panchshil Towers, Kharadi ",Pune
+244,"28,000",Unfurnished,2,1,2 BHK Apartment , Pingale Wasti ,Pune
+245,"15,000",Unfurnished,2,2,2 BHK Apartment , Bhukum ,Pune
+246,"30,000",Unfurnished,3,3,3 BHK Apartment ," Skyscraper, Wakad ",Pune
+247,"70,000",Semi-Furnished,4,2,4 BHK Apartment ," Eon Waterfront, EON Free Zone, Kharadi ",Pune
+248,"21,000",Unfurnished,2,2,2 BHK Apartment ," Sathe Nagar, Lohegaon ",Pune
+249,"32,000",Unfurnished,2,2,2 BHK Apartment ," Kharadi Gaon, Kharadi ",Pune
+250,"21,000",Semi-Furnished,2,1,2 BHK Apartment ," Rohan Abhilasha, Wagholi ",Pune
+251,"14,000",Unfurnished,1,1,1 BHK Penthouse ," Nyati Gardens, Mohammed Wadi ",Pune
+252,"30,000",Unfurnished,2,1,2 BHK Apartment ," Amanora Gold Towers, Amanora Park Town ",Pune
+253,500000,Furnished,> 10,3,> 10 BHK Villa ," Marutirao Gaikwad Nagar, Aundh ",Pune
+254,"13,000",Semi-Furnished,2,2,2 BHKHouse ," Project Vijay Nagar, Dhayari Phata Road ",Pune
+255,"16,000",Unfurnished,1,1,1 BHK Apartment ," Nivasa Udaan, Lohegaon ",Pune
+256,"50,000",Unfurnished,3,0,3 BHK Apartment ," Kumar Siddhachal, Bibwewadi Kondhwa Road ",Pune
+257,"18,000",Semi-Furnished,2,2,2 BHK Apartment ," Windows Housing Society, Sus ",Pune
+258,"37,000",Furnished,2,2,2 BHK Apartment ," Konark Krish 2, Keshav Nagar Mundhwa ",Pune
+259,"21,000",Semi-Furnished,2,3,2 BHK Apartment ," Majestique Euriska, NIBM Annexe Area ",Pune
+260,"16,000",Unfurnished,1,1,1 BHK Apartment ," Mahesh Society, Bibwewadi ",Pune
+261,"55,000",Furnished,2,2,2 BHK Apartment ," F Residences, New Kalyani Nagar ",Pune
+262,"10,000",Unfurnished,1,1,1 BHK Apartment ," Gagan Tisha, Atur Nagar, Undri ",Pune
+263,"42,000",Semi-Furnished,2,1,2 BHK Apartment ," Ganga Platino, EON Free Zone, Kharadi ",Pune
+264,"75,000",Semi-Furnished,5,2,4 BHK Apartment ," Kolte Patil 24K Stargaze, Bavdhan ",Pune
+265,650000,Semi-Furnished,7,2,5 BHK Villa ," Tamhane Complex, Baner ",Pune
+266,"8,000",Semi-Furnished,2,0,2 BHK Apartment ," Silver Heights Co Op Society, Talegaon Dabhade ",Pune
+267,"10,000",Unfurnished,1,2,1 BHK Apartment ," Sai Ganga, Undri ",Pune
+268,"30,000",Furnished,2,2,2 BHK Apartment ," Akshay Park, Thergaon, Pimpri Chinchwad ",Pune
+269,"75,000",Unfurnished,3,2,3 BHK Apartment , Erandwane ,Pune
+270,"40,000",Semi-Furnished,5,0,4 BHKHouse ," Nisarg, Varale Talegaon Dabhade ",Pune
+271,"17,000",Unfurnished,2,2,2 BHK Apartment , Porwal Road ,Pune
+272,"12,000",Unfurnished,2,1,2 BHK Apartment ," Green Villa, Sangavade ",Pune
+273,"20,000",Unfurnished,2,1,2 BHK Apartment ," Golden Winds, Porwal Road ",Pune
+274,"10,000",Semi-Furnished,2,0,2 BHK Apartment ," Handevadi , Autadevadi, Balaji Green view , Near D-mart Flat no 103 ",Pune
+275,"9,500",Unfurnished,2,1,1 BHKHouse ," Jogeshwari Sun City, Kesnand Road ",Pune
+276,"42,000",Unfurnished,3,2,3 BHK Apartment ," Raheja Reserve, NIBM Road ",Pune
+277,"18,000",Unfurnished,2,2,2 BHK Apartment ," Grande View 7, Ambegaon ",Pune
+278,"70,000",Furnished,3,2,3 BHK Apartment ," Mount Unique Residences, Baner ",Pune
+279,"39,500",Semi-Furnished,3,3,3 BHK Apartment ," Leisure Town, Hadapsar ",Pune
+280,"85,000",Unfurnished,5,2,5 BHKHouse ," SANJAY PARK SOCIETY, Viman Nagar ",Pune
+281,"8,500",Unfurnished,2,2,2 BHK Apartment ," Pristine City BEF, Bakori ",Pune
+282,"36,000",Semi-Furnished,2,1,2 BHK Apartment , Kharadi ,Pune
+283,"24,000",Semi-Furnished,3,1,3 BHK Villa , Wagholi ,Pune
+284,"36,000",Unfurnished,2,2,2 BHK Apartment ," Gulmohar Orchids, Kharadi ",Pune
+285,"27,000",Semi-Furnished,3,2,3 BHK Apartment ," AWHO Vijay Vihar, Wagholi ",Pune
+286,"52,000",Furnished,3,1,3 BHK Apartment , Kothrud ,Pune
+287,"13,000",Semi-Furnished,1,0,1 BHK Apartment , Koregaon Park ,Pune
+288,150000,Furnished,5,3,4 BHK Penthouse ," Waters edge, Pimple Nilakh, Pimpri Chinchwad ",Pune
+289,"23,000",Furnished,2,1,2 BHK Apartment ," Natasha Enclave, Bhagyoday Nagar ",Pune
+290,"59,000",Unfurnished,4,1,3 BHK Apartment ," Lodha Belmondo St Andrews B and C and D , Gahunje ",Pune
+291,"55,000",Furnished,2,0,2 BHK Apartment ," Konark Campus, Viman Nagar ",Pune
+292,"15,000",Semi-Furnished,2,2,2 BHK Apartment ," Kolte Patil Margosa Heights, NIBM Annexe Area ",Pune
+293,"58,000",Semi-Furnished,4,5,4 BHK Apartment ," Gera Trinity Towers, EON Free Zone, Kharadi ",Pune
+294,"45,000",Furnished,3,1,3 BHK Apartment ," Kolte-Patil Western Avenue, Wakad ",Pune
+295,"42,000",Furnished,2,2,2 BHK Apartment ," Zen Estate, Kharadi ",Pune
+296,"60,000",Unfurnished,5,1,3 BHK Apartment ," Marvel Cerise, Kharadi ",Pune
+297,"35,000",Unfurnished,2,1,2 BHK Apartment ," Sancheti Mount N Glory Plot A Phase II, Kharadi ",Pune
+298,"50,000",Furnished,2,1,2 BHK Apartment ," Rohan Mithila, Viman Nagar ",Pune
+299,"19,000",Unfurnished,1,0,1 BHK Apartment , Baner ,Pune
+300,"60,000",Semi-Furnished,3,1,3 BHK Apartment , Prabhat Road ,Pune
+301,"15,000",Furnished,1,1,1 BHK Apartment ," Sarthak Beaulieu, Pisoli ",Pune
+302,"32,000",Unfurnished,2,2,2 BHK Apartment ," Prasun Sarvam, Kharadi ",Pune
+303,"26,000",Semi-Furnished,2,3,2 BHK Apartment ," ville, Punawale, Pimpri Chinchwad ",Pune
+304,"40,000",Unfurnished,4,2,3 BHK Apartment , Undri ,Pune
+305,"22,000",Unfurnished,2,5,2 BHK Apartment ," The VUE, Kondhwa ",Pune
+306,"27,000",Semi-Furnished,2,3,2 BHK Apartment ," Godrej Rejuve, Keshav Nagar Mundhwa ",Pune
+307,"26,000",Semi-Furnished,2,1,2 BHK Apartment ," VTP Hilife, Wakad ",Pune
+308,"20,200",Semi-Furnished,2,1,2 BHK Apartment ," Genesis, Alandi, Kelgaon ",Pune
+309,"44,000",Furnished,3,1,3 BHK Apartment ," Malpani Greens, Wakad ",Pune
+310,"33,000",Furnished,2,1,2 BHK Apartment ," Supriya Towers, Aundh ",Pune
+311,"50,000",Semi-Furnished,3,2,3 BHK Apartment ," Kolte Patil Tuscan Estate Signature Meadows, EON Free Zone, Kharadi ",Pune
+312,"45,000",Furnished,3,3,3 BHK Apartment ," AWHO Vijay Vihar, Wagholi ",Pune
+313,100000,Semi-Furnished,3,1,3 BHK Apartment , Sai Villa Apartment ,Pune
+314,"45,000",Unfurnished,3,2,3 BHK Villa ," Veerbhadra Nagar, Baner ",Pune
+315,"26,000",Semi-Furnished,2,2,2 BHK Apartment ," Nancy Towers, Wanowrie ",Pune
+316,"70,000",Furnished,3,3,3 BHK Apartment ," Lunkad Amazon, Konark Nagar ",Pune
+317,"35,000",Furnished,2,2,2 BHK Apartment , Baner ,Pune
+318,"6,500",Unfurnished,1,0,1 BHK Apartment , Hadapsar ,Pune
+319,100000,Furnished,4,1,5 BHK Villa , Shivajinagar ,Pune
+320,"9,500",Semi-Furnished,2,0,2 BHK Apartment , Kirkatwadi ,Pune
+321,"6,000",Semi-Furnished,1,0,2 BHKHouse , Kharadi ,Pune
+322,"20,000",Furnished,1,0,1 BHK Apartment , Hinjawadi ,Pune
+323,"22,000",Unfurnished,1,2,1 BHK Apartment ," Godrej Infinity, Keshav Nagar Mundhwa ",Pune
+324,"30,000",Furnished,2,2,2 BHK Apartment ," Chandan Garden, NIBM Road ",Pune
+325,"30,000",Unfurnished,3,1,3 BHK Apartment ," Clover Heights, Wanowrie ",Pune
+326,160000,Semi-Furnished,3,2,3 BHKHouse ," Rakshak Society, Pimpri Chinchwad ",Pune
+327,"9,000",Unfurnished,1,0,1 BHK Apartment , Balaji Nagar ,Pune
+328,"50,000",Unfurnished,3,1,3 BHK Apartment ," Amanora Neo Towers, Amanora Park Town ",Pune
+329,"8,000",Unfurnished,1,0,2 BHK Apartment , Perne ,Pune
+330,"50,000",Unfurnished,3,3,3 BHK Apartment ," Kalpataru Jade Residences, Baner ",Pune
+331,"45,000",Unfurnished,3,10,3 BHK Apartment ," Ekta California, NIBM Road ",Pune
+332,"20,000",Furnished,1,1,1 BHK Apartment ," Karia Konark Orchid, Wagholi ",Pune
+333,"4,500",Unfurnished,1,0,Studio Apartment , Lohgaon Wagholi Road ,Pune
+334,"53,000",Semi-Furnished,3,2,3 BHK Apartment ," Ganga Platino, Kharadi ",Pune
+335,"32,000",Semi-Furnished,2,2,2 BHK Apartment ," Gera Emerald City North, Kharadi ",Pune
+336,"55,000",Furnished,3,3,3 BHK Apartment ," Kolte Patil 24k Sereno, Pan Card Club Road ",Pune
+337,"30,000",Unfurnished,3,2,3 BHK Apartment ," Vtp Alpine, Mahalunge ",Pune
+338,"30,000",Furnished,2,1,2 BHK Apartment ," Karia Konark Orchid, Wagholi ",Pune
+339,250000,Unfurnished,5,3,4 BHK Apartment ," The Terraces, Balewadi ",Pune
+340,"33,000",Semi-Furnished,2,2,2 BHK Apartment ," Zen Estate, Kharadi ",Pune
+341,250000,Furnished,5,2,4 BHK Apartment ," Esteban, Koregaon Park ",Pune
+342,350000,Furnished,7,4,7 BHKHouse , Boat Club Road ,Pune
+343,"34,000",Semi-Furnished,2,3,2 BHK Apartment ," Paranjape La Cresta, Sopan Baug Society, Ghorpadi ",Pune
+344,"18,000",Unfurnished,1,1,1 BHK Apartment ," Greenfield, Magarpatta ",Pune
+345,100000,Furnished,4,2,4 BHKHouse , Bibwewadi ,Pune
+346,"90,000",Furnished,5,2,4 BHK Apartment ," Kasturi Epitome, Wakad ",Pune
+347,"30,000",Furnished,2,2,2 BHK Apartment ," Pinnac Kanchanganga, Aundh ",Pune
+348,"75,000",Unfurnished,4,1,4 BHK Apartment ," Eon Waterfront, Kharadi ",Pune
+349,"42,000",Unfurnished,3,2,3 BHK Apartment ," Kumar Picasso, Hadapsar Gaon, Hadapsar ",Pune
+350,"30,000",Semi-Furnished,2,1,2 BHK Apartment ," Amanora Gold Towers, Amanora Park Town ",Pune
+351,"30,000",Unfurnished,2,3,2 BHK Apartment ," Nandan Inspera, Wakad ",Pune
+352,"24,500",Unfurnished,2,1,2 BHK Apartment ," Godrej Rejuve, Sasane Colony, Mundhwa ",Pune
+353,"22,000",Furnished,2,0,2 BHK Apartment ," Urban Forest, Mamurdi, Dehu Road ",Pune
+354,280000,Furnished,5,4,4 BHK Apartment ," Esteban, Koregaon Park ",Pune
+355,"27,000",Semi-Furnished,3,3,3 BHK Apartment ," Godrej Hillside, Mahalunge ",Pune
+356,"23,000",Furnished,2,1,2 BHK Apartment ," Kumar Princetown, Undri ",Pune
+357,"25,000",Unfurnished,2,1,2 BHK Apartment ," Palladium Plus, Dhanori ",Pune
+358,"35,000",Semi-Furnished,2,2,2 BHK Apartment ," Nyati Elysia 2, Kharadi ",Pune
+359,"22,000",Semi-Furnished,2,2,2 BHK Apartment ," Kolte Patil IVY Apartment, Wagholi ",Pune
+360,"24,000",Semi-Furnished,3,3,3 BHK Apartment ," Kolte Patil IVY Apartment, Wagholi ",Pune
+361,"38,000",Unfurnished,3,3,3 BHK Apartment ," Eastern Meadows, Kharadi ",Pune
+362,"25,000",Semi-Furnished,2,0,2 BHK Apartment ," Kumar Park Infinia Phase 4 , Hadapsar ",Pune
+363,"52,000",Semi-Furnished,2,0,3 BHK Apartment ," Amanora Gateway Towers 98 And 99 , Amanora Park Town ",Pune
+364,"32,000",Furnished,2,2,2 BHK Apartment ," Kumar Classic, Aundh ",Pune
+365,"25,000",Unfurnished,2,1,2 BHK Apartment ," Mohan Nagar CHS, Baner ",Pune
+366,"30,000",Unfurnished,2,2,2 BHK Apartment ," Raheja Reserve, NIBM Road ",Pune
+367,"60,000",Semi-Furnished,5,2,5 BHK Apartment ," Sobha Carnation, NIBM Road ",Pune
+368,"27,000",Unfurnished,2,2,2 BHK Apartment ," Godrej Infinity, Keshav Nagar Mundhwa ",Pune
+369,"65,000",Furnished,3,2,3 BHK Apartment ," Rohan Mithila, Viman Nagar ",Pune
+370,"20,000",Unfurnished,2,1,2 BHKHouse ," Celestial City Phase I, Ravet, Pimpri Chinchwad ",Pune
+371,"35,000",Furnished,2,0,2 BHK Apartment ," Kasturi Apostrophe, Hinjawadi ",Pune
+372,"60,000",Unfurnished,3,2,3 BHK Apartment ," Belmac Residences, Wadgaon Sheri ",Pune
+373,"35,000",Furnished,2,2,2 BHK Apartment ," Cosmos, Magarpatta ",Pune
+374,"38,000",Semi-Furnished,3,3,3 BHK Apartment ," Nikash Lawns, Pashan ",Pune
+375,150000,Semi-Furnished,4,3,4 BHK Apartment ," Veerbhadra Nagar, Baner ",Pune
+376,"30,000",Unfurnished,2,2,2 BHK Apartment ," Elite Gardens, Aundh ",Pune
+377,"75,000",Furnished,3,2,3 BHK Apartment ," Shubh Gateway, Viman Nagar ",Pune
+378,"5,000",Semi-Furnished,1,1,1 BHKHouse ," Apex Colony, Erandwane ",Pune
+379,"25,000",Unfurnished,3,3,3 BHK Apartment ," Sahil Sarvadaa, Kondhwa ",Pune
+380,"24,000",Unfurnished,2,2,2 BHK Apartment ," Aishwarya Residency, Kaspate Wasti ",Pune
+381,"48,000",Furnished,3,0,3 BHK Apartment ," Ekta California, NIBM Road ",Pune
+382,"33,000",Unfurnished,2,2,2 BHK Apartment ," Nyati Elysia, EON Free Zone, Kharadi ",Pune
+383,"12,000",Unfurnished,2,1,1 BHK Apartment ," Peninsula Ashok Vann, Gahunje ",Pune
+384,"10,000",Unfurnished,1,1,1 BHK Apartment , Sinhgad Road ,Pune
+385,"15,000",Unfurnished,2,1,2 BHK Apartment ," Ganesh Nagar Chikhali, Chikhali ",Pune
+386,"45,000",Unfurnished,2,1,2 BHK Apartment ," Kirtane Baug, Mundhwa ",Pune
+387,"32,000",Unfurnished,3,0,3 BHK Apartment ," Tain Square, Fatima Nagar Wanowrie ",Pune
+388,"16,000",Furnished,2,0,1 BHK Builder Floor ," Mahesh Society, Bibwewadi ",Pune
+389,"43,000",Unfurnished,3,2,3 BHK Apartment ," Raheja Reserve, NIBM Road ",Pune
+390,"43,000",Unfurnished,3,2,3 BHK Apartment ," Raheja Reserve, NIBM Road ",Pune
+391,"22,000",Unfurnished,2,2,2 BHK Apartment ," Yash Orchid, Baner ",Pune
+392,"25,000",Unfurnished,2,3,2 BHK Apartment ," Tulsi Eklavya , Hadapsar Industrial Estate ",Pune
+393,"42,000",Semi-Furnished,3,2,3 BHK Apartment ," Clover Acropolis, Viman Nagar ",Pune
+394,"30,000",Semi-Furnished,2,2,2 BHKHouse , Bhandarkar Road ,Pune
+395,"50,000",Unfurnished,3,2,3 BHK Apartment , Aundh ,Pune
+396,"25,000",Furnished,1,1,1 BHK Apartment ," Blue Ridge, Hinjewadi Rajiv Gandhi Infotech Park, Hinjawadi ",Pune
+397,"10,000",Unfurnished,1,1,Studio Apartment , New Sanghavi ,Pune
+398,"33,000",Semi-Furnished,2,2,2 BHK Apartment ," Jasminum, Magarpatta ",Pune
+399,"16,000",Unfurnished,1,0,2 BHK Apartment , Kothrud ,Pune
+400,"28,000",Semi-Furnished,2,1,2 BHK Apartment ," Sapphire Park Street, Park Street ",Pune
+401,"26,500",Furnished,2,1,2 BHK Apartment ," Megapolis Sangria Towers, Phase 3 Hinjewadi Rajiv Gandhi Infotech Park ",Pune
+402,"22,000",Semi-Furnished,2,2,2 BHK Apartment ," Lantana Court, NIBM Road ",Pune
+403,"45,000",Furnished,3,2,3 BHK Apartment ," Cosmos Regency, Baner ",Pune
+404,"22,500",Semi-Furnished,2,1,2 BHK Apartment ," Riviera Society, Wanowrie ",Pune
+405,"30,000",Unfurnished,2,2,2 BHK Apartment ," Bhusari Colony, Kothrud ",Pune
+406,"15,500",Unfurnished,2,2,2 BHK Apartment , Chikhali Pimpri Chinchwad ,Pune
+407,"30,000",Furnished,3,1,3 BHK Apartment ," Nanded City, Sinhgad Road ",Pune
+408,"25,000",Unfurnished,2,2,2 BHK Apartment ," Yashashree Heritage, Vidyanagar, Dhanori ",Pune
+409,"24,000",Semi-Furnished,2,2,2 BHK Apartment ," Prima Domus, Balewadi ",Pune
+410,"7,000",Semi-Furnished,1,1,1 BHK Apartment , Dhankawadi ,Pune
+411,"35,000",Unfurnished,3,3,3 BHK Apartment ," Vatsalya Vihar, Aundh ",Pune
+412,"30,000",Furnished,1,1,1 BHK Apartment ," Amanora Gold Towers, Amanora Park Town ",Pune
+413,"29,000",Semi-Furnished,2,2,3 BHK Apartment ," GK Roseland Residency, Pimple Saudagar, Pimpri Chinchwad ",Pune
+414,"25,000",Unfurnished,2,2,2 BHK Apartment ," D Wisteria Park, Sinhgad Road ",Pune
+415,"34,000",Semi-Furnished,3,2,3 BHK Apartment ," SP Residency, Hadapsar ",Pune
+416,"30,000",Unfurnished,2,2,3 BHKHouse , Bharati Vidyapeeth Campus ,Pune
+417,"37,000",Unfurnished,2,2,2 BHK Apartment ," Future Towers, Amanora Park Town ",Pune
+418,"24,000",Furnished,1,1,1 BHK Apartment ," Sai Silicon Valley, Balewadi ",Pune
+419,"35,000",Unfurnished,2,1,2 BHK Apartment ," Nyati Elysia, Kharadi ",Pune
+420,"36,000",Unfurnished,3,2,3 BHK Apartment ," Pristine Prolife, Wakad ",Pune
+421,"90,000",Semi-Furnished,4,4,5 BHK Apartment ," Kolte-Patil 24k Opula, Pimple Nilakh, Pimpri Chinchwad ",Pune
+422,"60,000",Unfurnished,3,2,3 BHK Apartment ," Laburnum Park, Magarpatta ",Pune
+423,"16,000",Semi-Furnished,2,2,2 BHK Apartment ," Mantra 24 West, Gahunje ",Pune
+424,"45,000",Furnished,3,3,3 BHK Apartment ," Kool Homes Arena, Balewadi ",Pune
+425,320000,Furnished,6,3,5 BHK Villa ," Forest Trails Cascade Crescent & Meadows Bungalow, Bhugaon, Bavdhan ",Pune
+426,"16,000",Unfurnished,1,1,1 BHK Apartment , Karvenagar ,Pune
+427,"45,000",Furnished,2,2,3 BHK Apartment , Kothrud ,Pune
+428,110000,Furnished,4,3,4 BHK Apartment ," Rohan 10 Kasturkunj, Ganeshkhind ",Pune
+429,"31,000",Unfurnished,3,2,3 BHK Apartment ," Rohan Tarang, Shankar Kalat Nagar ",Pune
+430,"45,000",Semi-Furnished,3,2,3 BHK Apartment ," Park Turquoise, Wakad ",Pune
+431,"16,000",Semi-Furnished,1,1,1 BHK Builder Floor ," Goodwill Vrindavan, Raghavendra Nagar ",Pune
+432,"38,000",Furnished,2,2,2 BHK Apartment , Mayur Colony Kothrud ,Pune
+433,"14,000",Unfurnished,1,0,1 BHK Apartment ," Aishwarya Residency, Wakad ",Pune
+434,"60,000",Semi-Furnished,3,3,3 BHK Apartment ," Marvel Enigma, Kharadi ",Pune
+435,"12,000",Unfurnished,1,1,1 BHK Apartment ," Godrej Horizon, Undri ",Pune
+436,"25,000",Semi-Furnished,2,1,2 BHK Apartment ," Pristine Equilife Homes Phase 2, Mahalunge ",Pune
+437,"63,000",Unfurnished,4,4,4 BHK Apartment ," Kalpataru Jade Residences, Baner ",Pune
+438,"32,000",Semi-Furnished,2,1,2 BHK Apartment ," Cosmos Apartment, Hadapsar ",Pune
+439,"33,000",Furnished,3,2,3 BHK Apartment ," Ganga Florentina, NIBM Annexe Area ",Pune
+440,"16,000",Semi-Furnished,1,0,1 BHK Apartment ," Kumar Park, Bibwewadi ",Pune
+441,"20,000",Unfurnished,1,1,1 BHK Apartment , Jangali Maharaj Road ,Pune
+442,"51,000",Unfurnished,3,2,3 BHK Villa ," Shroff Soleno, Baner ",Pune
+443,"40,000",Furnished,2,2,3 BHK Apartment ," Shanti Elixir, Keshav Nagar Mundhwa ",Pune
+444,"90,000",Furnished,4,2,4 BHK Apartment ," Kasturi Epitome, Wakad ",Pune
+445,"60,000",Semi-Furnished,4,3,4 BHK Apartment , Mayur Colony Kothrud ,Pune
+446,"35,000",Furnished,2,2,2 BHK Apartment ," Sylvania, Magarpatta ",Pune
+447,"34,000",Unfurnished,2,0,2 BHK Apartment ," Lunawat Complex , Kothrud ",Pune
+448,"20,000",Semi-Furnished,2,2,2 BHK Apartment ," Amarnath Paramount Smart City, Lohegaon ",Pune
+449,"25,000",Unfurnished,2,2,2 BHK Apartment ," Relicon Felicia, Pashan ",Pune
+450,"40,000",Semi-Furnished,2,1,2 BHK Apartment ," Finswell Woods, Viman Nagar ",Pune
+451,"22,500",Unfurnished,2,1,2 BHK Apartment ," Krishna Amorapolis, Dhanori ",Pune
+452,"20,000",Unfurnished,2,2,2 BHK Apartment ," Kumar Priyadarshan, Pashan Sus Road ",Pune
+453,110000,Unfurnished,4,4,4 BHK Apartment ," One North, Magarpatta ",Pune
+454,"40,000",Unfurnished,2,0,3 BHK Apartment ," Princeton Town, Kalyani Nagar ",Pune
+455,"27,000",Furnished,2,1,2 BHK Apartment ," Chinchwad, Pimpri Chinchwad ",Pune
+456,"23,000",Semi-Furnished,2,0,3 BHK Apartment , Sinhgad Road ,Pune
+457,"27,000",Unfurnished,2,2,2 BHK Apartment , Kaspate Wasti ,Pune
+458,"16,000",Unfurnished,2,1,2 BHK Apartment ," Nirmal Township Phase 2, Sasane Nagar, Hadapsar ",Pune
+459,"66,000",Semi-Furnished,4,3,4 BHK Apartment ," Kalpataru Jade Residences, Baner ",Pune
+460,"34,000",Unfurnished,2,1,2 BHK Apartment ," Empire Square, Chinchwad, Pimpri Chinchwad ",Pune
+461,"33,500",Unfurnished,3,2,3 BHK Apartment ," Pride World City, Charholi BK ",Pune
+462,"29,000",Furnished,2,2,2 BHK Apartment ," 52 Greenwoods, Baner ",Pune
+463,"40,000",Semi-Furnished,2,1,2 BHK Apartment ," Amanora Aspire Towers, Amanora Park Town ",Pune
+464,"27,000",Furnished,2,2,2 BHK Apartment ," Anisha Residency, Balewadi ",Pune
+465,"25,000",Furnished,2,2,2 BHK Apartment ," Akash Ganga, Rahatani ",Pune
+466,"32,000",Furnished,3,2,3 BHK Apartment ," Lake Town, Bibwewadi ",Pune
+467,"20,000",Unfurnished,1,1,2 BHK Apartment ," Kolte Patil Life Republic Sector R7 7th Avenue I Towers, Phase 2 Hinjewadi Rajiv Gandhi Infotech Park ",Pune
+468,"25,000",Semi-Furnished,2,2,2 BHK Apartment ," Saarrthi Savvy Homes, Hinjewadi Rajiv Gandhi Infotech Park, Hinjawadi ",Pune
+469,"28,000",Furnished,2,2,2 BHK Apartment ," Florencia Apartment, Wakad ",Pune
+470,"9,000",Unfurnished,1,1,1 BHK Apartment ," Bhugaon, Bavdhan ",Pune
+471,"46,000",Semi-Furnished,3,2,3 BHK Apartment ," Gera Trinity Towers, Kharadi ",Pune
+472,"13,000",Unfurnished,1,1,Studio Apartment ," Model Colony, Shivaji Nagar ",Pune
+473,"30,000",Furnished,2,2,2 BHK Apartment , Bavdhan ,Pune
+474,"20,000",Unfurnished,3,2,3 BHK Apartment ," Kapil Woodrow Estate Phase 2, Azad Nagar Wanowrie ",Pune
+475,"95,000",Semi-Furnished,4,2,4 BHK Apartment ," Amanora Aspire Towers, Hadapsar ",Pune
+476,"30,000",Semi-Furnished,3,1,3 BHK Apartment ," Ruby Park, Wakad ",Pune
+477,"40,000",Unfurnished,3,2,3 BHK Apartment , Pashan ,Pune
+478,"22,000",Unfurnished,2,2,2 BHK Apartment ," Karan Suncoast, Bavdhan ",Pune
+479,"20,000",Semi-Furnished,2,0,2 BHK Apartment ," Rohan Park, Sahakar Nagar Parvati Paytha ",Pune
+480,"38,000",Furnished,3,2,3 BHK Apartment ," Goldfinger Avenir, Shankar Kalat Nagar ",Pune
+481,"35,000",Semi-Furnished,3,3,4 BHK Apartment ," Mantra Montana, Dhanori ",Pune
+482,"15,000",Semi-Furnished,1,1,1 BHK Apartment ," DSK Kunjaban, Punawale, Pimpri Chinchwad ",Pune
+483,"21,000",Unfurnished,2,2,2 BHK Apartment ," Kolte Patil Life Republic, Hinjawadi ",Pune
+484,"50,000",Unfurnished,4,3,4 BHK Villa ," Shreyas Lazy Rocks, Bavdhan ",Pune
+485,"19,000",Unfurnished,2,1,2 BHK Apartment ," Karan Suncoast, Bavdhan ",Pune
+486,"25,000",Semi-Furnished,2,2,2 BHK Apartment ," Godrej Rejuve, Keshav Nagar Mundhwa ",Pune
+487,"75,000",Semi-Furnished,5,2,4 BHK Apartment ," Eon Waterfront, Kharadi ",Pune
+488,"25,000",Furnished,1,1,1 BHK Apartment ," Amanora Desire Tower, Hadapsar ",Pune
+489,"23,000",Furnished,2,3,2 BHK Apartment ," Godrej Hillside, Mahalunge ",Pune
+490,"24,000",Furnished,2,2,2 BHK Apartment ," Arc Vista Phase 2, Munjaba Vasti, Dhanori ",Pune
+491,"7,500",Unfurnished,1,1,1 BHK Apartment ," Narhe, Narhe ",Pune
+492,"20,000",Unfurnished,2,1,2 BHK Apartment ," Krishna Amorapolis, Dhanori ",Pune
+493,"24,000",Semi-Furnished,2,2,2 BHK Apartment ," Aditya Aditi Sadan , Aundh ",Pune
+494,"19,000",Furnished,2,1,2 BHK Apartment ," Windsor County, Ambegaon ",Pune
+495,"36,000",Semi-Furnished,2,2,3 BHK Apartment ," Mahindra Antheia, Pimpri Colony ",Pune
+496,"75,000",Unfurnished,3,2,3 BHK Apartment ," Vasant Vaibhav Apartment , Model Colony, Shivaji Nagar ",Pune
+497,"38,000",Semi-Furnished,2,2,2 BHK Apartment , Kalyani Nagar ,Pune
+498,"36,000",Furnished,2,1,2 BHK Apartment ," Hermes Heritage, Shastrinagar Yerawada ",Pune
+499,"31,000",Unfurnished,2,2,2 BHK Apartment ," Adreno Towers, Amanora Park Town ",Pune
+500,"32,000",Furnished,2,2,2 BHK Apartment , Magarpatta ,Pune
+501,"15,000",Unfurnished,1,1,1 BHK Apartment ," Nivasa Udaan, Lohegaon ",Pune
+502,"29,000",Semi-Furnished,2,2,2 BHK Apartment ," Teerth Towers, Baner ",Pune
+503,150000,Furnished,4,1,4 BHK Apartment ," Panchshil Ssilver Woods, Koregaon Park ",Pune
+504,"35,000",Unfurnished,2,1,2 BHK Apartment , Law College Road ,Pune
+505,"34,000",Unfurnished,3,2,3 BHK Apartment ," Kolte-Patil Western Avenue, Wakad ",Pune
+506,"60,000",Furnished,3,1,3 BHK Apartment ," Clover Water Garden, Kalyani Nagar ",Pune
+507,"18,000",Semi-Furnished,2,1,1 BHK Apartment ," Shivam Majestica, Wakad ",Pune
+508,"19,000",Unfurnished,2,2,2 BHK Apartment ," Kolte Patil Life Republic, Hinjewadi Rajiv Gandhi Infotech Park, Hinjawadi ",Pune
+509,130000,Furnished,4,3,4 BHK Apartment ," Empress Tower, Sopan Baug ",Pune
+510,"23,000",Furnished,2,2,2 BHK Apartment ," Nyati Evita, Adarsh Nagar Lohegaon ",Pune
+511,"36,000",Furnished,2,2,2 BHK Apartment ," Vastukalp The Onyx, Shankar Kalat Nagar ",Pune
+512,"30,000",Furnished,2,2,2 BHK Apartment ," Ashok Meadows, Hinjawadi ",Pune
+513,"45,000",Semi-Furnished,2,2,2 BHK Apartment , Viman Nagar ,Pune
+514,"25,000",Furnished,2,2,3 BHK Apartment ," Gemini Grand Bay, Manjari BK ",Pune
+515,"46,000",Furnished,2,2,2 BHK Apartment ," Marvel Arco, Hadapsar ",Pune
+516,"27,000",Unfurnished,2,1,2 BHK Apartment ," Nyati Esteban I, Undri ",Pune
+517,"30,000",Unfurnished,2,1,2 BHK Apartment ," Jasminum, Magarpatta ",Pune
+518,"10,000",Furnished,1,1,1 BHK Apartment ," Venkatesh Galaxy, Katraj Kondhwa Road ",Pune
+519,"24,000",Semi-Furnished,2,1,1 BHK Apartment ," Amanora Gold Towers, Sector R3 Amanora Park Town ",Pune
+520,"35,000",Furnished,2,2,3 BHK Apartment ," Rajvaibhav Apartments, Kothrud ",Pune
+521,"46,000",Semi-Furnished,3,2,3 BHK Apartment ," Urban Balance, Hadapsar ",Pune
+522,"20,000",Unfurnished,2,2,2 BHK Apartment ," Skyways Esfera, Lohegaon ",Pune
+523,"32,000",Unfurnished,3,2,2 BHK Apartment ," Water Bay, Kalyani Nagar ",Pune
+524,"25,000",Semi-Furnished,2,2,2 BHK Apartment ," RR Lunkad 66 Avenue, Vishal Nagar, Pimpri Chinchwad ",Pune
+525,"50,000",Semi-Furnished,3,2,4 BHK Apartment , Kothrud ,Pune
+526,"23,500",Unfurnished,1,1,1 BHK Apartment , Narayan Peth ,Pune
+527,"24,000",Furnished,1,1,1 BHK Apartment , Viman Nagar ,Pune
+528,"42,000",Furnished,2,2,2 BHK Apartment ," Adreno Towers, Amanora Park Town ",Pune
+529,"30,000",Semi-Furnished,3,2,3 BHK Apartment ," Ellanza, Sinhgad Road ",Pune
+530,"33,000",Furnished,2,2,2 BHK Apartment ," Harsh Paradise Gold, Aundh ",Pune
+531,"66,000",Unfurnished,3,2,4 BHK Apartment ," Kalpataru Jade Residences, Baner ",Pune
+532,"12,000",Unfurnished,2,1,2 BHK Apartment , Ambegaon ,Pune
+533,120000,Semi-Furnished,3,3,3 BHK Apartment ," Koregaon Park, Koregaon Park ",Pune
+534,"45,000",Furnished,2,2,2 BHK Apartment ," Malkani Bella Vista, Viman Nagar ",Pune
+535,"96,000",Furnished,3,2,3 BHK Apartment ," Clover Water Garden, Kalyani Nagar ",Pune
+536,"10,000",Unfurnished,1,1,1 BHK Apartment ," Mainland Valencia, Wagholi ",Pune
+537,"15,000",Unfurnished,2,1,1 BHK Apartment ," Skyways Sereno, Lohegaon ",Pune
+538,"42,000",Furnished,2,2,2 BHK Apartment ," Ganga Constellaa, Kharadi ",Pune
+539,"45,000",Semi-Furnished,3,3,3 BHK Apartment ," Nyati Elysia, EON Free Zone, Kharadi ",Pune
+540,250000,Furnished,5,2,4 BHK Villa ," Almal Cascades, Wakad ",Pune
+541,"18,000",Semi-Furnished,2,1,2 BHK Apartment ," Nirvana Lifecity, Lohegaon ",Pune
+542,"32,000",Unfurnished,2,1,2 BHK Apartment , Shivajinagar ,Pune
+543,"15,000",Semi-Furnished,2,2,2 BHK Apartment ," Windsor County, Ambegaon ",Pune
+544,"35,000",Furnished,2,0,2 BHK Apartment ," Aditya Comfort Zone, Balewadi ",Pune
+545,"25,000",Furnished,2,2,2 BHK Apartment ," Westend Village, Bhusari Colony, Kothrud ",Pune
+546,180000,Furnished,6,4,5 BHK Villa ," Nisarg Darshan Society, Pradhikaran Nigdi ",Pune
+547,"50,000",Semi-Furnished,3,4,3 BHK Apartment ," Ganga Ishanya, Satara Road ",Pune
+548,"60,000",Unfurnished,3,3,3 BHK Villa , Kothrud ,Pune
+549,"75,000",Furnished,3,2,3 BHK Apartment ," Shubh Gateway, Viman Nagar ",Pune
+550,"25,000",Unfurnished,2,2,3 BHK Apartment ," Kolte Patil Life Republic, Hinjewadi Rajiv Gandhi Infotech Park, Hinjawadi ",Pune
+551,"75,000",Furnished,3,2,3 BHK Apartment , Koregaon Park ,Pune
+552,100000,Semi-Furnished,4,2,4 BHK Apartment ," Eon Waterfront, Kharadi ",Pune
+553,"36,000",Semi-Furnished,3,3,3 BHK Apartment ," Mont Vert Biarritz, Baner ",Pune
+554,"15,000",Unfurnished,1,1,1 BHK Apartment ," Puranik Abitante, Bavdhan ",Pune
+555,"21,000",Unfurnished,3,2,3 BHK Apartment ," Jade Residences, Wagholi ",Pune
+556,"45,000",Furnished,3,3,3 BHK Apartment ," Kool Homes Arena, Balewadi ",Pune
+557,"65,000",Semi-Furnished,3,1,3 BHK Apartment ," Marvel Cerise, EON Free Zone, Kharadi ",Pune
+558,"42,000",Semi-Furnished,4,3,4 BHK Apartment ," Aurelia, Baner ",Pune
+559,"48,000",Unfurnished,3,2,3 BHK Apartment ," Kanchanban, Senapati Bapat Road ",Pune
+560,"75,000",Unfurnished,4,4,3 BHK Apartment , Boat Club Road ,Pune
+561,"34,000",Semi-Furnished,2,2,2 BHK Apartment ," Nyati Empire, Kharadi ",Pune
+562,"75,000",Semi-Furnished,4,2,3 BHK Apartment ," Panchshil Towers, Kharadi ",Pune
+563,"25,000",Unfurnished,2,2,2 BHK Apartment ," Vertical Wisteria, Mundhwa ",Pune
+564,"23,000",Unfurnished,3,0,2 BHK Villa , Bankar Vasti ,Pune
+565,"28,000",Unfurnished,2,1,2 BHK Apartment ," Magarpatta Jasminium, Hadapsar ",Pune
+566,"30,000",Unfurnished,2,1,3 BHK Apartment ," Sahawas Society, Karvenagar ",Pune
+567,"25,000",Semi-Furnished,2,1,2 BHK Apartment ," Project Koregaon Park, Koregaon Park ",Pune
+568,"28,000",Semi-Furnished,3,2,3 BHK Apartment ," Ganga Kingston, NIBM Annexe Area ",Pune
+569,"18,000",Furnished,1,0,1 BHK Apartment ," Nyati Elysia, Kharadi ",Pune
+570,"27,000",Unfurnished,2,1,2 BHK Apartment ," Hermes Heritage, Shastrinagar Yerawada ",Pune
+571,"32,000",Furnished,3,2,3 BHK Apartment ," Puranik Abitante, Patil Nagar Bavdhan ",Pune
+572,"18,000",Furnished,2,2,2 BHK Apartment ," River Residency, Moshi ",Pune
+573,"28,000",Furnished,2,1,2 BHK Apartment ," Prasad Nagar, Wadgaon Sheri ",Pune
+574,"30,000",Semi-Furnished,2,1,2 BHK Apartment ," Amanora Mall, Sade Satra Nali, Hadapsar ",Pune
+575,"40,000",Furnished,3,2,3 BHK Apartment ," Saarrthi Souvenir, Mahalunge ",Pune
+576,"9,000",Unfurnished,1,1,1 BHK Apartment ," Padmavati Apartment, Bhosari ",Pune
+577,"20,800",Unfurnished,1,1,1 BHK Apartment , Baner ,Pune
+578,"28,000",Semi-Furnished,2,2,3 BHK Apartment ," Manmohan Park, Bibwewadi ",Pune
+579,"14,000",Unfurnished,1,0,1 BHK Apartment ," Poonam Garden, Bibwewadi ",Pune
+580,"13,000",Furnished,1,2,2 BHK Apartment , Bhosari ,Pune
+581,"35,000",Unfurnished,3,2,3 BHK Apartment ," Radiant Paradise, Wanowrie ",Pune
+582,"28,000",Semi-Furnished,2,2,2 BHK Apartment ," The Turf, Bhagwan Tatyasaheb Kawade Road ",Pune
+583,"22,000",Furnished,2,2,1 BHK Apartment ," Madhu Pushpa, Wakad ",Pune
+584,"28,000",Semi-Furnished,2,1,2 BHK Apartment , Erandwane ,Pune
+585,"75,000",Semi-Furnished,4,2,4 BHK Apartment , Mayur Colony Kothrud ,Pune
+586,"50,000",Unfurnished,3,2,3 BHK Apartment ," Clover Park, Viman Nagar ",Pune
+587,"17,000",Semi-Furnished,1,1,1 BHK Apartment ," Reelicon Felicia, Baner Pashan Link Road ",Pune
+588,"45,000",Semi-Furnished,3,1,3 BHK Apartment ," Shalini Residency, Karvenagar ",Pune
+589,"16,000",Unfurnished,2,1,2 BHK Apartment ," Nanded City, Sinhgad Road ",Pune
+590,"17,500",Furnished,2,0,2 BHK Apartment , Wagholi ,Pune
+591,130000,Semi-Furnished,6,0,4 BHK Apartment ," Panchshil Towers, Kharadi ",Pune
+592,"18,000",Furnished,1,0,2 BHK Apartment ," Kunal Iconia, Mamurdi, Dehu Road ",Pune
+593,"36,000",Unfurnished,4,0,4 BHK Apartment ," Market Yard, Gultekdi ",Pune
+594,"30,000",Furnished,2,2,2 BHK Villa ," BK Jhala Tranquility Phase II, Manjri, Manjri Budruk ",Pune
+595,"34,000",Unfurnished,2,2,2 BHK Apartment ," Kumar Sophronia, Kalyani Nagar ",Pune
+596,"11,000",Unfurnished,1,1,1 BHK Apartment ," La Casa Residency, Katraj ",Pune
+597,"23,000",Semi-Furnished,2,1,2 BHK Apartment ," Ojas Apartment, Baner Pashan Link Road ",Pune
+598,"40,000",Semi-Furnished,3,1,3 BHK Apartment ," Rajgruhi Residency, Kondhwa BK ",Pune
+599,"30,000",Semi-Furnished,2,1,2 BHK Apartment , Kothrud ,Pune
+600,"23,500",Semi-Furnished,2,1,2 BHK Apartment ," Rahu Nisarg Society, Atul Nagar, Warje ",Pune
+601,"35,000",Semi-Furnished,2,2,2 BHK Apartment ," Kolte Patil Langston Tuscan, EON Free Zone, Kharadi ",Pune
+602,"12,000",Unfurnished,1,1,1 BHK Apartment ," Runwal RUNWAL MEADOWS, Warje ",Pune
+603,"25,000",Semi-Furnished,2,2,2 BHK Apartment ," Sukhwani Emerald, Magarpatta ",Pune
+604,"34,000",Unfurnished,3,3,3 BHK Apartment ," Twin Nest, Baner Road ",Pune
+605,"40,000",Furnished,2,2,2 BHK Apartment ," Zen Estate, Kharadi ",Pune
+606,"24,000",Furnished,1,1,1 BHK Apartment ," Ashoka Nagar, Kharadi ",Pune
+607,"22,000",Unfurnished,2,1,2 BHK Apartment ," Ganraj Apartment Narayan Peth, Narayan Peth ",Pune
+608,"95,000",Furnished,4,3,4 BHK Apartment ," Ganga Ishanya, Satara Road ",Pune
+609,150000,Furnished,4,1,5 BHKHouse , Mayur Colony Kothrud ,Pune
+610,"18,000",Unfurnished,2,1,1 BHK Apartment ," Mahalaxmi Vihar, Vishrantwadi, Airport Road ",Pune
+611,"19,000",Furnished,1,1,1 BHK Apartment ," Salisbury Park, Gultekdi ",Pune
+612,"45,000",Unfurnished,3,2,3 BHK Apartment ," Cosmos Regency, Baner Road ",Pune
+613,"11,500",Unfurnished,2,2,1 BHK Apartment , Akurdi ,Pune
+614,"36,000",Furnished,2,0,2 BHK Apartment ," Hermes Heritage 2, Shastrinagar Yerawada ",Pune
+615,"21,000",Furnished,2,1,1 BHK Apartment ," Sanewadi, Aundh ",Pune
+616,200000,Unfurnished,4,3,4 BHK Apartment ," Model Colony, Shivaji Nagar ",Pune
+617,"18,500",Semi-Furnished,1,0,1 BHK Apartment ," Aditya Guruganesh Nagar Phase I, Kothrud ",Pune
+618,"25,000",Semi-Furnished,2,1,2 BHK Apartment ," Commerzone IT Park, Yerawada, Airport Road ",Pune
+619,"14,500",Furnished,1,0,Studio Apartment ," Kumar Prerana, Aundh ",Pune
+620,"36,000",Semi-Furnished,3,2,3 BHK Apartment ," Vatsalya Vihar, Aundh ",Pune
+621,130000,Furnished,4,1,4 BHK Apartment , Aundh ,Pune
+622,"22,000",Furnished,2,3,2 BHK Apartment ," The Landmark, Undri ",Pune
+623,"35,000",Unfurnished,2,3,2 BHK Apartment ," Ganga Constella, Kharadi ",Pune
+624,"55,000",Furnished,3,2,3 BHK Apartment ," Zircon, Viman Nagar ",Pune
+625,"24,000",Furnished,1,1,1 BHK Apartment ," Blue Ridge, Hinjawadi ",Pune
+626,"19,500",Semi-Furnished,2,1,2 BHK Apartment ," Ishan Srushti, Warje ",Pune
+627,"20,000",Furnished,1,0,1 BHK Apartment ," Rohan Abhilasha 2, Wagholi ",Pune
+628,"10,500",Semi-Furnished,1,0,1 BHK Apartment ," Sunder Samruddhi, Dhayari Phata Road ",Pune
+629,"30,000",Unfurnished,2,1,2 BHK Apartment ," Rohan Nilay, Aundh ",Pune
+630,"14,000",Furnished,1,2,1 BHK Apartment ," Green Hive, Fursungi ",Pune
+631,"42,000",Semi-Furnished,2,1,3 BHK Apartment ," Godrej Rejuve, Keshav Nagar Mundhwa ",Pune
+632,"20,000",Semi-Furnished,1,1,2 BHK Apartment ," Gagan Arena, NIBM Annexe Area ",Pune
+633,"16,000",Semi-Furnished,2,0,2 BHK Apartment , Handewadi ,Pune
+634,"18,000",Semi-Furnished,2,2,2 BHK Apartment , Spine Road ,Pune
+635,"45,000",Furnished,2,2,2 BHK Apartment ," Marvel Simrose, Koregaon Park ",Pune
+636,"32,000",Furnished,2,1,2 BHK Apartment ," Satyam Serenity, Wadgaon Sheri ",Pune
+637,"28,000",Semi-Furnished,2,1,2 BHK Apartment ," Anant Venkatesh, Pashan ",Pune
+638,"12,000",Furnished,1,0,1 BHK Apartment ," model colony, Shivaji Nagar,  ",Pune
+639,"20,000",Unfurnished,2,3,2 BHK Apartment ," Godrej Prana, Undri ",Pune
+640,"27,000",Unfurnished,2,1,2 BHK Apartment ," Mantri Lavendula, Chandani Chowk, Bavdhan ",Pune
+641,"22,000",Furnished,2,2,2 BHK Apartment ," Shree Anand Venkateshwara Royal Court, Thergaon, Pimpri Chinchwad ",Pune
+642,"13,000",Semi-Furnished,1,0,1 BHK Apartment ," Suvarna Ganesh Apartment, Sadashiv Peth ",Pune
+643,"14,500",Unfurnished,1,1,1 BHK Apartment ," Palace Orchard CHS, NIBM Road ",Pune
+644,"30,000",Semi-Furnished,2,2,2 BHK Apartment ," Godrej Rejuve, Keshav Nagar Mundhwa ",Pune
+645,"15,000",Unfurnished,2,2,2 BHK Apartment ," Sankalp Vastu, Charholi BK ",Pune
+646,"15,000",Unfurnished,1,1,1 BHK Apartment ," Dhruv Darshan, Pradhikaran Nigdi ",Pune
+647,"12,000",Furnished,1,2,1 BHK Apartment ," Aishwaryam Courtyard, Chikhali Pimpri Chinchwad ",Pune
+648,"22,000",Furnished,2,1,2 BHK Apartment ," Kubera Sankul, Hadapsar ",Pune
+649,"8,000",Unfurnished,1,1,2 BHK Apartment ," Pristine City, Wagholi ",Pune
+650,"29,500",Semi-Furnished,2,2,2 BHK Apartment ," Konark Virtue, Keshav Nagar Mundhwa ",Pune
+651,"16,000",Unfurnished,2,1,2 BHK Apartment ," Yashada Splendid Park, Dudulgaon, Alandi ",Pune
+652,"32,000",Unfurnished,2,2,2 BHK Apartment ," F Residences, New Kalyani Nagar ",Pune
+653,"15,000",Semi-Furnished,1,1,1 BHK Apartment ," Nanded Mangal Bhairav, Sinhgad Road ",Pune
+654,"18,000",Furnished,2,3,2 BHK Apartment ," Micasaa, Wagholi ",Pune
+655,"9,000",Semi-Furnished,2,1,2 BHK Apartment ," Dreams Sankalp, Wagholi ",Pune
+656,"45,000",Semi-Furnished,2,2,2 BHK Apartment ," Silver Leaf, Model Colony, Shivaji Nagar ",Pune
+657,"30,000",Unfurnished,4,3,4 BHKHouse ," Swami Sparsh, Damodar Raykar Nagar, Dhayari ",Pune
+658,"6,500",Unfurnished,1,1,1 BHK Builder Floor , Fursungi ,Pune
+659,"6,500",Unfurnished,1,0,1 BHKHouse , Lohegaon ,Pune
+660,"9,000",Unfurnished,1,0,1 BHK Apartment ," Little Hearts, Undri ",Pune
+661,"13,000",Unfurnished,2,0,2 BHK Builder Floor , Undri ,Pune
+662,"6,000",Unfurnished,1,0,1 BHK Apartment ," Omkar Heights, Narhe ",Pune
+663,"6,000",Semi-Furnished,1,0,1 BHK Apartment , Lonikand ,Pune
+664,"5,000",Unfurnished,1,0,Studio Apartment , Dehu Road ,Pune
+665,"13,000",Semi-Furnished,2,0,1 BHK Apartment ," Gk Royale Hills, Ravet, Pimpri Chinchwad ",Pune
+666,"15,000",Furnished,2,0,2 BHK Apartment , Pirangut ,Pune
+667,"40,000",Furnished,2,0,2 BHK Apartment ," Pride World City Wellington, Dhanori Lohegaon Road ",Pune
+668,"10,500",Unfurnished,2,1,2 BHK Apartment , Moshi ,Pune
+669,"45,000",Unfurnished,2,3,2 BHK Apartment ," Bramha Sun City Phase 2, Kalyani Nagar ",Pune
+670,"28,000",Furnished,2,2,2 BHK Apartment ," Megapolis Sunway, Hinjawadi ",Pune
+671,"35,000",Unfurnished,2,2,2 BHK Apartment ," Future Towers, Amanora Park Town ",Pune
+672,"18,000",Unfurnished,2,1,2 BHKHouse ," Omkar Lake View, Lohegaon ",Pune
+673,"15,000",Unfurnished,2,1,3 BHK Apartment ," Vighnesh Silver Skies, Chikhali Pimpri Chinchwad ",Pune
+674,"42,000",Semi-Furnished,3,0,3 BHK Apartment ," Shailesh Tower, Aundh ",Pune
+675,"20,000",Furnished,1,1,2 BHKHouse , Walhekarwadi ,Pune
+676,"38,000",Semi-Furnished,3,0,3 BHK Apartment , Aundh ,Pune
+677,"25,000",Semi-Furnished,3,1,3 BHK Apartment ," Kolte Patil Life Republic, Hinjawadi ",Pune
+678,"22,000",Semi-Furnished,2,0,2 BHK Apartment , Wagholi ,Pune
+679,"25,000",Semi-Furnished,3,1,3 BHK Apartment ," Jairaj Majestic Towers, Katraj ",Pune
+680,130000,Semi-Furnished,5,2,4 BHK Apartment ," Marvel Diva 2, Magarpatta ",Pune
+681,"25,000",Unfurnished,2,0,2 BHK Villa , Fursungi ,Pune
+682,"5,700",Unfurnished,1,0,1 BHKHouse ," Yerawada, Airport Road ",Pune
+683,"8,000",Semi-Furnished,1,0,1 BHKHouse , Dhanori ,Pune
+684,"23,000",Unfurnished,2,1,2 BHK Apartment ," Belcastel, Lonkar Nagar, Mundhwa ",Pune
+685,"60,000",Semi-Furnished,3,1,3 BHK Apartment , Shivajinagar ,Pune
+686,150000,Furnished,6,3,6 BHK Villa , Pradhikaran Nigdi ,Pune
+687,"8,500",Unfurnished,2,1,2 BHK Apartment ," Hillock Towers, Somatne Phata ",Pune
+688,"27,000",Unfurnished,2,2,2 BHK Apartment ," Mantri Lavendula, Chandani Chowk, Bavdhan ",Pune
+689,"20,000",Semi-Furnished,2,3,2 BHK Apartment ," Silver Gracia, Ravet, Pimpri Chinchwad ",Pune
+690,"30,000",Unfurnished,2,2,2 BHK Apartment ," Paranjape Blue Ridge, Hinjawadi ",Pune
+691,"8,000",Unfurnished,2,1,1 BHK Apartment , Wagholi ,Pune
+692,"24,000",Semi-Furnished,2,0,2 BHK Apartment ," Megapolis Sparklet, Hinjewadi Rajiv Gandhi Infotech Park, Hinjawadi ",Pune
+693,"15,000",Semi-Furnished,2,0,2 BHK Apartment , Fursungi ,Pune
+694,"35,000",Semi-Furnished,2,1,2 BHK Apartment ," Amanora Gold Towers, Amanora Park Town ",Pune
+695,"55,000",Furnished,3,0,3 BHK Villa ," World Trade Center, EON Free Zone, Kharadi ",Pune
+696,"11,000",Furnished,1,1,1 BHK Apartment ," Grand Bay Phase II, Manjari BK ",Pune
+697,"12,500",Semi-Furnished,2,0,2 BHK Apartment ," Blue Dice, Chikhali Pimpri Chinchwad ",Pune
+698,"6,000",Unfurnished,1,1,1 BHKHouse ," Nagpur Chal, Yerawada ",Pune
+699,"30,800",Semi-Furnished,3,3,3 BHK Apartment ," Skyscraper, Tathawade Pimpri Chinchwad ",Pune
+700,"12,000",Unfurnished,1,0,1 BHK Apartment ," Vishrant Society, Vishrantwadi, Airport Road ",Pune
+701,"20,500",Unfurnished,3,0,3 BHK Apartment ," Jade Residences, Wagholi Road ",Pune
+702,"37,000",Furnished,2,0,2 BHK Apartment ," Florida Water Color Residences, Keshav Nagar Mundhwa ",Pune
+703,"12,000",Furnished,1,0,1 BHK Builder Floor , New Nana Peth ,Pune
+704,"55,000",Furnished,3,2,4 BHK Apartment , Hadapsar ,Pune
+705,"18,000",Furnished,2,2,2 BHK Apartment ," Spring meadows, Ambegaon ",Pune
+706,"9,000",Unfurnished,1,0,2 BHK Apartment , Manjari BK ,Pune
+707,"18,500",Semi-Furnished,2,1,2 BHK Apartment ," DSK Garden Enclave, kondawa ",Pune
+708,"6,000",Unfurnished,1,0,Studio Apartment , Audumbar Colony ,Pune
+709,"53,000",Semi-Furnished,3,2,3 BHK Apartment ," Raviraj Park Island, Shastrinagar Yerawada ",Pune
+710,"8,960",Unfurnished,1,0,1 BHK Apartment ," Nanded City, Sinhgad Road ",Pune
+711,"11,000",Unfurnished,1,0,2 BHK Apartment , Sukhsagar Nagar Katraj ,Pune
+712,"30,000",Semi-Furnished,1,0,1 BHK Apartment ," Amanora Gold Towers, Amanora Park Town ",Pune
+713,"15,000",Unfurnished,2,0,1 BHK Builder Floor ," Atul Nagar, Warje ",Pune
+714,"8,000",Unfurnished,1,1,1 BHK Apartment ," Mangdewadi, Katraj ",Pune
+715,"10,500",Unfurnished,1,0,1 BHK Apartment ," Amar Chhaya, Hadapsar ",Pune
+716,"13,000",Unfurnished,1,0,1 BHK Builder Floor , Keshav Nagar Mundhwa ,Pune
+717,"45,000",Semi-Furnished,3,2,2 BHKHouse ," Kirti classic, Hinjawadi ",Pune
+718,"18,000",Furnished,2,0,2 BHK Apartment ," Spring meadows, Ambegaon ",Pune
+719,"45,000",Semi-Furnished,2,0,2 BHK Apartment ," Adreno Towers, Amanora Park Town ",Pune
+720,"16,500",Unfurnished,1,0,1 BHK Apartment ," Uttam Enclave, Aundh ",Pune
+721,"14,000",Unfurnished,1,1,1 BHK Apartment ," Mahatma Society, Kothrud ",Pune
+722,"25,000",Semi-Furnished,2,1,2 BHK Apartment ," Eves Garden, Keshav Nagar Mundhwa ",Pune
+723,"25,000",Semi-Furnished,2,2,2 BHK Apartment ," Suyog Paradise, NIBM Road ",Pune
+724,"20,000",Furnished,2,1,2 BHK Apartment ," Payal CHS, Katraj ",Pune
+725,"21,000",Semi-Furnished,2,4,2 BHK Apartment ," Sai Prarthana, Sutarwadi, Pashan ",Pune
+726,"15,000",Furnished,1,1,1 BHK Apartment ," Ashok Meadows, Hinjawadi ",Pune
+727,"16,000",Semi-Furnished,1,0,1 BHK Apartment ," VTP Leonara, Mahalunge ",Pune
+728,"14,000",Unfurnished,2,0,1 BHK Apartment , Sainath Nagar Wadgaon Sheri ,Pune
+729,"28,000",Furnished,1,1,1 BHK Apartment ," Amanora Gold Towers, Amanora Park Town ",Pune
+730,"8,500",Semi-Furnished,1,0,1 BHK Apartment ," Yewalewadi, Katraj ",Pune
+731,"18,000",Unfurnished,2,0,2 BHK Apartment , Lohegaon ,Pune
+732,"24,000",Unfurnished,2,0,2 BHK Builder Floor ," Sai Vrindavan, Tulaja Bhawani Nagar, Kharadi ",Pune
+733,"20,000",Semi-Furnished,2,1,2 BHK Apartment ," Royal Court, Wakad ",Pune
+734,"19,000",Unfurnished,3,0,3 BHK Apartment ," Airmont, Gahunje ",Pune
+735,"14,000",Unfurnished,2,1,2 BHK Apartment , Kondhwa BK ,Pune
+736,"38,000",Semi-Furnished,3,1,3 BHK Apartment ," Twin Towers Apartment, Aundh ",Pune
+737,"15,000",Semi-Furnished,1,1,1 BHK Apartment ," Damodar Vihar, Manjri, Manjri Budruk ",Pune
+738,"20,000",Unfurnished,3,1,3 BHK Apartment ," ARV New Town, Pisoli ",Pune
+739,"16,000",Unfurnished,1,2,2 BHK Apartment ," Vasant Siddhi Apartment, Siddhi Apartment ",Pune
+740,"9,000",Unfurnished,1,1,2 BHK Apartment , Dighi ,Pune
+741,"13,000",Unfurnished,1,0,1 BHK Apartment , Mahaveer Nagar Wadgaon Sheri ,Pune
+742,"35,000",Furnished,3,2,3 BHKHouse ," Meadows Mystique, Wagholi ",Pune
+743,"15,000",Semi-Furnished,1,2,1 BHK Apartment ," ArcVista, Dhanori ",Pune
+744,"10,000",Semi-Furnished,2,2,2 BHK Apartment ," Vanalika, Pirangut ",Pune
+745,"8,500",Unfurnished,1,0,1 BHK Apartment , Hingne Khurd ,Pune
+746,"28,000",Semi-Furnished,2,0,3 BHK Apartment ," Nyati Esplanade Bavdhan, Bavdhan ",Pune
+747,"7,000",Semi-Furnished,1,1,1 BHK Apartment ," Xrbia Sneh Properties, Marunji, Hinjawadi ",Pune
+748,"13,000",Semi-Furnished,1,1,1 BHK Apartment , Laxmi Darshan Apartment ,Pune
+749,"13,000",Semi-Furnished,1,0,1 BHK Builder Floor , Karvenagar ,Pune
+750,"15,000",Unfurnished,2,1,2 BHK Apartment ," Metro Greens, Tilekar Nagar, Kondhwa Budruk ",Pune
+751,"11,000",Unfurnished,1,0,1 BHK Apartment ," J J Complex, Alandi Road ",Pune
+752,"12,500",Semi-Furnished,1,1,1 BHK Apartment , NIBM Road ,Pune
+753,"17,000",Unfurnished,2,1,1 BHK Apartment ," VTP Belair, Mahalunge ",Pune
+754,"12,000",Unfurnished,1,0,1 BHK Apartment , Warje ,Pune
+755,"22,000",Semi-Furnished,2,1,2 BHK Apartment ," Park Infinia, Fursungi ",Pune
+756,"15,000",Semi-Furnished,2,1,2 BHK Apartment ," Celesta Neo, Chikhali Pimpri Chinchwad ",Pune
+757,"45,000",Unfurnished,3,2,3 BHK Apartment ," Prithvi Presidio, Hadapsar ",Pune
+758,"12,000",Unfurnished,2,2,2 BHK Apartment ," Hubtown Countrywoods, Katraj Kondhwa Road ",Pune
+759,"25,000",Unfurnished,2,1,2 BHK Apartment ," Palmspring Towers, Undri ",Pune
+760,"18,000",Unfurnished,2,2,2 BHK Apartment ," Harshad Ashok Nagar Phase III, Hadapsar ",Pune
+761,"9,500",Furnished,1,1,1 BHK Apartment ," Yogi Park, Dhankawadi ",Pune
+762,"18,000",Semi-Furnished,2,1,3 BHK Apartment ," SKYi Star Town, Bhukum ",Pune
+763,"12,000",Semi-Furnished,2,0,2 BHK Apartment ," Mont Vert Vesta, Pirangut ",Pune
+764,"25,000",Furnished,2,1,2 BHK Apartment ," Sarisha, Punawale, Pimpri Chinchwad ",Pune
+765,"40,000",Furnished,2,0,2 BHK Apartment ," Nyati Eudora, Talegaon Dabhade ",Pune
+766,"15,000",Unfurnished,2,1,3 BHK Apartment ," ARV Imperia, Pisoli ",Pune
+767,"10,000",Unfurnished,2,3,1 BHK Apartment ," Lushlife Impero, Handewadi ",Pune
+768,"27,000",Unfurnished,2,0,2 BHK Apartment ," Sukhwani Hermosa Casa, Mundhwa ",Pune
+769,"22,500",Semi-Furnished,2,3,2 BHK Apartment ," 7th Heaven, Dhanori ",Pune
+770,"36,000",Semi-Furnished,2,1,2 BHK Apartment ," Guardian Eastern Meadows, Kharadi ",Pune
+771,"15,000",Unfurnished,1,1,1 BHK Apartment ," Eden Goodland County, Hinjawadi ",Pune
+772,"15,000",Semi-Furnished,2,1,2 BHK Apartment ," Nahar Shree Guruganesh Nagar, Katraj Kondhwa Road ",Pune
+773,"35,000",Semi-Furnished,2,1,3 BHK Builder Floor , Sambhaji Nagar Kshitija ,Pune
+774,"10,000",Unfurnished,1,0,1 BHK Apartment ," Opposite Indian Oil, Heaven Park ",Pune
+775,"18,500",Furnished,1,1,1 BHK Apartment , indranagari housing society ,Pune
+777,"18,000",Unfurnished,1,2,1 BHK Apartment ," Eves Garden, Keshav Nagar Mundhwa ",Pune
+778,"14,500",Unfurnished,2,1,2 BHK Apartment ," Bhojwani Shivnandan, Pimpri Colony ",Pune
+779,"30,000",Furnished,3,1,3 BHK Apartment ," Sun Universe Apartment , Narhe ",Pune
+780,"28,000",Semi-Furnished,2,2,2 BHK Apartment , Sighagad Road  ,Pune
+781,"19,000",Furnished,2,1,2 BHKHouse ," Bopodi, Old Mumbai -Highway ",Pune
+782,"4,000",Unfurnished,1,1,1 BHK Apartment , Manjari Road ,Pune
+783,"26,000",Unfurnished,2,1,2 BHK Apartment , bramha mendyer ,Pune
+784,"15,000",Semi-Furnished,1,1,1 BHK Apartment , Pimpri Colony ,Pune
+785,"15,000",Unfurnished,2,1,2 BHK Apartment , Narhe ,Pune
+786,"20,000",Semi-Furnished,2,2,2 BHK Apartment , silver royal ,Pune
+787,"30,000",Unfurnished,3,1,2 BHKHouse ," Sree Mangal Siddhivinayak Nagari, Nigdi, Pimpri Chinchwad ",Pune
+788,"19,500",Furnished,1,1,1 BHK Apartment ," Viman Premium, Tadiwala Road ",Pune
+789,"28,000",Unfurnished,2,1,2 BHK Apartment ," Kalpataru Estate Phase 2 Building 4 Society, Pimple Gurav, Pimpri Chinchwad ",Pune
+790,"25,000",Semi-Furnished,2,2,2 BHK Apartment ," Nisarg Nirman, Pimple Saudagar, Pimpri Chinchwad ",Pune
+791,"25,000",Semi-Furnished,2,3,2 BHK Apartment ," Samrat Sovereign, Hadapsar ",Pune
+792,"35,000",Unfurnished,1,0,2 BHKHouse ," Model Colony, Shivaji Nagar ",Pune
+793,"14,000",Unfurnished,2,2,2 BHK Apartment ," Tulsi, Undri ",Pune
+794,"8,000",Unfurnished,1,1,1 BHK Apartment , Ambegoan Highway ,Pune
+795,"8,500",Semi-Furnished,2,1,1 BHK Apartment ," Sumangal Shiv Sparsh, Dhiree Village, Dhayari ",Pune
+796,"9,000",Unfurnished,2,2,2 BHK Apartment , Dehu Road ,Pune
+797,"20,000",Semi-Furnished,2,0,3 BHK Apartment ," Sterling Nisarga Apartment, Dhayari ",Pune
+798,"15,000",Semi-Furnished,2,1,2 BHK Apartment ," Durvankur Garden CHS, Dhankawadi ",Pune
+800,"25,000",Unfurnished,2,1,3 BHK Apartment ," New Horizon Parijat Heights, Ubale Nagar ",Pune
+801,"7,000",Semi-Furnished,1,1,1 BHK Apartment ," Roshan One, Chakan ",Pune
+802,"8,200",Unfurnished,2,0,2 BHK Apartment ," Urban Gram Pirangut, Pirangut ",Pune
+804,"30,000",Unfurnished,3,1,3 BHK Apartment ," Maple Tower, Salunkhe Vihar Society ",Pune
+805,"11,000",Unfurnished,1,1,1 BHK Apartment ," Project Kamala City, Rajas Society katraj ",Pune
+806,"7,500",Unfurnished,1,0,2 BHK Apartment ," Eiffel City, Chakan ",Pune
+807,"15,000",Unfurnished,2,2,2 BHK Apartment ," Tamarind Park, Dhayari Phata Road ",Pune
+808,"25,000",Semi-Furnished,2,0,2 BHK Apartment ," Bhavani Peth, Kasba Peth ",Pune
+809,"14,500",Unfurnished,1,1,1 BHK Apartment , Handewadi ,Pune
+810,"13,000",Unfurnished,1,1,1 BHK Apartment ," DSP DS Vrindavan, Dhanori ",Pune
+811,"11,000",Unfurnished,1,1,1 BHK Apartment ," Nirvana Lifecity, Lohegaon ",Pune
+813,"6,500",Unfurnished,1,1,1 BHKHouse ," Morya Sankul, Manjri, Manjri Budruk ",Pune
+814,"22,000",Semi-Furnished,2,1,2 BHK Apartment ," Rohan Ananta, Tathawade Pimpri Chinchwad ",Pune
+815,"26,000",Unfurnished,2,3,2 BHK Apartment ," Godrej Hillside, Godrej Hillside ",Pune
+816,"20,000",Semi-Furnished,2,2,2 BHK Apartment ," Ravinanda Skylights, Wagholi ",Pune
+817,"10,000",Unfurnished,2,2,1 BHK Apartment ," Jubilation, Yewalewadi, Katraj ",Pune
+818,"16,000",Unfurnished,2,2,2 BHK Apartment ," Mayuri Infinity, Undri ",Pune
+819,"30,000",Unfurnished,2,1,2 BHK Apartment , Fatima Nagar Wanowrie ,Pune
+820,"13,000",Unfurnished,1,1,2 BHK Apartment ," Chinchwad Gaon, Pimpri Chinchwad ",Pune
+821,"18,000",Unfurnished,2,0,2 BHK Apartment ," Sun Orion, Wadgaon BK ",Pune
+822,"27,000",Furnished,3,3,3 BHK Builder Floor , Wanowrie ,Pune
+823,"9,100",Unfurnished,2,1,2 BHK Apartment , Dhayari ,Pune
+824,130000,Furnished,4,0,4 BHKHouse , Koregaon Park ,Pune
+825,"8,000",Unfurnished,1,0,1 BHK Apartment ," Aarav Florista, Wagholi ",Pune
+826,"10,000",Unfurnished,1,1,1 BHKHouse , Lohegaon ,Pune
+827,"45,000",Furnished,2,1,2 BHK Apartment ," Empress Court, Sopan Baug Society, Ghorpadi ",Pune
+828,"20,000",Unfurnished,2,1,2 BHK Apartment ," Adi Aventura, Ravet, Pimpri Chinchwad ",Pune
+829,"8,500",Unfurnished,1,0,1 BHK Apartment , Anand Nagar ,Pune
+830,"8,500",Semi-Furnished,1,0,1 BHK Apartment ," Tamarind Park, Dhayari Phata Road ",Pune
+831,"9,000",Unfurnished,2,0,2 BHK Builder Floor , Manjari BK ,Pune
+832,"6,000",Unfurnished,1,0,1 BHK Apartment , Dhayari ,Pune
+833,"5,500",Unfurnished,1,0,1 BHKHouse , Katraj ,Pune
+834,"8,500",Unfurnished,1,0,1 BHK Builder Floor ," Nanded Janaranjani, Nanded Fata ",Pune
+835,"10,000",Unfurnished,1,0,1 BHK Apartment , Lavale ,Pune
+836,"30,000",Furnished,3,0,3 BHK Apartment , Mohammed Wadi ,Pune
+837,"25,000",Unfurnished,2,1,2 BHK Apartment ," Excellaa Plazzo, Ambegaon ",Pune
+838,"12,000",Unfurnished,2,0,2 BHK Apartment ," SKYi Star Town, Bhukum ",Pune
+839,"6,500",Unfurnished,1,0,1 BHKHouse , Wagholi ,Pune
+840,"13,000",Unfurnished,1,0,2 BHK Apartment ," Manik Baug, Anand Nagar ",Pune
+841,"20,000",Semi-Furnished,1,0,1 BHK Apartment ," Shree Renuka Nagari Apartment, Dhankawadi ",Pune
+842,"24,000",Semi-Furnished,2,0,2 BHK Apartment ," Star Gaze Apartment, Dhanori ",Pune
+843,"17,000",Semi-Furnished,1,0,1 BHK Apartment , Sinhgad Road ,Pune
+844,"24,000",Unfurnished,2,1,3 BHK Apartment ," GK Allure, Ravet, Pimpri Chinchwad ",Pune
+845,"11,000",Semi-Furnished,1,0,1 BHK Apartment ," Ambika Residency, Shirwal ",Pune
+846,"10,000",Semi-Furnished,2,0,2 BHK Apartment ," Aayush Park, Talegaon Dabhade ",Pune
+847,"18,000",Semi-Furnished,2,1,2 BHK Apartment ," Dharamshi Signature, Kondhwa ",Pune
+848,"15,000",Semi-Furnished,1,0,1 BHK Apartment ," Paranjape Abhiruchi Parisar, Sinhgad Road ",Pune
+849,"16,000",Unfurnished,2,0,2 BHK Apartment ," Kumar Palmcrest, Pisoli ",Pune
+850,"17,000",Furnished,2,0,2 BHK Apartment ," Malhar Pride, Narhe ",Pune
+851,"3,500",Unfurnished,1,0,1 BHK Apartment ," Xrbia Riverfront, Talegaon Dabhade ",Pune
+852,"15,000",Furnished,2,2,2 BHK Apartment ," Sai Shrushti, Wagholi ",Pune
+853,"10,500",Unfurnished,2,0,3 BHK Apartment , Talegaon Dabhade ,Pune
+854,"24,000",Semi-Furnished,3,0,3 BHK Apartment , Dhankawadi ,Pune
+855,"25,000",Semi-Furnished,1,0,Studio Apartment , Gahunje ,Pune
+856,"18,000",Semi-Furnished,1,0,1 BHK Apartment , Sus ,Pune
+857,"10,000",Semi-Furnished,1,0,1 BHK Apartment , Kasba Peth ,Pune
+858,"6,000",Unfurnished,1,0,1 BHKHouse ," Yerawada, Airport Road ",Pune
+859,"12,000",Semi-Furnished,2,0,2 BHK Apartment , Shikrapur ,Pune
+860,"40,000",Furnished,2,2,2 BHK Apartment ," Lodha Belmondo Sawgrass, Gahunje ",Pune
+861,"14,000",Unfurnished,2,0,1 BHK Apartment ," Omkar Park Phase 1, Dhankawadi ",Pune
+862,"20,000",Furnished,3,0,3 BHK Apartment , Talegaon Dabhade ,Pune
+863,"25,000",Unfurnished,3,2,3 BHK Apartment , kohinoor sangila ,Pune
+864,"16,000",Unfurnished,2,1,2 BHK Apartment ," Dhayari Phata, Dhayari ",Pune
+865,"15,000",Unfurnished,2,2,2 BHK Apartment ," Shri Swami Samarth Residency VIkas Nagar Kiwale, Vikas Nagar Road ",Pune
+866,"12,000",Unfurnished,2,1,2 BHK Apartment ," Sherlyn Avenue, Pisoli ",Pune
+867,"32,000",Semi-Furnished,2,2,2 BHK Apartment ," Vertical Oriana, Keshav Nagar Mundhwa ",Pune
+868,"14,000",Semi-Furnished,2,1,2 BHK Apartment ," Rama Paradise One, Chikhali Pimpri Chinchwad ",Pune
+869,"6,500",Unfurnished,1,0,1 BHKHouse ," Project Sankalp Nagari, Parande Nagar, Dhanori ",Pune
+870,"60,000",Furnished,4,0,4 BHK Villa ," Forest Trails Cascade Crescent & Meadows Bungalow, Bhugaon, Bavdhan ",Pune
+871,"6,500",Unfurnished,1,0,1 BHK Apartment ," Avani Nilay, Koregaon Bhima ",Pune
+872,"11,000",Semi-Furnished,2,0,2 BHKHouse , Somwar Peth ,Pune
+873,"8,500",Unfurnished,1,0,2 BHK Apartment , sai apartment ,Pune
+874,"6,000",Unfurnished,1,0,1 BHKHouse , Dhankawadi ,Pune
+875,"8,000",Unfurnished,1,1,1 BHKHouse ," Sanraj Shangrilla, Handewadi Road ",Pune
+876,"5,000",Unfurnished,1,0,1 BHKHouse ," Manjri, Manjri Budruk ",Pune
+877,"34,000",Semi-Furnished,2,0,2 BHK Apartment , Keshav Nagar Mundhwa ,Pune
+878,"20,000",Unfurnished,2,0,2 BHK Apartment ," Shantai Classic, Ravet, Pimpri Chinchwad ",Pune
+879,"12,000",Unfurnished,1,0,1 BHK Apartment , Bhosari ,Pune
+880,"11,000",Furnished,1,1,1 BHK Apartment , Dhayari Phata Road ,Pune
+881,"48,000",Semi-Furnished,3,0,3 BHK Apartment , NIBM Road ,Pune
+882,"11,000",Semi-Furnished,2,0,2 BHK Apartment , Narhe ,Pune
+883,"25,000",Semi-Furnished,2,0,2 BHK Apartment ," Pride World City, Charholi BK ",Pune
+884,"19,000",Semi-Furnished,2,1,2 BHK Apartment , Bhumkar Nagar Wakad ,Pune
+885,"5,000",Unfurnished,1,0,1 BHK Apartment , Dhankawadi ,Pune
+886,"5,000",Semi-Furnished,1,0,1 BHK Villa , Dehu Road ,Pune
+887,"8,500",Unfurnished,1,0,1 BHKHouse ," Lonkar Nagar, Mundhwa ",Pune
+888,"7,000",Unfurnished,1,0,1 BHKHouse ," Pimple Gurav, Pimpri Chinchwad ",Pune
+889,"4,800",Furnished,1,0,1 BHK Apartment , Hinjawadi ,Pune
+890,"15,000",Semi-Furnished,2,0,2 BHK Apartment , Manjari BK ,Pune
+891,"8,500",Unfurnished,1,0,1 BHK Builder Floor ," Vishrantwadi, Airport Road ",Pune
+892,"5,500",Unfurnished,1,0,1 BHKHouse , Hadapsar ,Pune
+893,"25,000",Semi-Furnished,2,0,3 BHK Villa ," Vishrantwadi, Airport Road ",Pune
+894,"2,200",Semi-Furnished,2,0,2 BHK Apartment ," Palace Orchard,  ",Pune
+895,"16,000",Semi-Furnished,2,0,2 BHK Builder Floor , Sadashiv Peth ,Pune
+896,"23,000",Furnished,2,1,2 BHK Apartment ," Quarter Gate Society, Sadar Bazaar ",Pune
+897,"15,000",Unfurnished,1,1,1 BHK Apartment , Chintamani Nagar Tulshibagwale Colony ,Pune
+898,"20,000",Semi-Furnished,2,2,2 BHK Apartment ," Dreams Nandini, Manjri, Manjri Budruk ",Pune
+899,"9,500",Unfurnished,1,2,1 BHK Apartment ," Banka Sapphire, Pisoli ",Pune
+900,"9,500",Unfurnished,1,2,1 BHK Apartment ," Banka Sapphire, Pisoli ",Pune
+901,"22,000",Semi-Furnished,2,1,2 BHK Apartment ," Marvel Albero, Kondhwa ",Pune
+902,"18,000",Furnished,1,1,2 BHK Apartment ," Bopodi, Old Mumbai -Highway ",Pune
+903,"40,000",Semi-Furnished,4,1,6 BHK Villa ," Memory Garden , Kondhwa ",Pune
+904,"4,500",Unfurnished,1,0,1 BHK Apartment , Dhanori Lohegaon Road ,Pune
+905,"5,500",Unfurnished,1,0,1 BHK Builder Floor , Gopalpatti ,Pune
+906,"13,000",Semi-Furnished,2,0,2 BHK Builder Floor , Ambegaon BK ,Pune
+907,"9,000",Semi-Furnished,2,0,1 BHK Apartment , Pirangut ,Pune
+908,"6,000",Unfurnished,1,0,1 BHK Builder Floor , Katraj ,Pune
+909,"13,000",Unfurnished,2,1,2 BHK Apartment ," Serene Homes, Moshi ",Pune
+910,"8,000",Semi-Furnished,1,0,Studio Apartment ," Paranjape Abhiruchi Parisar, Sinhgad Road ",Pune
+911,"15,000",Semi-Furnished,2,0,2 BHK Apartment ," Mayuri Infinity, Undri ",Pune
+912,"24,000",Furnished,2,0,3 BHK Apartment ," Revell Orchid II, Dhanori Lohegaon Road ",Pune
+913,"4,500",Semi-Furnished,1,0,1 BHKHouse , Fursungi ,Pune
+914,"10,000",Unfurnished,1,1,2 BHK Apartment ," Rathore Nivas, Aadarsh Nagar, Lohegaon  411047 ",Pune
+915,"18,000",Unfurnished,1,0,2 BHK Apartment , Balaji developers Baner ,Pune
+916,"21,000",Unfurnished,2,0,2 BHK Apartment , Kasba Peth ,Pune
+917,"14,000",Semi-Furnished,2,2,2 BHK Apartment , ace Astha ,Pune
+918,"45,000",Furnished,2,1,2 BHK Apartment ," Amanora Gold Towers, Amanora Park Town ",Pune
+919,"25,000",Unfurnished,3,1,2 BHK Villa ," Ozone Villas, Wagholi ",Pune
+920,"13,500",Semi-Furnished,2,2,2 BHK Apartment ," Majestique Magnum, Pisoli ",Pune
+921,"20,000",Unfurnished,2,0,2 BHK Apartment , Life 360 degree ,Pune
+922,"5,500",Unfurnished,1,0,Studio Apartment , Katraj Kondhwa Road ,Pune
+923,"6,000",Unfurnished,1,1,1 BHK Apartment , Kondhwa BK ,Pune
+924,"6,500",Unfurnished,1,0,1 BHKHouse , malwadi vasti Lohegaon pune ,Pune
+925,"13,000",Unfurnished,1,3,1 BHK Apartment ," Mangalam Deep, Kalewadi Pimpri Chinchwad ",Pune
+926,"8,000",Unfurnished,1,0,1 BHKHouse ," Siddhi Aangan, Handewadi ",Pune
+927,"6,500",Unfurnished,1,0,1 BHKHouse ," Kanchan Pushpa, Katraj ",Pune
+928,"22,000",Unfurnished,2,1,2 BHKHouse , Kranti Nagar Pimple Nilakh ,Pune
+929,"19,000",Semi-Furnished,1,1,1 BHK Apartment ," Sukhwani Pearl, Swastik Vihar ",Pune
+930,"15,000",Semi-Furnished,2,2,2 BHK Apartment , Yewalewadi ,Pune
+931,"35,000",Semi-Furnished,2,1,2 BHK Apartment ," The Village, Lohegaon ",Pune
+932,"18,000",Unfurnished,1,1,2 BHK Apartment , Waghire colony No. 2 Pimpriwag ,Pune
+933,"20,000",Semi-Furnished,2,0,2 BHK Apartment , Kothurd ,Pune
+934,"7,500",Unfurnished,1,0,2 BHKHouse , Loni Kalbhor ,Pune
+935,"13,000",Unfurnished,1,0,1 BHK Apartment ," Royal Woods, Manjri,  ",Pune
+936,"14,000",Semi-Furnished,1,0,1 BHK Apartment , Suraj Apartments Nibm Road Kondhwa ,Pune
+937,"25,000",Furnished,2,2,2 BHK Apartment ," Sun Exotica, Yewalewadi ",Pune
+938,"6,000",Unfurnished,1,1,1 BHK Apartment , Sanaswadi ,Pune
+939,"12,000",Semi-Furnished,1,0,1 BHK Apartment , yar khan complex ,Pune
+940,"25,000",Unfurnished,3,1,3 BHK Apartment , New Mhada Colony Morwadi ,Pune
+943,"5,000",Unfurnished,1,0,1 BHKHouse , Kondhawe Dhawade ,Pune
+944,"13,000",Semi-Furnished,1,1,1 BHK Apartment ," Unity Park, Kondhwa ",Pune
+945,"28,000",Semi-Furnished,2,2,2 BHK Apartment ," Revell Orchid II, Dhanori Lohegaon Road ",Pune
+946,"7,500",Unfurnished,2,1,2 BHK Apartment ," Tamarind Park, Dhayari Phata Road ",Pune
+947,"13,000",Unfurnished,2,2,1 BHK Apartment ," Utsav Residency, Utsav Residency Phase-2 ",Pune
+948,"20,000",Semi-Furnished,2,2,2 BHK Apartment , Lakshmi chowk  ,Pune
+950,"15,000",Unfurnished,1,2,1 BHK Apartment , Prakash Kunj ,Pune
+951,"40,000",Furnished,2,1,2 BHK Apartment ," Kumar Urban Kubera Colony, Kondhwa ",Pune
+952,"12,000",Unfurnished,2,3,2 BHK Apartment ," Tanish Park , Charholi BK ",Pune
+953,"28,500",Unfurnished,2,2,2 BHK Apartment ," Sarita Vaibhav, Sinhgad Road ",Pune
+954,"11,000",Unfurnished,1,0,1 BHKHouse , Girijashankar society ,Pune
+955,"22,000",Unfurnished,2,0,2 BHK Apartment ," Ace Meghsparsh, Dhankawadi ",Pune
+956,"23,000",Unfurnished,2,1,2 BHK Builder Floor ," Mayur Pankh, Kondhwa ",Pune
+957,"13,000",Unfurnished,1,0,1 BHK Apartment , Katraj ,Pune
+958,"24,000",Furnished,2,0,1 BHK Builder Floor , Pimpri Chinchwad ,Pune
+959,"23,000",Unfurnished,2,0,2 BHKHouse , Somwar Peth ,Pune
+960,"10,000",Semi-Furnished,1,1,1 BHK Apartment , Bhekrai Nagar ,Pune
+961,"18,000",Semi-Furnished,3,0,3 BHK Apartment ," Nakshatra Angan, Pirangut ",Pune
+962,"15,000",Unfurnished,2,0,2 BHK Apartment , Charholi Budruk ,Pune
+963,"20,000",Furnished,2,0,2 BHK Apartment , Fursungi ,Pune
+964,"6,500",Unfurnished,1,0,1 BHKHouse , Manjari Khurd ,Pune
+965,"70,000",Semi-Furnished,5,2,4 BHK Apartment ," Rosary, Sopan Baug Society, Ghorpadi ",Pune
+966,"10,000",Unfurnished,1,0,2 BHK Builder Floor , Moshi ,Pune
+967,"7,500",Semi-Furnished,1,0,1 BHK Builder Floor ," Mamurdi, Dehu Road ",Pune
+968,"8,500",Semi-Furnished,1,2,1 BHK Builder Floor , Lohegaon ,Pune
+969,"7,000",Semi-Furnished,1,1,1 BHK Builder Floor , Bhekrai Nagar ,Pune
+970,"16,500",Unfurnished,2,0,2 BHK Villa ," Near sinhgad college , Dhandekar nagar, kedareshwar mandir, lane no- 1., kondhwa Bk. pune 48 ",Pune
+971,"23,000",Furnished,2,1,2 BHK Apartment ," Ravet,  ",Pune
+972,"22,000",Furnished,1,0,2 BHK Builder Floor ," Shaniwar peth, Narayan Peth ",Pune
+973,"3,000",Unfurnished,1,0,Studio Apartment ," Xrbia Abode, Vadgaon ",Pune
+974,"8,000",Unfurnished,1,0,1 BHK Builder Floor , Fursungi ,Pune
+975,"35,000",Furnished,2,0,2 BHKHouse , Wadgaon Sheri ,Pune
+976,"6,500",Unfurnished,1,0,Studio Apartment , Balaji Nagar ,Pune
+977,"9,000",Unfurnished,1,1,1 BHK Builder Floor , Katraj ,Pune
+978,"4,500",Unfurnished,1,0,1 BHK Builder Floor , Dhayari ,Pune
+979,"12,000",Unfurnished,2,0,3 BHKHouse , Wagholi ,Pune
+980,"9,000",Semi-Furnished,1,0,2 BHK Builder Floor , Saswad ,Pune
+981,"12,000",Unfurnished,2,2,2 BHK Apartment ," Sara Orchids, Chakan ",Pune
+982,"10,500",Unfurnished,2,0,2 BHKHouse , Hadapsar ,Pune
+983,"8,500",Unfurnished,1,0,1 BHK Builder Floor , Dhankawadi ,Pune
+984,"9,500",Semi-Furnished,1,0,1 BHK Builder Floor , Manjari Budruk ,Pune
+985,"6,500",Semi-Furnished,1,0,1 BHK Builder Floor , Ambegaon ,Pune
+986,"16,500",Unfurnished,2,1,2 BHK Builder Floor , Lohegaon ,Pune
+987,"8,500",Semi-Furnished,1,0,Studio Apartment ," Nehru Nagar, Pimpri Chinchwad ",Pune
+988,"25,000",Unfurnished,1,0,3 BHK Apartment , Shivane ,Pune
+989,"12,000",Unfurnished,1,0,1 BHK Builder Floor , Dhanori ,Pune
+990,"10,500",Semi-Furnished,1,0,1 BHK Apartment ," Shiv Sparsh City, Dhayari ",Pune
+991,"30,000",Unfurnished,2,0,2 BHK Apartment ," Godrej Greens, Undri ",Pune
+992,"18,000",Semi-Furnished,2,2,2 BHK Apartment ," Urban Forest, Mamurdi, Dehu Road ",Pune
+993,"17,500",Semi-Furnished,2,0,2 BHK Apartment ," Mangal Vishwa, Kiwale, Dehu Road ",Pune
+994,"18,000",Semi-Furnished,2,2,2 BHK Apartment ," Paramount Garden, Katraj ",Pune
+995,"12,000",Unfurnished,2,0,2 BHK Apartment ," Silver Homes, Moshi ",Pune
+996,"23,000",Furnished,2,0,2 BHK Apartment ," Fortune Empress, Handewadi ",Pune
+997,"16,000",Unfurnished,2,0,2 BHK Apartment ," Dreams Aakruti, Hadapsar ",Pune
+998,"12,000",Semi-Furnished,1,0,2 BHK Apartment ," Silver Park B Wing, Uruli Devachi ",Pune
+999,"20,000",Semi-Furnished,2,0,2 BHK Apartment ," Silver Gracia, Ravet, Pimpri Chinchwad ",Pune
+1000,"19,000",Semi-Furnished,2,1,3 BHK Villa ," Emerald Isle, Wagholi ",Pune
+1001,"35,000",Semi-Furnished,2,0,2 BHK Apartment ," Suyog Space, Wakad ",Pune
+1002,"18,000",Semi-Furnished,2,0,2 BHK Apartment ," Gagan Lawish, Pisoli ",Pune
+1003,"22,000",Unfurnished,2,0,2 BHK Apartment ," Star Vista, Ravet, Pimpri Chinchwad ",Pune
+1004,"27,000",Furnished,2,0,2 BHK Apartment , Charholi Budruk ,Pune
+1005,"30,000",Furnished,2,2,2 BHK Apartment ," Ace Augusta, Hinjawadi ",Pune
+1006,"8,500",Unfurnished,2,1,1 BHK Apartment , Dhankawadi ,Pune
+1007,"11,000",Unfurnished,2,0,2 BHK Apartment ," Amrut Pushp, Moshi ",Pune
+1008,"13,500",Unfurnished,1,0,1 BHK Apartment , Katraj ,Pune
+1009,"6,000",Unfurnished,1,1,1 BHK Apartment ," Shivam Guruvihar, Chakan ",Pune
+1010,"17,000",Semi-Furnished,2,1,2 BHK Apartment ," Metro Greens, Tilekar Nagar, Kondhwa Budruk ",Pune
+1011,"30,000",Furnished,2,3,2 BHK Apartment ," Lal Deval Housing Society, Camp ",Pune
+1012,"12,000",Semi-Furnished,1,0,1 BHK Apartment , Sant Eknath Nagar 2 ,Pune
+1013,"8,600",Semi-Furnished,1,1,1 BHK Apartment , Kirkatwadi ,Pune
+1014,"7,000",Unfurnished,1,0,House , Wadgaon Sheri ,Pune
+1015,"27,000",Furnished,2,2,2 BHK Apartment ," Shantinagar, Bhosari ",Pune
+1016,"14,000",Unfurnished,2,1,2 BHK Apartment , Satav Nagar ,Pune
+1017,"5,500",Semi-Furnished,2,0,2 BHKHouse , Senapati Bapat Road ,Pune
+1018,"30,000",Semi-Furnished,2,0,2 BHK Apartment , Baner ,Pune
+1019,"10,000",Furnished,2,0,2 BHK Builder Floor , Kalyani Nagar ,Pune
+1020,"40,000",Semi-Furnished,3,1,4 BHKHouse , Karvenagar ,Pune
+1021,"6,000",Unfurnished,1,0,1 BHKHouse , Parvati Paytha ,Pune
+1022,"16,000",Semi-Furnished,1,0,1 BHK Apartment , Erandwane ,Pune
+1023,"25,000",Furnished,2,0,1 BHK Apartment , Mundhwa ,Pune
+1024,"10,000",Semi-Furnished,1,0,1 BHK Apartment ," Rakshalekha Society, Dattawadi ",Pune
+1025,"6,000",Unfurnished,1,0,1 BHK Builder Floor , Somwar Peth ,Pune
+1026,"4,500",Semi-Furnished,1,0,1 BHKHouse , Pawar Vasti ,Pune
+1027,"7,000",Unfurnished,1,0,1 BHK Apartment , Pirangut ,Pune
+1028,"12,000",Unfurnished,2,0,2 BHK Apartment , Talegaon Dabhade ,Pune
+1029,"9,000",Unfurnished,1,0,1 BHK Apartment ," Chinchwad, Pimpri Chinchwad ",Pune
+1030,"10,000",Unfurnished,2,0,1 BHK Builder Floor , Warje ,Pune
+1031,"7,500",Furnished,1,0,Studio Apartment , Hinjawadi ,Pune
+1032,"9,000",Unfurnished,1,0,1 BHK Builder Floor , Moshi ,Pune
+1033,"5,500",Semi-Furnished,1,0,1 BHK Builder Floor , Shivane ,Pune
+1034,"23,000",Unfurnished,3,0,2 BHKHouse ," Pimple Saudagar, Pimpri Chinchwad ",Pune
+1035,"10,000",Unfurnished,1,0,1 BHK Apartment ," Reputed Prime Residency, Moshi ",Pune
+1036,"8,500",Unfurnished,2,0,2 BHKHouse , Handewadi ,Pune
+1037,"22,000",Semi-Furnished,2,0,2 BHK Builder Floor , Kothrud ,Pune
+1038,"5,500",Semi-Furnished,1,0,1 BHKHouse , Mundhwa ,Pune
+1039,"7,000",Unfurnished,1,0,1 BHK Apartment , Narhe ,Pune
+1040,"4,500",Unfurnished,1,0,1 BHK Builder Floor ," Yewalewadi, Katraj ",Pune
+1041,"12,000",Semi-Furnished,1,0,1 BHKHouse , Kharadi ,Pune
+1042,"7,000",Semi-Furnished,1,0,1 BHKHouse , Tingre Nagar ,Pune
+1043,"25,000",Semi-Furnished,1,0,1 BHK Apartment , Koregaon Park ,Pune
+1044,"11,000",Unfurnished,1,0,1 BHK Builder Floor ," Pimple Gurav, Pimpri Chinchwad ",Pune
+1045,"13,500",Unfurnished,2,2,2 BHK Apartment ," Gold County, Charholi BK ",Pune
+1046,"11,000",Unfurnished,2,1,2 BHK Apartment , Sai Colony Ambegaon Budruk ,Pune
+1047,"8,000",Semi-Furnished,2,2,2 BHK Builder Floor ," Harikrishna Silver Nest, Lilavati Greens ",Pune
+1048,"13,000",Semi-Furnished,1,0,1 BHK Apartment , Katraj ,Pune
+1049,"8,000",Unfurnished,1,0,1 BHKHouse , Lohegaon ,Pune
+1050,"10,000",Unfurnished,1,0,1 BHKHouse , Karvenagar ,Pune
+1051,"15,000",Unfurnished,1,0,1 BHK Apartment , Wagholi ,Pune
+1052,"13,500",Unfurnished,1,2,1 BHK Apartment ," Thergaon Chinchwad, Chinchwad, Pimpri Chinchwad ",Pune
+1053,"12,500",Unfurnished,1,2,1 BHK Apartment , Amanora Park Town ,Pune
+1054,"10,500",Semi-Furnished,2,1,1 BHKHouse ," Nigdi, Pimpri Chinchwad ",Pune
+1055,"4,500",Unfurnished,1,0,1 BHK Builder Floor , ,Pune
+1056,"12,000",Unfurnished,1,0,1 BHKHouse , Pimpri Chinchwad ,Pune
+1057,"30,000",Semi-Furnished,1,0,2 BHK Builder Floor , Viman Nagar ,Pune
+1058,"10,000",Unfurnished,1,1,1 BHK Builder Floor , Dhanori ,Pune
+1059,"12,000",Unfurnished,1,1,1 BHK Apartment , Tingre Nagar ,Pune
+1060,"7,000",Unfurnished,1,0,1 BHKHouse , Manjri Budruk ,Pune
+1061,"7,000",Semi-Furnished,1,0,1 BHK Builder Floor , Hingne Khurd ,Pune
+1062,"40,000",Furnished,8,0,8 BHK Builder Floor ," Deccan Gymkhana, F C Road ",Pune
+1063,"70,000",Unfurnished,2,0,5 BHK Villa , Pradhikaran Nigdi ,Pune
+1064,"5,500",Unfurnished,1,0,1 BHK Builder Floor ," Shree Ganesh Park, Kolwadi ",Pune
+1065,"12,000",Semi-Furnished,2,1,2 BHK Apartment , Keshav Nagar Mundhwa ,Pune
+1066,"6,896",Unfurnished,1,0,1 BHK Apartment , Wadgaon Sheri ,Pune
+1067,"35,500",Semi-Furnished,3,4,3 BHK Villa ," Market Yard, Gultekdi ",Pune
+1068,"15,000",Unfurnished,2,1,1 BHK Apartment ," Suryapuram, Sinhgad Road ",Pune
+1069,"9,000",Unfurnished,1,0,1 BHK Builder Floor , Balaji Nagar ,Pune
+1070,"38,000",Furnished,1,3,2 BHK Apartment , Bhosale Nagar ,Pune
+1071,"13,000",Unfurnished,1,0,1 BHK Builder Floor , Dhankawadi ,Pune
+1072,"6,500",Furnished,1,0,1 BHKHouse , Lohegaon Road ,Pune
+1073,"7,500",Semi-Furnished,1,0,1 BHK Builder Floor , Kondhwa Budruk ,Pune
+1074,"22,000",Semi-Furnished,2,0,2 BHK Apartment , Tathawade ,Pune
+1075,"9,500",Unfurnished,2,0,2 BHK Builder Floor , Wagholi ,Pune
+1076,"10,000",Unfurnished,2,0,2 BHK Builder Floor , Dhankawadi ,Pune
+1077,"10,000",Semi-Furnished,1,0,1 BHK Apartment , Wagholi ,Pune
+1078,"9,000",Unfurnished,2,0,2 BHK Builder Floor , Loni Kalbhor ,Pune
+1079,"4,200",Semi-Furnished,1,0,1 BHKHouse , Manjari Budruk ,Pune
+1080,"4,200",Semi-Furnished,1,0,1 BHKHouse , Manjari Budruk ,Pune
+1081,"6,500",Unfurnished,2,0,1 BHK Builder Floor , Shivane ,Pune
+1082,"20,000",Furnished,2,0,2 BHK Apartment , Dighi ,Pune
+1083,"10,000",Furnished,1,0,3 BHK Apartment , Ambegaon ,Pune
+1084,"15,000",Unfurnished,2,0,2 BHK Builder Floor , Mundhwa ,Pune
+1085,"14,000",Unfurnished,2,1,1 BHK Apartment ," Jagdishnagar HSG. Soc., Jagdishnagar ",Pune
+1086,"10,000",Unfurnished,1,0,1 BHK Builder Floor , Warje ,Pune
+1087,"7,500",Unfurnished,1,0,1 BHK Builder Floor , Manjari Budruk ,Pune
+1088,"18,000",Semi-Furnished,1,0,2 BHK Apartment , Pimpri Colony ,Pune
+1089,"25,000",Unfurnished,2,2,2 BHK Apartment , Wakad ,Pune
+1090,"15,000",Semi-Furnished,1,2,2 BHK Apartment ," Chinchwad Gaon, Pimpri Chinchwad ",Pune
+1092,"6,000",Semi-Furnished,1,1,1 BHKHouse ," Hinjewadi Rajiv Gandhi Infotech Park, Hinjawadi ",Pune
+1093,"12,500",Unfurnished,2,0,2 BHK Apartment , Dehuroad ,Pune
+1094,"6,000",Unfurnished,1,1,1 BHK Apartment , Akshit Hights ,Pune
+1095,"13,000",Unfurnished,3,1,3 BHK Apartment ," Dwarka City, Mahalunge Ingale ",Pune
+1096,"16,500",Unfurnished,1,0,2 BHK Apartment , Raviwar Peth ,Pune
+1097,"13,000",Semi-Furnished,1,1,1 BHKHouse , Kothrud ,Pune
+1098,"8,000",Unfurnished,1,0,1 BHKHouse , Balkrishna Sakharam Dhole Patil Road ,Pune
+1099,"25,000",Semi-Furnished,3,3,3 BHK Apartment ," Bopodi, Old Mumbai -Highway ",Pune
+1100,"12,000",Unfurnished,1,1,1 BHK Apartment , Tingre Nagar ,Pune
+1101,"10,000",Unfurnished,1,0,1 BHK Apartment , Khadki ,Pune
+1102,"16,000",Semi-Furnished,2,2,2 BHK Apartment , Hingne Khurd ,Pune
+1103,"16,000",Unfurnished,2,0,2 BHK Apartment , Moshi ,Pune
+1104,"7,000",Semi-Furnished,1,0,1 BHK Apartment , Sathe Vasti ,Pune
+1105,"7,000",Unfurnished,1,0,1 BHK Apartment , Sr no 48/4/7 Gokulnagar lane no 3 near vitthal mandir Kondhwa budruk ,Pune
+1106,"21,000",Semi-Furnished,2,1,2 BHKHouse , Keshav Nagar Hadapsar ,Pune
+1107,"11,000",Unfurnished,1,1,1 BHK Apartment , Chikhali ,Pune
+1108,"13,000",Unfurnished,1,1,1 BHKHouse ," Phulenagar, Yerawada ",Pune
+1109,"18,000",Unfurnished,2,1,2 BHK Apartment ," Kolte Patil Ivy Nia, Wagholi ",Pune
+1110,"11,000",Furnished,1,0,1 BHK Apartment ," Ashok Meadows Apartment, Hijewadi Phase 1  ",Pune
+1111,"23,000",Semi-Furnished,1,0,1 BHK Apartment ," Magarpatta City,  ",Pune
+1112,"25,000",Unfurnished,2,1,2 BHK Apartment ," Sahakar Nagar 2, Parvati Darshan ",Pune
+1113,"16,000",Unfurnished,2,2,2 BHK Apartment , Dhankawadi ,Pune
+1114,"6,500",Semi-Furnished,1,1,1 BHK Apartment , Talegaon Dabhade ,Pune
+1115,"6,500",Unfurnished,0,0,1 BHK Apartment , Sachha Sauda Aprtment Balaji Nagar Near Khushboo Hotel ,Pune
+1116,"20,000",Unfurnished,2,0,3 BHK Apartment , Wanowrie ,Pune
+1117,"36,000",Unfurnished,2,1,2 BHK Apartment , Lalwani Regency ,Pune
+1118,"15,000",Semi-Furnished,2,1,2 BHK Apartment ," Old Sangvi, Pimpri Chinchwad ",Pune
+1119,"26,740",Semi-Furnished,3,0,3 BHK Apartment ," R7 LIFE REPUBLIC, Hinjawadi ",Pune
+1120,"8,000",Unfurnished,1,0,1 BHKHouse ," Bhairav Nagar, Dhanori ",Pune
+1121,"25,000",Furnished,2,0,2 BHK Apartment , Lohegaon ,Pune
+1122,"24,000",Unfurnished,2,0,2 BHK Apartment , Hinjawadi ,Pune
+1123,"7,500",Unfurnished,1,0,1 BHKHouse , Kondhwa Budruk ,Pune
+1124,"16,500",Unfurnished,1,0,1 BHK Builder Floor , Camp ,Pune
+1125,"40,000",Furnished,3,0,4 BHK Villa ," Yerawada, Airport Road ",Pune
+1126,"10,000",Unfurnished,1,0,1 BHK Apartment , Vadgaon Budruk ,Pune
+1127,"20,000",Furnished,2,0,2 BHK Apartment ," Pimple Gurav, Pimpri Chinchwad ",Pune
+1128,"7,000",Unfurnished,1,0,1 BHK Apartment , Lohegaon ,Pune
+1129,"19,000",Semi-Furnished,1,0,Studio Apartment , Karve Road ,Pune
+1130,"8,000",Semi-Furnished,1,0,1 BHK Apartment , Bhopkhel ,Pune
+1131,"4,500",Unfurnished,1,0,1 BHKHouse , Hanumanvadi ,Pune
+1132,"10,000",Unfurnished,1,0,1 BHK Apartment ," Wagholi,  ",Pune
+1133,"4,500",Unfurnished,1,0,1 BHKHouse , Lohegaon ,Pune
+1134,"3,500",Unfurnished,1,0,1 BHK Apartment , Chakan ,Pune
+1135,"6,500",Furnished,1,0,1 BHKHouse , Dhankawadi ,Pune
+1136,"13,000",Semi-Furnished,2,0,2 BHK Apartment ," Yewalewadi, Katraj ",Pune
+1137,"6,000",Unfurnished,1,0,Studio Apartment , Vadgaon ,Pune
+1138,"14,000",Unfurnished,1,0,2 BHK Apartment , Pimpri-Chinchwad ,Pune
+1139,"13,000",Unfurnished,2,0,3 BHK Apartment , Anand Nagar ,Pune
+1140,"7,000",Unfurnished,1,1,1 BHK Builder Floor , Wagholi ,Pune
+1141,"7,500",Unfurnished,1,0,1 BHKHouse , Balaji Nagar ,Pune
+1142,"38,000",Furnished,3,0,3 BHK Apartment , Parvati Paytha ,Pune
+1143,"9,000",Unfurnished,1,0,1 BHK Apartment , ,Pune
+1144,"13,000",Unfurnished,1,0,1 BHKHouse , Tingre Nagar ,Pune
+1145,"30,000",Semi-Furnished,2,2,2 BHK Apartment , Pashan ,Pune
+1146,"7,500",Semi-Furnished,1,0,1 BHKHouse , Kharadi ,Pune
+1147,"12,000",Semi-Furnished,1,0,1 BHK Apartment , Dhanori ,Pune
+1148,"5,500",Unfurnished,1,0,1 BHKHouse , Mundhwa ,Pune
+1149,"6,000",Unfurnished,1,0,1 BHKHouse , Katraj ,Pune
+1150,120000,Semi-Furnished,2,0,3 BHKHouse , Kothrud ,Pune
+1151,"33,000",Semi-Furnished,3,2,3 BHK Apartment ," Parashar CHS, Kharadi ",Pune
+1152,"6,000",Semi-Furnished,1,0,1 BHK Builder Floor , Bhekarai Nagar ,Pune
+1153,"10,000",Unfurnished,2,0,2 BHKHouse , Talegaon Dabhade ,Pune
+1154,"23,000",Unfurnished,2,0,2 BHK Builder Floor , Rasta Peth ,Pune
+1155,700000,Semi-Furnished,2,0,3 BHKHouse , Hadapsar ,Pune
+1156,"25,000",Unfurnished,2,0,2 BHK Apartment ," legacy ivy, Punawale ",Pune
+1157,"5,000",Unfurnished,1,0,1 BHK Builder Floor , Hadapsar ,Pune
+1158,"5,500",Unfurnished,1,0,1 BHKHouse , Kutwal Colony ,Pune
+1159,"4,500",Unfurnished,1,0,1 BHKHouse ," Kale Colony, Alandi ",Pune
+1160,"12,000",Unfurnished,1,0,1 BHKHouse , Kothrud ,Pune
+1161,"21,000",Semi-Furnished,2,1,2 BHK Apartment , Nerhe ,Pune
+1162,"27,000",Unfurnished,3,0,3 BHK Apartment , Charholi Budruk ,Pune
+1163,"7,000",Semi-Furnished,1,1,1 BHK Apartment , Bhilarewadi ,Pune
+1164,"6,000",Semi-Furnished,1,0,1 BHKHouse , Manjari Khurd ,Pune
+1165,"12,000",Semi-Furnished,1,0,2 BHK Apartment , Devachi ,Pune
+1166,"18,000",Furnished,1,0,1 BHK Builder Floor , Narayan Peth ,Pune
+1167,"35,000",Semi-Furnished,3,0,3 BHK Apartment , Pashan ,Pune
+1168,"6,000",Unfurnished,2,0,2 BHKHouse , Saswad Road ,Pune
+1169,"6,000",Unfurnished,1,0,1 BHKHouse , Manjari Budruk ,Pune
+1170,"6,000",Unfurnished,1,0,Studio Apartment ," Yerawada, Airport Road ",Pune
+1171,"2,700",Unfurnished,1,0,1 BHKHouse ," Kale Colony, Alandi ",Pune
+1172,"8,500",Unfurnished,1,0,1 BHK Builder Floor , Dattawadi ,Pune
+1173,"27,500",Unfurnished,3,2,3 BHK Apartment ," Pimple Gurav, Pimpri Chinchwad ",Pune
+1174,"19,000",Semi-Furnished,2,2,2 BHK Apartment ," Ravet, Pimpri Chinchwad ",Pune
+1175,"12,000",Unfurnished,1,1,2 BHK Builder Floor , Moshi ,Pune
+1176,"5,000",Semi-Furnished,1,0,1 BHK Builder Floor , Loni Kalbhor ,Pune
+1177,"7,000",Semi-Furnished,1,0,1 BHK Apartment , Narhe ,Pune
+1178,"33,000",Furnished,8,0,> 10 BHKHouse , Lohegaon ,Pune
+1179,"15,000",Semi-Furnished,2,0,2 BHK Apartment , Varale Talegaon Dabhade ,Pune
+1180,"20,000",Semi-Furnished,1,0,1 BHKHouse , Gokhalenagar ,Pune
+1181,"4,500",Unfurnished,1,0,1 BHKHouse , Katraj ,Pune
+1182,"25,000",Unfurnished,2,0,2 BHK Apartment ," Pimple Nilakh, Pimpri Chinchwad ",Pune
+1183,"7,000",Furnished,1,0,1 BHKHouse , Wagholi ,Pune
+1184,"5,500",Semi-Furnished,1,0,1 BHKHouse , Manjari Budruk ,Pune
+1185,"15,000",Unfurnished,2,0,2 BHK Apartment , Balewadi ,Pune
+1186,"16,000",Semi-Furnished,2,0,2 BHK Apartment , Dhayari ,Pune
+1187,"6,000",Unfurnished,1,0,1 BHK Builder Floor , Mahadev Nagar Dhayari ,Pune
+1188,"12,000",Semi-Furnished,1,0,1 BHK Apartment , Vadgaon ,Pune
+1189,"15,000",Unfurnished,2,0,2 BHK Apartment , Charholi Budruk ,Pune
+1190,"13,000",Unfurnished,1,0,1 BHK Apartment , Dighi ,Pune
+1191,"5,000",Unfurnished,1,0,1 BHKHouse , Manjari Khurd ,Pune
+1192,"6,500",Unfurnished,1,1,1 BHK Apartment , Ambegaon ,Pune
+1193,"18,000",Unfurnished,2,1,2 BHK Apartment , Keshav Nagar Mundhwa ,Pune
+1194,"7,500",Unfurnished,1,0,1 BHK Builder Floor , Lohegaon ,Pune
+1195,"23,000",Semi-Furnished,1,0,1 BHK Apartment , Hadapsar ,Pune
+1196,"6,000",Unfurnished,1,0,1 BHKHouse ," Godbole Vasti, Manjri Budruk ",Pune
+1197,"6,000",Unfurnished,1,0,1 BHK Builder Floor , Katraj ,Pune
+1198,"55,000",Unfurnished,5,0,5 BHKHouse , Bibwewadi ,Pune
+1199,"12,000",Unfurnished,2,0,2 BHK Apartment ," Tanish Park , Charholi BK ",Pune
+1200,"30,000",Unfurnished,3,0,3 BHKHouse , Charholi Budruk ,Pune
+1201,"11,000",Semi-Furnished,1,0,2 BHK Apartment , Ghule Patil Nagar  ,Pune
+1202,"3,800",Furnished,1,0,1 BHK Villa , Dhankawadi ,Pune
+1203,"35,000",Semi-Furnished,2,0,2 BHK Apartment , Azad Nagar-Wanawari ,Pune
+1204,"12,000",Unfurnished,1,0,2 BHK Builder Floor ," Dhayari Phata, Dhayari ",Pune
+1205,"15,000",Unfurnished,1,0,2 BHKHouse , Moshi ,Pune
+1206,"27,000",Semi-Furnished,2,0,2 BHK Builder Floor , Sinhagad Road ,Pune
+1207,"8,000",Unfurnished,1,0,1 BHK Builder Floor , Lohegaon ,Pune
+1208,"12,000",Unfurnished,1,0,2 BHKHouse , Dehu Phata ,Pune
+1209,"4,500",Unfurnished,1,0,1 BHKHouse , Manjari Budruk ,Pune
+1210,"35,000",Furnished,2,0,2 BHKHouse , Kasba Peth ,Pune
+1211,"6,000",Unfurnished,2,0,2 BHKHouse , Mahalunge ,Pune
+1212,"25,000",Unfurnished,2,0,2 BHK Builder Floor ," Pimple Nilakh, Pimpri Chinchwad ",Pune
+1213,"4,000",Unfurnished,1,0,1 BHKHouse , Manjari BK ,Pune
+1214,"12,500",Unfurnished,2,0,2 BHK Apartment , Vikas Nagar Dehu Road ,Pune
+1215,"6,500",Unfurnished,0,0,Studio Apartment , Anand Nagar ,Pune
+1216,"13,000",Semi-Furnished,1,0,2 BHK Apartment , Kondhwa BK ,Pune
+1217,"9,000",Unfurnished,2,0,2 BHK Apartment , Pirangut ,Pune
+1218,"6,500",Semi-Furnished,1,1,1 BHK Apartment , Chakan ,Pune
+1219,"9,000",Unfurnished,1,0,1 BHK Builder Floor , Dehu Road ,Pune
+1220,"7,000",Semi-Furnished,1,0,1 BHK Apartment ," namrata eco city, Talegaon Dabhade ",Pune
+1221,"9,000",Unfurnished,2,0,2 BHKHouse ," Mamurdi, Dehu Road ",Pune
+1222,"24,500",Semi-Furnished,2,0,2 BHK Apartment , Sailashree Vihar ,Pune
+1223,"10,000",Unfurnished,1,0,1 BHK Apartment , Bhawani Peth ,Pune
+1224,"12,000",Semi-Furnished,1,0,2 BHK Builder Floor , Dhayari ,Pune
+1225,"15,000",Semi-Furnished,2,1,2 BHK Builder Floor , Sukhsagar Nagar Katraj ,Pune
+1226,"8,000",Unfurnished,1,0,2 BHKHouse , Manjari Budruk ,Pune
+1227,"7,500",Unfurnished,1,0,1 BHKHouse , Dighi ,Pune
+1228,"20,000",Unfurnished,2,1,3 BHK Builder Floor , Mahalunge ,Pune
+1229,"10,000",Semi-Furnished,1,1,1 BHK Builder Floor , Katraj ,Pune
+1230,"14,000",Unfurnished,2,0,2 BHKHouse , khambe gaon pune ,Pune
+1231,"22,000",Semi-Furnished,1,0,2 BHK Apartment , Parvati Paytha ,Pune
+1232,"8,000",Semi-Furnished,1,0,1 BHK Builder Floor , Narhe ,Pune
+1233,"16,000",Furnished,2,0,2 BHK Apartment , Dhayari ,Pune
+1234,"5,500",Unfurnished,1,0,1 BHK Apartment , Ambegaon BK ,Pune
+1235,"7,000",Unfurnished,1,0,1 BHK Apartment , Bhekrai Nagar ,Pune
+1236,"22,000",Furnished,2,0,2 BHK Apartment ," Bopodi, Old Mumbai -Highway ",Pune
+1237,"4,000",Unfurnished,1,0,1 BHKHouse ," Talegaon Dabhade, ",Pune
+1238,"5,000",Semi-Furnished,1,0,1 BHKHouse , Pimpri Chinchwad ,Pune
+1239,"30,000",Furnished,1,2,2 BHK Builder Floor , Shukrawar Peth ,Pune
+1240,"10,000",Unfurnished,1,1,2 BHKHouse , Wadgaon Sheri ,Pune
+1241,"11,000",Unfurnished,2,0,2 BHK Apartment ," Kavya Karambhumi Park , Wagholi ",Pune
+1242,"6,000",Unfurnished,1,0,1 BHKHouse ," Hadapsar, ",Pune
+1243,"11,000",Semi-Furnished,1,0,1 BHK Apartment , Hadapsar ,Pune
+1244,"15,000",Semi-Furnished,2,1,2 BHK Apartment , Moshi ,Pune
+1245,"12,000",Unfurnished,1,0,1 BHKHouse , Wakad ,Pune
+1246,"15,000",Unfurnished,1,0,1 BHK Apartment , Pimpri Chinchwad ,Pune
+1247,"20,000",Semi-Furnished,2,0,3 BHKHouse , Wagholi ,Pune
+1248,"45,000",Semi-Furnished,3,1,3 BHKHouse , Wagholi ,Pune
+1249,"16,000",Semi-Furnished,1,1,2 BHK Builder Floor , Talegaon Dabhade ,Pune
+1250,"13,000",Unfurnished,2,0,2 BHK Apartment , ,Pune
+1251,"13,000",Unfurnished,2,0,1 BHK Apartment , Katraj Kondhwa Road ,Pune
+1252,"8,500",Semi-Furnished,1,0,1 BHKHouse , Chikhali Pimpri Chinchwad ,Pune
+1253,"10,700",Unfurnished,1,0,1 BHK Apartment , Datta Nagar Dighi ,Pune
+1254,"5,000",Unfurnished,1,0,1 BHK Builder Floor , Warje ,Pune
+1255,"8,000",Unfurnished,1,0,1 BHKHouse , Pimpri Chinchwad ,Pune
+1256,"14,500",Semi-Furnished,1,0,1 BHK Builder Floor , Vadgaon Budruk ,Pune
+1257,"11,000",Unfurnished,1,0,1 BHK Builder Floor , Akurdi ,Pune
+1258,"8,000",Unfurnished,2,0,1 BHKHouse , Hadapsar ,Pune
+1259,"8,000",Semi-Furnished,2,0,2 BHK Builder Floor , Wagholi ,Pune
+1260,"8,500",Unfurnished,1,0,1 BHK Apartment ," Chinchwad, Pimpri Chinchwad ",Pune
+1261,"15,000",Unfurnished,2,0,2 BHK Builder Floor , Kalewadi Pimpri Chinchwad ,Pune
+1262,"20,000",Semi-Furnished,2,0,2 BHK Apartment , Katraj ,Pune
+1263,"7,000",Semi-Furnished,0,0,Studio Apartment , Kalas ,Pune
+1264,"18,000",Furnished,1,0,2 BHK Apartment , Khadki ,Pune
+1265,"7,500",Unfurnished,1,1,1 BHK Builder Floor , Undri ,Pune
+1266,"11,000",Semi-Furnished,2,0,2 BHK Builder Floor , Chande ,Pune
+1267,"12,000",Unfurnished,1,0,1 BHKHouse , Kothrud ,Pune
+1268,"15,000",Furnished,1,0,2 BHKHouse , Wadgaon Sheri ,Pune
+1269,"6,000",Unfurnished,1,0,1 BHK Apartment ," Deshmukh Plaza, Damodar Raykar Nagar, Dhayari ",Pune
+1270,"6,000",Unfurnished,1,0,1 BHK Apartment , Mahalunge Ingle ,Pune
+1271,"35,000",Semi-Furnished,3,1,3 BHK Apartment ," Green Acres Housing Society, Salunke Vihar Road ",Pune
+1272,"24,000",Semi-Furnished,2,2,2 BHK Apartment , Charholi BK ,Pune
+1273,"15,000",Unfurnished,1,1,1 BHK Apartment ," Old Sangvi, Pimpri Chinchwad ",Pune
+1274,"15,000",Unfurnished,1,0,1 BHK Apartment , Sunshine Nagar Rahatani near metro hospital ,Pune
+1275,"22,000",Furnished,2,0,2 BHKHouse , Near Prestige point ,Pune
+1276,"10,000",Semi-Furnished,1,0,1 BHK Apartment , Yeravada pune6 ,Pune
+1277,"10,000",Unfurnished,1,0,1 BHK Apartment , Ambegaon Budruk ,Pune
+1278,"6,000",Unfurnished,1,0,1 BHKHouse , ,Pune
+1279,"30,000",Unfurnished,3,0,3 BHKHouse , Charholi Budruk ,Pune
+1280,"6,000",Unfurnished,1,0,1 BHK Builder Floor , Fursungi ,Pune
+1281,"6,500",Unfurnished,1,0,1 BHK Apartment , Katraj ,Pune
+1282,"4,000",Unfurnished,1,0,2 BHKHouse , Wagholi ,Pune
+1283,"12,000",Unfurnished,1,0,1 BHKHouse , Pimpri ,Pune
+1284,"35,000",Unfurnished,2,0,2 BHK Apartment , Hadapsar ,Pune
+1285,"8,500",Unfurnished,1,0,1 BHK Apartment , Vadgaon Budruk ,Pune
+1286,"14,500",Semi-Furnished,1,1,1 BHK Apartment ," Vishrantwadi, Airport Road ",Pune
+1287,"25,000",Semi-Furnished,2,1,2 BHK Apartment , Wakad ,Pune
+1288,"13,000",Unfurnished,1,1,2 BHK Builder Floor ," Pimple Saudagar, Pimpri Chinchwad ",Pune
+1289,"10,000",Unfurnished,1,0,1 BHKHouse ," Chinchwad, Pimpri Chinchwad ",Pune
+1290,"9,000",Unfurnished,1,0,1 BHKHouse , Dhanori ,Pune
+1291,"10,000",Unfurnished,1,0,1 BHK Builder Floor ," Marunji, Hinjawadi ",Pune
+1292,"10,000",Unfurnished,1,0,1 BHKHouse , Dehu ,Pune
+1293,"10,000",Semi-Furnished,1,0,1 BHK Builder Floor , Dhanori Lohegaon Road ,Pune
+1294,"23,000",Unfurnished,2,0,2 BHKHouse , Tingre Nagar ,Pune
+1295,"15,000",Semi-Furnished,1,0,2 BHK Apartment ," Manjari Budruk,  ",Pune
+1296,"8,500",Unfurnished,1,0,1 BHKHouse , Hadapsar ,Pune
+1297,"15,000",Unfurnished,1,0,Studio Apartment , Dhankawadi ,Pune
+1298,"7,000",Unfurnished,1,0,1 BHK Apartment , Khed Shivapur ,Pune
+1299,"12,000",Semi-Furnished,1,0,1 BHK Builder Floor , Hinjawadi ,Pune
+1300,"9,000",Unfurnished,1,0,1 BHK Apartment , Undri ,Pune
+1301,"5,500",Unfurnished,1,0,1 BHK Apartment , Talegaon Dabhade ,Pune
+1302,"14,000",Unfurnished,2,0,2 BHK Apartment , Handewadi ,Pune
+1303,"15,000",Semi-Furnished,2,0,2 BHK Apartment ," Dudulgaon, Alandi ",Pune
+1304,"12,000",Semi-Furnished,2,0,2 BHK Builder Floor , Dhayari ,Pune
+1305,"10,000",Unfurnished,2,0,2 BHK Apartment , Ambegaon BK ,Pune
+1306,"5,000",Unfurnished,1,0,1 BHK Builder Floor , Ambegaon BK ,Pune
+1307,"4,000",Unfurnished,1,0,1 BHKHouse , Katraj ,Pune
+1308,"7,000",Unfurnished,1,0,1 BHKHouse ," Akurdi, Pimpri Chinchwad ",Pune
+1309,"4,000",Unfurnished,1,0,2 BHK Builder Floor , Ambegaon BK ,Pune
+1310,"7,000",Unfurnished,1,0,1 BHKHouse , Rupeenagar ,Pune
+1311,"30,000",Semi-Furnished,3,0,3 BHK Apartment , Wagholi ,Pune
+1312,"20,000",Unfurnished,2,0,2 BHK Apartment , Hadapsar ,Pune
+1313,"14,000",Unfurnished,2,0,Studio Apartment ," Dahanukar Colony, Kothrud ",Pune
+1314,"4,000",Unfurnished,1,0,1 BHKHouse ," Ghule Vasti, Manjri Budruk ",Pune
+1315,"11,000",Semi-Furnished,2,0,2 BHK Apartment ," vastu yog arena, Pisoli ",Pune
+1316,"7,000",Unfurnished,1,0,1 BHK Apartment , Lonikand ,Pune
+1317,"35,000",Semi-Furnished,2,0,2 BHKHouse , Indrayani Nagar Bhosari ,Pune
+1318,"12,000",Unfurnished,2,0,2 BHK Apartment , Kondhwa BK ,Pune
+1319,"12,000",Unfurnished,2,0,2 BHKHouse , Lohegaon ,Pune
+1320,"6,500",Unfurnished,1,0,1 BHKHouse , Lohegaon ,Pune
+1321,"13,700",Unfurnished,2,1,2 BHK Apartment , Narhe ,Pune
+1322,"7,000",Unfurnished,1,0,1 BHKHouse , Pimpri Colony ,Pune
+1323,"4,000",Unfurnished,1,0,1 BHK Apartment , Balaji Nagar ,Pune
+1324,"8,000",Unfurnished,1,0,1 BHKHouse , Wadgaon Sheri ,Pune
+1325,"10,000",Unfurnished,1,0,1 BHK Apartment ," Yerawada, Airport Road ",Pune
+1326,"25,000",Semi-Furnished,2,2,2 BHKHouse ," Sahil Heights, Pimple Nilakh, Pimpri Chinchwad ",Pune
+1327,"12,500",Semi-Furnished,1,0,1 BHK Apartment ," Hajari Corner Apartment, Guruwar Peth ",Pune
+1328,"55,000",Unfurnished,3,2,3 BHK Apartment ," Mayfair Court, Baner ",Pune
+1329,150000,Furnished,3,3,4 BHKHouse ," Chinchwad, Pimpri Chinchwad ",Pune
+1330,"18,000",Semi-Furnished,1,1,1 BHK Apartment ," Jhala Society, Karve Road ",Pune
+1331,"10,000",Furnished,1,0,1 BHK Apartment , Wagholi Road ,Pune
+1332,"10,000",Unfurnished,1,0,1 BHK Apartment ," Nagpur Chal, Yerawada ",Pune
+1333,"8,500",Unfurnished,2,2,2 BHK Builder Floor ," The Blue Plaques, Somatne Phata ",Pune
+1334,350000,Semi-Furnished,6,3,4 BHK Apartment ," Verde Residence collection, Kalyani Nagar ",Pune
+1335,"16,000",Unfurnished,2,2,2 BHK Apartment ," Kamalraj Hari Dwar, Dighi ",Pune
+1336,"18,000",Semi-Furnished,1,1,1 BHK Apartment ," Ganga Hill Shire, Wageshwar Nagar ",Pune
+1337,"30,000",Furnished,3,0,3 BHKHouse , Dhankawadi ,Pune
+1338,"12,000",Unfurnished,2,0,3 BHK Apartment ," Mamurdi, Dehu Road ",Pune
+1339,"21,000",Furnished,2,1,1 BHK Apartment ," Oxy Ultima, Kalubai Nagar Wagholi ",Pune
+1340,"55,000",Semi-Furnished,4,0,4 BHK Apartment ," Mangal Upvan , Chinchwad, Pimpri Chinchwad ",Pune
+1341,"20,000",Semi-Furnished,2,0,2 BHK Apartment ," VTP Belair, Mahalunge ",Pune
+1342,"15,000",Unfurnished,1,0,1 BHKHouse , Dhanori ,Pune
+1343,"23,000",Furnished,2,0,2 BHK Apartment ," Fifth Avenue, Sai Colony Hadapsar ",Pune
+1344,"5,000",Semi-Furnished,2,0,2 BHKHouse , Vadgaon ,Pune
+1346,"45,000",Furnished,2,1,2 BHK Apartment ," Ganga Hamlet, Viman Nagar ",Pune
+1347,"7,000",Semi-Furnished,1,1,1 BHK Apartment , Dehu Road ,Pune
+1348,"18,000",Semi-Furnished,1,0,1 BHK Apartment , Sadashiv Peth ,Pune
+1349,"7,000",Unfurnished,1,0,1 BHK Apartment , Charholi Kurd ,Pune
+1350,"16,000",Unfurnished,1,0,1 BHKHouse , Wadgaon Sheri ,Pune
+1351,"25,000",Unfurnished,1,0,1 BHK Builder Floor , Baner ,Pune
+1352,"3,800",Unfurnished,1,0,1 BHKHouse , Wagholi ,Pune
+1353,"20,000",Semi-Furnished,2,0,3 BHK Apartment , Kondhwa ,Pune
+1354,"18,000",Furnished,2,0,2 BHK Apartment , Warje ,Pune
+1355,"6,000",Unfurnished,2,0,1 BHK Builder Floor , Shivane ,Pune
+1356,"25,000",Unfurnished,2,0,2 BHK Apartment , Maan ,Pune
+1357,"20,000",Semi-Furnished,1,0,1 BHK Builder Floor , Erandwane ,Pune
+1358,"10,000",Semi-Furnished,1,0,1 BHKHouse , Wagholi ,Pune
+1359,"3,500",Unfurnished,1,0,1 BHKHouse , Hadapsar ,Pune
+1360,"25,000",Unfurnished,2,0,2 BHK Apartment , Hinjawadi ,Pune
+1361,"70,000",Furnished,3,2,3 BHK Apartment ," Lunkad Amazon, Viman Nagar ",Pune
+1362,"16,000",Unfurnished,2,1,2 BHK Apartment , Jai ganesh housing society  chawdhari vasti khardi pune nagar bypass ,Pune
+1363,"17,000",Semi-Furnished,1,0,1 BHK Apartment , Somwar Peth ,Pune
+1364,"23,000",Semi-Furnished,3,0,3 BHK Apartment , Saarrthi Souvenir Mhalunge ,Pune
+1365,"4,000",Semi-Furnished,2,1,2 BHKHouse , Aundh ,Pune
+1366,"12,000",Semi-Furnished,2,0,1 BHK Apartment , Amanora park town Hadapsar ,Pune
+1367,"15,000",Unfurnished,2,0,2 BHK Builder Floor ," Jai Ganesh, Sukhsagar Nagar Katraj ",Pune
+1369,"10,000",Unfurnished,1,0,1 BHK Apartment , Dugard niwas ,Pune
+1370,"12,000",Semi-Furnished,1,1,1 BHK Builder Floor , Dhanori ,Pune
+1371,"8,000",Unfurnished,1,1,1 BHK Apartment ," Trimurti Swapngandh, Kolhewadi, Khadakwasla ",Pune
+1372,"9,000",Unfurnished,2,2,2 BHK Apartment , Wagholi ,Pune
+1374,"7,500",Unfurnished,1,1,1 BHKHouse ," Kalika Kand Nagar, Wagholi ",Pune
+1375,"12,000",Unfurnished,2,0,2 BHK Apartment , Skystartawon bhukum ,Pune
+1376,"19,981",Semi-Furnished,3,0,3 BHK Apartment , Hinjawadi Wakad Road ,Pune
+1377,"60,000",Semi-Furnished,6,2,6 BHKHouse , Bhosari ,Pune
+1378,"12,500",Unfurnished,1,2,2 BHK Apartment , Sukhsagar Nagar Katraj ,Pune
+1379,"10,000",Semi-Furnished,2,1,2 BHKHouse , Wagholi Road ,Pune
+1380,"18,000",Unfurnished,2,1,3 BHK Apartment , Hadapsar ,Pune
+1381,"25,000",Furnished,1,0,1 BHK Apartment , Ok ,Pune
+1382,"15,000",Semi-Furnished,1,0,1 BHK Villa , Dhanori ,Pune
+1383,"6,000",Unfurnished,1,0,2 BHK Builder Floor , ,Pune
+1384,100000,Unfurnished,2,0,2 BHK Apartment , Kharadi ,Pune
+1385,"80,000",Furnished,3,1,3 BHK Apartment ," Lodha Belmondo Ashbridge D E, Gahunje ",Pune
+1386,"6,000",Semi-Furnished,1,1,1 BHKHouse ," Bhairav Nagar, Dhanori ",Pune
+1387,"4,500",Unfurnished,1,1,1 BHK Builder Floor , Loni Kalbhor ,Pune
+1388,"12,000",Semi-Furnished,2,1,2 BHK Apartment ," Dhayari Phata, Dhayari ",Pune
+1389,"12,500",Unfurnished,1,1,1 BHK Apartment ," Ankita Residency, Hadapsar ",Pune
+1390,"9,000",Unfurnished,2,0,2 BHK Apartment , Happyness Hub Khed Shivapur  ,Pune
+1391,"8,000",Semi-Furnished,1,1,1 BHK Apartment , ROKDESHWAR APPARTMENT ,Pune
+1392,"6,500",Unfurnished,1,0,1 BHK Apartment , Anusaya vishwa ,Pune
+1393,"11,500",Furnished,1,0,Studio Apartment , 1076 ,Pune
+1394,"9,000",Unfurnished,1,1,1 BHK Villa , Bapdev Nagar sevy  ,Pune
+1395,"15,000",Unfurnished,2,0,2 BHK Apartment , Pancharatna apartment Fatimanagar ,Pune
+1396,"18,000",Unfurnished,2,1,2 BHK Apartment , wanwadi IBM Classic ,Pune
+1397,"20,000",Unfurnished,2,0,2 BHKHouse ,  International Airport Area ,Pune
+1398,150000,Furnished,4,2,4 BHKHouse ," Vrindavan Housing Society, Panchawati, Pashan ",Pune
+1399,"23,000",Unfurnished,2,2,3 BHK Builder Floor ," Shivam Apartment, Bibwewadi Kondhwa Road ",Pune
+1400,"35,000",Unfurnished,2,2,2 BHK Apartment ," Popular Heights, Koregaon Park Road ",Pune
+1401,"15,000",Semi-Furnished,2,0,2 BHK Builder Floor ," Bhoir Colony, Pimpri Chinchwad ",Pune
+1402,"11,000",Furnished,1,0,2 BHK Builder Floor , Koregaon Park ,Pune
+1403,"6,500",Unfurnished,1,0,1 BHKHouse , Pimpri Chinchwad ,Pune
+1404,"4,500",Unfurnished,1,0,1 BHKHouse , Vadgaon Budruk ,Pune
+1405,"5,200",Unfurnished,1,0,1 BHKHouse , Kalokhe wadi ,Pune
+1406,"2,000",Semi-Furnished,1,0,Studio Apartment , Kondhwa Budruk ,Pune
+1407,"7,000",Unfurnished,1,0,Studio Apartment , Kharadi ,Pune
+1408,"9,500",Unfurnished,1,0,1 BHKHouse , Sinhgad Road ,Pune
+1409,"25,000",Semi-Furnished,2,0,2 BHK Apartment ," Pimple Saudagar, Pimpri Chinchwad ",Pune
+1410,"10,500",Unfurnished,1,0,2 BHK Apartment ," Krishna kunj Apartment, Narhe ",Pune
+1411,"28,000",Semi-Furnished,2,0,2 BHK Apartment , Hinjawadi ,Pune
+1412,"11,000",Unfurnished,1,0,1 BHK Apartment ," Akurdi, Pimpri Chinchwad ",Pune
+1413,"4,000",Unfurnished,1,0,1 BHKHouse , Handewadi ,Pune
+1414,"10,000",Unfurnished,1,0,1 BHKHouse , Fursungi ,Pune
+1415,"20,000",Unfurnished,2,0,2 BHK Apartment , Ravet ,Pune
+1416,"10,000",Unfurnished,2,0,2 BHK Apartment , Chakan ,Pune
+1417,"55,000",Furnished,5,0,5 BHK Builder Floor , Dhankawadi ,Pune
+1418,"11,000",Semi-Furnished,1,0,1 BHK Builder Floor , Ambe Gaon ,Pune
+1419,"9,000",Unfurnished,1,0,1 BHKHouse , Vikas Nagar Road ,Pune
+1420,"23,000",Unfurnished,2,0,2 BHK Apartment , Hinjawadi ,Pune
+1421,"9,500",Semi-Furnished,1,0,1 BHK Builder Floor , Undri ,Pune
+1422,"10,000",Unfurnished,1,0,1 BHKHouse , Wadgaon Sheri ,Pune
+1423,"9,000",Unfurnished,1,0,1 BHK Builder Floor , Dehu Road ,Pune
+1424,"15,000",Unfurnished,2,0,2 BHK Builder Floor , Vadgaon Budruk ,Pune
+1425,"30,000",Semi-Furnished,2,0,3 BHK Apartment ," N B Bhalchandra Upvan Phase II , Tathawade Pimpri Chinchwad ",Pune
+1426,"22,000",Unfurnished,2,0,2 BHK Apartment , Hinjawadi ,Pune
+1427,"5,000",Unfurnished,1,0,1 BHK Builder Floor , Kondhwa ,Pune
+1428,"6,000",Unfurnished,1,0,1 BHKHouse , Wadki ,Pune
+1429,"13,500",Unfurnished,2,0,2 BHK Apartment , Wagholi ,Pune
+1430,"6,000",Unfurnished,1,0,1 BHKHouse ," Manjari Budruk,  ",Pune
+1431,"14,000",Unfurnished,1,0,1 BHKHouse , Ganesh Peth ,Pune
+1432,"6,500",Unfurnished,2,0,Studio Apartment , Kondhwa ,Pune
+1433,"18,000",Semi-Furnished,2,0,2 BHK Apartment , Bhoirwadi ,Pune
+1434,"7,000",Unfurnished,1,0,1 BHKHouse , Dehu Road ,Pune
+1435,"27,000",Semi-Furnished,4,0,4 BHK Villa , Vadgaon Budruk ,Pune
+1436,"4,500",Unfurnished,1,0,1 BHK Builder Floor , Chikhali ,Pune
+1437,"5,000",Unfurnished,1,0,1 BHKHouse , Autadwadi Handewadi ,Pune
+1438,"12,000",Semi-Furnished,2,0,2 BHK Builder Floor , Akurdi ,Pune
+1439,"10,000",Unfurnished,2,0,1 BHK Apartment , Gahunje ,Pune
+1440,"11,000",Furnished,2,1,1 BHK Apartment , Hadapsar ,Pune
+1441,"4,500",Unfurnished,1,0,1 BHKHouse , Dehu ,Pune
+1442,"5,000",Unfurnished,1,0,1 BHK Builder Floor , Kondhwa Budruk ,Pune
+1443,"14,000",Semi-Furnished,2,0,2 BHKHouse , Dhanori ,Pune
+1444,"8,000",Unfurnished,1,0,1 BHKHouse , Moshi ,Pune
+1445,"22,000",Furnished,2,1,1 BHK Apartment , Wagholi ,Pune
+1446,"9,000",Semi-Furnished,1,0,1 BHKHouse , Dhankawadi ,Pune
+1447,"12,000",Unfurnished,1,2,1 BHK Apartment , Dhankawadi ,Pune
+1448,"6,500",Unfurnished,0,0,Studio Apartment , Nerhe ,Pune
+1449,"6,000",Unfurnished,1,1,1 BHK Apartment , Katraj ,Pune
+1450,"12,000",Semi-Furnished,2,0,2 BHK Builder Floor ," Chinchwad, Pimpri Chinchwad ",Pune
+1451,"10,000",Unfurnished,2,1,2 BHK Apartment , Perne ,Pune
+1452,"4,000",Semi-Furnished,1,0,1 BHKHouse , Gokhalenagar ,Pune
+1453,"15,000",Unfurnished,1,0,2 BHKHouse , Tukaram Nagar Kharadi ,Pune
+1454,"4,000",Unfurnished,1,0,1 BHKHouse , ,Pune
+1455,"17,500",Semi-Furnished,2,1,2 BHK Apartment , Wagholi ,Pune
+1456,"10,000",Semi-Furnished,1,1,1 BHK Apartment , Bhekrai Nagar ,Pune
+1457,"40,000",Furnished,4,1,4 BHK Villa , Tingre Nagar ,Pune
+1458,"9,000",Unfurnished,1,0,1 BHKHouse , Mundhwa ,Pune
+1459,"17,000",Furnished,1,0,1 BHK Apartment , Warje ,Pune
+1460,"25,000",Semi-Furnished,1,0,2 BHKHouse , Guruwar Peth ,Pune
+1461,"5,000",Unfurnished,1,0,1 BHK Apartment , Ambegaon Budruk ,Pune
+1462,"12,000",Semi-Furnished,1,0,1 BHK Builder Floor ," Dehu Road cantonment, Dehu Road ",Pune
+1463,"10,000",Unfurnished,1,0,1 BHKHouse , Nighoje ,Pune
+1464,"4,500",Unfurnished,1,0,1 BHKHouse , Hadapsar ,Pune
+1465,"7,000",Unfurnished,1,0,1 BHKHouse , Dehu Road ,Pune
+1466,"20,000",Semi-Furnished,1,0,1 BHK Apartment , Maan ,Pune
+1467,"13,000",Unfurnished,1,0,1 BHK Builder Floor , Anand Nagar ,Pune
+1468,"9,500",Unfurnished,2,0,2 BHK Apartment , Vadgaon Budruk ,Pune
+1469,"10,000",Furnished,1,0,1 BHKHouse , Fursungi ,Pune
+1470,"5,500",Semi-Furnished,1,0,1 BHKHouse , Shikrapur ,Pune
+1471,"16,000",Unfurnished,2,0,2 BHKHouse , Dighi ,Pune
+1472,"7,000",Unfurnished,1,0,Studio Apartment , Sus ,Pune
+1473,"10,000",Unfurnished,2,0,2 BHKHouse , Lohegaon ,Pune
+1474,"10,000",Unfurnished,2,0,2 BHKHouse , Manjari Road ,Pune
+1475,"6,000",Furnished,1,0,Studio Apartment , Wadgaon Budruk ,Pune
+1476,"20,000",Unfurnished,2,0,2 BHK Apartment , Hinjawadi ,Pune
+1477,"15,000",Semi-Furnished,2,0,2 BHK Apartment , Handewadi ,Pune
+1478,"11,000",Unfurnished,2,0,2 BHK Apartment , Ambegaon BK ,Pune
+1479,"15,000",Unfurnished,2,0,2 BHK Apartment , Kondhwa Budruk ,Pune
+1480,"12,000",Unfurnished,1,0,2 BHK Builder Floor , Bhosari ,Pune
+1481,"15,000",Semi-Furnished,1,0,1 BHK Apartment , Ganesh Peth ,Pune
+1482,"18,000",Unfurnished,2,0,3 BHK Apartment ," Dudulgaon, Alandi ",Pune
+1483,"31,000",Furnished,2,0,2 BHK Apartment ," spirea, Wakad ",Pune
+1484,"6,000",Unfurnished,1,0,Studio Apartment , Keshav Nagar Mundhwa ,Pune
+1485,"15,000",Semi-Furnished,1,0,1 BHK Apartment , NIBM ,Pune
+1486,"15,000",Semi-Furnished,1,0,1 BHK Builder Floor ," Swargate, Shivaji Road ",Pune
+1487,"8,500",Unfurnished,1,0,1 BHKHouse , Lohegaon ,Pune
+1488,"27,000",Semi-Furnished,2,0,2 BHK Apartment , Wakad ,Pune
+1489,"20,000",Unfurnished,2,0,2 BHK Apartment ," Shrey Paradise, Dhanori ",Pune
+1490,"12,500",Semi-Furnished,1,1,1 BHK Apartment , Charholi Budruk ,Pune
+1491,"3,500",Unfurnished,1,0,1 BHKHouse , Shikrapur ,Pune
+1492,"23,000",Furnished,2,1,2 BHK Apartment , Mohammed Wadi ,Pune
+1493,"16,000",Semi-Furnished,1,0,2 BHK Apartment ," Chinchwad, Pimpri Chinchwad ",Pune
+1494,"11,000",Unfurnished,1,0,2 BHKHouse , Katraj ,Pune
+1495,"10,000",Unfurnished,1,0,2 BHKHouse ," Dhaygude Wada, Aundh ",Pune
+1496,"8,000",Unfurnished,0,0,Studio Apartment , Somwar Peth ,Pune
+1497,"20,000",Semi-Furnished,3,1,3 BHK Apartment ," Ravet, Pimpri Chinchwad ",Pune
+1498,"16,000",Unfurnished,2,0,2 BHK Apartment , Nanded ,Pune
+1499,"6,000",Semi-Furnished,1,0,1 BHK Villa ," Chinchwad, Pimpri Chinchwad ",Pune

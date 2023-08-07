@@ -1,0 +1,1483 @@
+,price,Furnishing,Bathroom,Balcony,bhk,locality,City
+0,"65,000",Semi-Furnished,3,1,3 BHK Flat," Egmore, ",Chennai
+1,"27,000",Semi-Furnished,1,0,3 BHK Flat," T Nagar, ",Chennai
+2,300000,Semi-Furnished,4,1,4 BHKHouse , Alwarpet ,Chennai
+3,"18,000",Semi-Furnished,3,1,3 BHK Flat," Siruseri, ",Chennai
+4,"25,000",Furnished,3,3,3 BHK Flat," Thirutheri R F, ",Chennai
+5,200000,Unfurnished,4,4,4 BHKHouse , Boat Club Road ,Chennai
+6,"17,199",Furnished,2,0,1 BHK Flat," Anna Nagar, ",Chennai
+7,170000,Semi-Furnished,4,1,4 BHK Villa , Egmore ,Chennai
+8,250000,Unfurnished,5,3,5 BHKHouse , Akkarai ,Chennai
+9,"75,000",Semi-Furnished,4,2,4 BHK Flat," Panaiyur, ",Chennai
+10,"40,000",Unfurnished,3,1,3 BHK Flat," Thoraipakkam, ",Chennai
+11,"8,800",Unfurnished,2,1,2 BHKHouse , Thirumullaivoyal ,Chennai
+12,"12,000",Semi-Furnished,3,0,3 BHKHouse , Avadi ,Chennai
+13,"40,000",Unfurnished,2,0,3 BHK Flat," Pallavaram, ",Chennai
+14,"6,500",Furnished,5,0,5 BHKHouse , Navalur ,Chennai
+15,"22,000",Unfurnished,2,1,2 BHK Flat," Durgabai Deshmukh Road, ",Chennai
+16,"4,500",Semi-Furnished,1,0,1 BHK Flat,  ,Chennai
+17,"15,000",Furnished,2,0,3 BHK Flat," Poonamallee, ",Chennai
+18,"13,000",Furnished,2,0,2 BHK Flat," Kelambakkam, ",Chennai
+19,"10,000",Semi-Furnished,2,1,2 BHKHouse , Madambakkam ,Chennai
+20,130000,Furnished,3,1,3 BHK Flat," Adyar, ",Chennai
+21,"28,000",Semi-Furnished,2,1,2 BHK Flat," Saidapet, ",Chennai
+22,"13,500",Semi-Furnished,2,0,2 BHK Flat," Thillaiganga Nagar, ",Chennai
+23,"17,000",Semi-Furnished,2,0,2 BHK Flat," Tambaram Sanatorium, ",Chennai
+24,"8,000",Semi-Furnished,1,0,1 BHKHouse , Taramani ,Chennai
+25,300000,Semi-Furnished,3,1,3 BHK Flat," Santhome, ",Chennai
+26,"23,000",Unfurnished,2,2,2 BHK Flat," Medavakkam, ",Chennai
+27,"35,000",Unfurnished,2,2,3 BHK Villa , Virugambakkam ,Chennai
+28,"52,000",Unfurnished,3,0,3 BHK Villa , Old Mahabalipuram Road  ,Chennai
+29,120000,Furnished,5,3,4 BHK Flat," East Coast Road, ",Chennai
+30,"60,000",Furnished,3,1,3 BHK Apartment , Oragadam ,Chennai
+31,160000,Semi-Furnished,3,1,4 BHK Villa , East Coast Road ,Chennai
+32,"30,000",Furnished,4,2,4 BHKHouse , Moulivakkam ,Chennai
+33,"42,000",Semi-Furnished,2,1,3 BHK Apartment , T Nagar ,Chennai
+34,"14,500",Semi-Furnished,2,1,2 BHK Builder Floor , Iyyappanthangal ,Chennai
+35,"25,000",Semi-Furnished,2,2,3 BHK Apartment , Madipakkam ,Chennai
+36,"8,000",Unfurnished,1,1,1 BHK Apartment , Maraimalai Nagar ,Chennai
+37,"11,000",Furnished,2,1,3 BHK Apartment , Kalavakkam ,Chennai
+38,"28,000",Furnished,2,2,3 BHK Apartment , Padur ,Chennai
+39,"15,000",Unfurnished,2,1,2 BHK Apartment , Moulivakkam ,Chennai
+40,"16,000",Unfurnished,2,0,2 BHKHouse , Kattupakkam ,Chennai
+41,"24,000",Semi-Furnished,3,0,2 BHK Apartment , Secretariat Colony Purasaiwakkam ,Chennai
+42,"35,000",Semi-Furnished,3,0,3 BHKHouse , Neelankarai ,Chennai
+43,"14,000",Furnished,2,1,2 BHK Apartment , Adyar ,Chennai
+44,"80,000",Semi-Furnished,4,2,4 BHK Apartment , Navalur ,Chennai
+45,"8,000",Unfurnished,2,0,2 BHK Builder Floor , Thirumullaivoyal ,Chennai
+46,"12,000",Unfurnished,2,0,2 BHK Builder Floor , Poonamallee ,Chennai
+47,"8,500",Unfurnished,1,0,2 BHKHouse , Medavakkam ,Chennai
+48,"48,000",Semi-Furnished,4,2,4 BHKHouse , Karapakkam ,Chennai
+49,"18,500",Semi-Furnished,2,0,2 BHK Apartment , Thazhambur ,Chennai
+50,150000,Semi-Furnished,4,0,4 BHKHouse , Perambur ,Chennai
+51,"30,000",Furnished,2,2,2 BHK Apartment , Kelambakkam ,Chennai
+52,"15,000",Unfurnished,2,0,2 BHKHouse , Moovarasampettai ,Chennai
+53,"13,000",Semi-Furnished,2,0,2 BHKHouse , Shanmuga Nagar Pozhichalur ,Chennai
+54,"20,000",Semi-Furnished,2,1,2 BHKHouse , Mount Road ,Chennai
+55,"46,000",Semi-Furnished,3,1,5 BHKHouse , Alagiri Nagar ,Chennai
+56,"19,000",Semi-Furnished,2,1,2 BHKHouse , TNHB Nolambur ,Chennai
+57,"35,000",Semi-Furnished,2,1,3 BHK Apartment , Perungalathur ,Chennai
+58,"25,000",Semi-Furnished,2,0,2 BHK Apartment , Kelambakkam ,Chennai
+59,"45,000",Semi-Furnished,3,3,3 BHK Apartment , Pallavaram ,Chennai
+60,100000,Unfurnished,1,1,1 BHKHouse , Kuthanur ,Chennai
+61,"13,500",Unfurnished,2,1,2 BHK Builder Floor , Poonamallee High Road ,Chennai
+62,"13,000",Semi-Furnished,2,0,2 BHK Villa , Kattupakkam ,Chennai
+63,"12,000",Unfurnished,2,0,2 BHKHouse , Chikkarayapuram ,Chennai
+64,"29,000",Semi-Furnished,3,2,2 BHK Apartment , Sholinganallur ,Chennai
+65,"50,000",Furnished,2,2,2 BHK Apartment , Anna Nagar ,Chennai
+66,"25,000",Unfurnished,2,2,3 BHK Apartment , New Colony Chromepet ,Chennai
+67,"10,000",Unfurnished,1,1,1 BHK Apartment , Govindarajapuram ,Chennai
+68,"38,000",Semi-Furnished,4,2,5 BHKHouse , Athipet ,Chennai
+69,120000,Furnished,3,2,3 BHK Apartment , Kotturpuram ,Chennai
+70,150000,Semi-Furnished,4,2,3 BHK Apartment , Boat Club Road ,Chennai
+71,"55,000",Semi-Furnished,4,2,3 BHK Apartment , Navalur ,Chennai
+72,"65,000",Semi-Furnished,3,2,3 BHK Apartment , Nungambakkam ,Chennai
+73,400000,Semi-Furnished,4,2,4 BHKHouse , Akkarai ,Chennai
+74,"24,000",Unfurnished,2,4,2 BHK Apartment , Kilpauk ,Chennai
+75,"18,000",Semi-Furnished,2,2,3 BHK Apartment , Kelambakkam ,Chennai
+76,"35,000",Unfurnished,2,1,2 BHK Apartment , Mylapore ,Chennai
+77,"70,000",Semi-Furnished,3,3,3 BHK Apartment , Egmore ,Chennai
+78,"40,000",Semi-Furnished,3,1,3 BHK Builder Floor , Kottivakkam ,Chennai
+79,"70,000",Semi-Furnished,4,2,3 BHK Apartment , Anna Nagar West ,Chennai
+80,220000,Furnished,5,3,4 BHKHouse , Akkarai ,Chennai
+81,"45,000",Furnished,3,1,3 BHK Apartment , Kalakshetra Colony ,Chennai
+82,120000,Furnished,2,1,2 BHK Apartment , MRC Nagar ,Chennai
+83,"30,000",Semi-Furnished,2,0,2 BHK Apartment , SIDCO Industrial Estate Guindy ,Chennai
+84,"55,000",Semi-Furnished,3,2,3 BHK Apartment , Sterling Road ,Chennai
+85,"20,000",Furnished,2,1,3 BHK Apartment , Kelambakkam ,Chennai
+86,"45,000",Semi-Furnished,2,1,2 BHK Apartment , Jamaliya Nagar Perambur ,Chennai
+87,"23,000",Semi-Furnished,3,1,3 BHKHouse , Pallavaram ,Chennai
+88,"20,000",Semi-Furnished,3,3,3 BHK Apartment , Thirumullaivoyal ,Chennai
+89,150000,Semi-Furnished,3,1,3 BHK Apartment , Adyar ,Chennai
+90,"11,000",Semi-Furnished,2,1,2 BHKHouse , Madambakkam ,Chennai
+91,"40,000",Semi-Furnished,4,1,4 BHK Villa , GR Nagar Ramapuram ,Chennai
+92,"12,875",Semi-Furnished,2,0,2 BHK Apartment , Mogappair West Ambattur Industrial Estate ,Chennai
+93,"35,000",Furnished,2,1,3 BHK Apartment , Poonamallee ,Chennai
+94,"48,000",Semi-Furnished,3,2,3 BHK Apartment , Egattur ,Chennai
+95,"16,000",Unfurnished,2,1,3 BHKHouse , Old Pallavaram ,Chennai
+96,"28,000",Unfurnished,2,1,1 BHK Apartment , Kilpauk ,Chennai
+97,"35,000",Semi-Furnished,2,1,3 BHK Apartment , Korattur ,Chennai
+98,"28,000",Unfurnished,2,0,2 BHK Apartment ," Harrington Road,  ",Chennai
+99,300000,Semi-Furnished,4,4,4 BHKHouse , Mylapore ,Chennai
+100,"7,000",Unfurnished,1,1,Studio Apartment , Mandavelipakkam ,Chennai
+101,"24,000",Semi-Furnished,2,0,2 BHK Apartment , Nandanam ,Chennai
+102,"85,000",Semi-Furnished,3,0,3 BHK Apartment , Kotturpuram ,Chennai
+103,130000,Furnished,4,3,3 BHK Villa , East Coast Road ,Chennai
+104,"15,500",Semi-Furnished,2,3,2 BHK Builder Floor , Rajaji Nagar Villivakkam ,Chennai
+105,"6,000",Unfurnished,1,1,1 BHKHouse , Railway Colony Aminjikarai ,Chennai
+106,"15,000",Semi-Furnished,1,0,2 BHK Apartment , Sri Ayyappa Nagar Stage II Chinmaya Nagar stage 1 ,Chennai
+107,"30,000",Unfurnished,3,3,3 BHK Apartment , Tondiarpet ,Chennai
+108,"15,000",Semi-Furnished,2,1,2 BHK Apartment , Velachery ,Chennai
+109,"9,500",Unfurnished,1,0,2 BHK Apartment , Pammal ,Chennai
+110,"50,000",Furnished,3,0,4 BHK Villa ," Alliance Bougainville society   , iyyappanthangal ",Chennai
+111,"8,500",Semi-Furnished,1,0,1 BHK Apartment , Rajakilpakkam ,Chennai
+112,"12,000",Semi-Furnished,3,0,2 BHKHouse , Vinayakapuram Lakshmipuram ,Chennai
+113,"15,000",Semi-Furnished,2,0,2 BHKHouse , Madhavaram ,Chennai
+114,"11,000",Semi-Furnished,2,0,2 BHK Apartment , Ambattur ,Chennai
+115,"15,000",Unfurnished,2,2,2 BHK Builder Floor , Villivakkam ,Chennai
+116,"6,500",Furnished,1,0,1 BHK Builder Floor , Karapakkam ,Chennai
+117,"20,000",Unfurnished,1,1,1 BHK Apartment , Virugambakkam ,Chennai
+118,"15,000",Furnished,1,0,1 BHKHouse , Saidapet ,Chennai
+119,"22,000",Semi-Furnished,2,1,Studio Apartment , Annanagar East ,Chennai
+120,"30,000",Semi-Furnished,3,1,3 BHKHouse , Sembakkam ,Chennai
+121,"25,000",Semi-Furnished,2,0,2 BHK Apartment , Porur ,Chennai
+123,"22,000",Semi-Furnished,3,0,3 BHKHouse , Madambakkam ,Chennai
+124,"17,000",Semi-Furnished,2,1,2 BHK Apartment , Vadapalani ,Chennai
+125,"15,000",Unfurnished,3,1,3 BHK Villa , Padapai ,Chennai
+126,"12,000",Semi-Furnished,2,1,2 BHK Apartment , Mehta Nagar Kundrathur ,Chennai
+127,"60,000",Furnished,4,2,5 BHK Builder Floor , Jamalia Nagar ,Chennai
+128,"20,000",Furnished,3,0,3 BHK Builder Floor , Anakaputhur ,Chennai
+129,"25,000",Unfurnished,3,1,3 BHK Villa , Vada Nemmeli ,Chennai
+130,"85,000",Semi-Furnished,4,2,4 BHK Villa , Saidapet ,Chennai
+131,"22,000",Semi-Furnished,3,1,3 BHKHouse , Avadi ,Chennai
+132,"15,000",Unfurnished,2,0,2 BHKHouse , Vilangadupakkam ,Chennai
+133,"15,000",Unfurnished,2,0,2 BHKHouse , Vinayakapuram Lakshmipuram ,Chennai
+134,"30,000",Furnished,2,2,2 BHK Apartment , Mugalivakkam ,Chennai
+135,"10,000",Unfurnished,1,1,1 BHK Apartment , Thirumazhisai ,Chennai
+136,"35,000",Unfurnished,3,2,3 BHK Apartment , Perungalathur ,Chennai
+137,"25,000",Semi-Furnished,3,0,3 BHK Villa , Thazhambur ,Chennai
+138,"30,500",Unfurnished,1,1,1 BHK Apartment , Egmore ,Chennai
+139,"11,000",Unfurnished,2,2,2 BHKHouse , Pattabiram ,Chennai
+140,"9,000",Semi-Furnished,2,1,2 BHK Apartment , Kolathur ,Chennai
+141,"20,000",Semi-Furnished,3,0,3 BHKHouse , Rajakilpakkam ,Chennai
+142,"18,000",Furnished,2,0,2 BHKHouse , Urapakkam ,Chennai
+143,"15,000",Unfurnished,2,1,2 BHK Apartment , Gowriwakkam ,Chennai
+144,"7,000",Unfurnished,1,1,1 BHK Builder Floor , Mangadu ,Chennai
+145,"5,000",Unfurnished,1,1,1 BHKHouse , Surapet ,Chennai
+146,"14,000",Semi-Furnished,2,1,3 BHKHouse , Mathur ,Chennai
+147,"50,000",Furnished,3,1,3 BHK Apartment , Old Mahabalipuram Road  ,Chennai
+148,"18,000",Semi-Furnished,3,0,3 BHKHouse , Valarpuram ,Chennai
+149,300000,Semi-Furnished,5,2,4 BHKHouse , Uthandi ,Chennai
+150,150000,Semi-Furnished,4,2,3 BHK Apartment , RA Puram ,Chennai
+151,"75,000",Furnished,4,1,3 BHK Villa , Sriperumbudur ,Chennai
+152,"52,000",Unfurnished,4,1,4 BHK Villa , Collectors Nagar Alandur ,Chennai
+153,"35,000",Semi-Furnished,4,2,3 BHK Apartment , Kelambakkam ,Chennai
+154,"12,500",Semi-Furnished,2,1,2 BHKHouse , Karapakkam ,Chennai
+155,"70,000",Semi-Furnished,3,2,3 BHK Builder Floor , Kothari Road ,Chennai
+156,"16,000",Semi-Furnished,2,2,2 BHKHouse , Perambur ,Chennai
+157,"75,000",Unfurnished,3,2,3 BHK Apartment , Egmore ,Chennai
+158,"28,600",Semi-Furnished,2,0,2 BHK Apartment , Vadapalani ,Chennai
+159,"38,000",Semi-Furnished,3,2,3 BHK Villa , Sithalapakkam ,Chennai
+160,"17,000",Unfurnished,2,1,2 BHKHouse , Chetpet ,Chennai
+161,"15,000",Semi-Furnished,2,0,2 BHKHouse , Madambakkam ,Chennai
+162,"8,500",Unfurnished,1,0,1 BHKHouse , Ambattur ,Chennai
+163,"58,000",Semi-Furnished,4,0,4 BHKHouse , Adyar ,Chennai
+164,"11,000",Unfurnished,2,0,2 BHK Apartment , Pammal ,Chennai
+165,"80,000",Semi-Furnished,3,1,3 BHK Apartment , Nungambakkam ,Chennai
+166,"2,500",Furnished,1,0,2 BHK Apartment , Padi ,Chennai
+167,"40,000",Semi-Furnished,3,3,3 BHK Apartment , KK Nagar West ,Chennai
+168,"20,000",Unfurnished,2,1,2 BHKHouse , Union Carbide Colony Tirusulam ,Chennai
+169,"60,000",Semi-Furnished,3,3,3 BHK Apartment , Adyar ,Chennai
+170,"16,000",Semi-Furnished,2,1,3 BHK Builder Floor , Selaiyur ,Chennai
+171,"8,000",Unfurnished,1,1,1 BHK Builder Floor , Arumbakkam ,Chennai
+172,"8,000",Unfurnished,2,1,1 BHKHouse , Kodungaiyur ,Chennai
+173,"23,000",Furnished,2,0,2 BHK Apartment , Tondiarpet ,Chennai
+174,"12,500",Semi-Furnished,1,0,2 BHKHouse , Madipakkam ,Chennai
+175,"20,000",Semi-Furnished,1,0,1 BHK Apartment , Grand Southern Trunk Road ,Chennai
+176,"11,000",Semi-Furnished,2,0,2 BHKHouse , Pammal ,Chennai
+177,"30,000",Unfurnished,3,1,3 BHKHouse , Sembakkam ,Chennai
+178,"8,500",Semi-Furnished,1,0,1 BHKHouse , Jalladianpet ,Chennai
+179,"25,000",Unfurnished,3,0,3 BHKHouse , Valasaravakkam ,Chennai
+180,"10,000",Unfurnished,1,0,1 BHKHouse , Kilpauk ,Chennai
+181,"20,000",Unfurnished,3,1,3 BHKHouse , Vigneshwara Nagar Tharapakkam ,Chennai
+182,"75,000",Furnished,2,1,2 BHK Apartment , Manapakkam ,Chennai
+183,"28,000",Unfurnished,3,1,3 BHK Villa , Ramapuram ,Chennai
+184,"30,000",Semi-Furnished,3,3,3 BHK Apartment , Semmancheri ,Chennai
+185,"37,000",Semi-Furnished,3,1,3 BHK Builder Floor , TNGO Colony Adambakkam ,Chennai
+186,"36,000",Semi-Furnished,3,2,3 BHK Apartment , Ponneri ,Chennai
+187,"30,000",Unfurnished,3,1,3 BHK Apartment , Moolakadai ,Chennai
+188,"14,000",Unfurnished,2,2,3 BHK Builder Floor , Sudharsan Nagar ,Chennai
+189,"13,500",Semi-Furnished,1,1,2 BHKHouse , Sri Sai Nagar ,Chennai
+190,"30,000",Unfurnished,3,1,4 BHKHouse , Park Town ,Chennai
+191,"29,000",Unfurnished,2,0,2 BHK Apartment , Kolathur ,Chennai
+192,"25,000",Semi-Furnished,2,1,3 BHK Apartment , Kandigai ,Chennai
+193,"20,000",Unfurnished,2,0,3 BHKHouse , Valasaravakkam ,Chennai
+194,"11,000",Semi-Furnished,2,0,2 BHK Builder Floor , Thirumullaivoyal ,Chennai
+195,"14,000",Semi-Furnished,2,0,2 BHK Builder Floor , Valasaravakkam ,Chennai
+196,"55,000",Semi-Furnished,3,2,3 BHK Apartment , Thoraipakkam ,Chennai
+197,"12,750",Semi-Furnished,2,1,3 BHK Apartment , Sachidananda Puram ,Chennai
+198,"18,000",Semi-Furnished,2,1,2 BHKHouse , Nanganallur ,Chennai
+199,"21,000",Furnished,2,1,2 BHK Apartment , Poonamallee ,Chennai
+200,"25,000",Semi-Furnished,3,1,3 BHK Builder Floor , Poompuhar Nagar Kolathur ,Chennai
+201,"33,000",Semi-Furnished,3,1,3 BHK Builder Floor , Valasaravakkam ,Chennai
+202,"10,000",Unfurnished,2,0,2 BHK Builder Floor , Kattupakkam ,Chennai
+203,"55,000",Semi-Furnished,3,1,4 BHK Apartment , Alwarpet ,Chennai
+204,250000,Semi-Furnished,4,1,4 BHK Apartment , Srinagar Colony Saidapet ,Chennai
+205,"50,000",Semi-Furnished,5,2,4 BHK Apartment , Iyyappanthangal ,Chennai
+206,"18,000",Semi-Furnished,3,0,3 BHKHouse , Madhavaram ,Chennai
+207,"16,500",Semi-Furnished,2,0,2 BHKHouse , Mogappair West Ambattur Industrial Estate ,Chennai
+208,"11,500",Unfurnished,2,2,2 BHKHouse , Avadi ,Chennai
+209,"12,000",Unfurnished,2,1,2 BHKHouse , Peravallur ,Chennai
+210,"25,000",Unfurnished,2,1,2 BHKHouse , Aminjikarai ,Chennai
+211,"35,000",Semi-Furnished,4,3,4 BHK Villa , Tambaram West Tambaram ,Chennai
+212,"27,000",Unfurnished,2,0,3 BHK Builder Floor , Muthamizh Nagar Kodungaiyur ,Chennai
+213,630000,Semi-Furnished,5,2,6 BHK Villa , Adyar ,Chennai
+214,100000,Semi-Furnished,4,2,4 BHK Apartment , Subba Road Avenue Nungambakkam ,Chennai
+215,"75,000",Semi-Furnished,3,1,3 BHK Apartment , Mylapore ,Chennai
+216,"12,000",Semi-Furnished,2,0,2 BHKHouse , Veppambaattu ,Chennai
+217,"11,000",Semi-Furnished,1,1,1 BHK Apartment , Pallikaranai ,Chennai
+218,"37,000",Semi-Furnished,3,1,3 BHK Apartment , Anna Nagar West ,Chennai
+219,"60,000",Semi-Furnished,3,3,3 BHK Apartment , MRC Nagar ,Chennai
+220,"50,000",Semi-Furnished,3,1,3 BHK Apartment , Thoraipakkam ,Chennai
+221,"30,000",Semi-Furnished,2,1,2 BHK Apartment , Sholinganallur ,Chennai
+222,"10,000",Unfurnished,1,1,Studio Apartment , Thiruvanmiyur ,Chennai
+223,120000,Semi-Furnished,3,2,3 BHK Apartment , Kotturpuram ,Chennai
+224,"75,000",Semi-Furnished,3,2,3 BHK Apartment , Alwarpet ,Chennai
+225,260000,Furnished,4,2,4 BHKHouse , RA Puram ,Chennai
+226,"20,000",Semi-Furnished,1,1,1 BHK Apartment , T Nagar ,Chennai
+227,"45,000",Semi-Furnished,3,2,3 BHK Apartment , Pallavaram ,Chennai
+228,"75,000",Unfurnished,3,2,3 BHK Apartment , Mylapore ,Chennai
+229,110000,Semi-Furnished,4,3,3 BHK Builder Floor , RA Puram ,Chennai
+230,"15,000",Unfurnished,5,1,3 BHKHouse , Anakaputhur ,Chennai
+231,"15,000",Unfurnished,2,1,2 BHK Apartment , Madambakkam ,Chennai
+232,"14,000",Unfurnished,1,1,2 BHK Builder Floor , Ayanavaram ,Chennai
+233,"19,000",Unfurnished,3,2,3 BHK Apartment , Old Mahabalipuram Road  ,Chennai
+234,"25,000",Unfurnished,3,1,3 BHK Villa , Mugalivakkam ,Chennai
+235,"60,000",Semi-Furnished,3,1,3 BHK Apartment , Anna Nagar ,Chennai
+236,130000,Semi-Furnished,3,3,3 BHKHouse , Pondy Bazaar ,Chennai
+237,130000,Furnished,3,2,3 BHK Apartment , Saidapet ,Chennai
+238,"80,000",Furnished,3,0,3 BHK Apartment , Anna Nagar ,Chennai
+239,"50,000",Unfurnished,3,1,3 BHK Apartment , Old Mahabalipuram Road  ,Chennai
+240,"65,000",Semi-Furnished,3,0,3 BHK Apartment , Sholinganallur ,Chennai
+241,"16,000",Unfurnished,2,0,2 BHKHouse , Sri Krishna Nagar Maduravoyal ,Chennai
+242,"48,000",Unfurnished,2,0,3 BHK Apartment , T Nagar ,Chennai
+243,"15,000",Unfurnished,1,1,1 BHK Apartment , Nellikuppam Road ,Chennai
+245,"20,000",Semi-Furnished,3,2,3 BHKHouse , Madipakkam ,Chennai
+246,"15,000",Semi-Furnished,3,1,3 BHKHouse , Mudichur ,Chennai
+247,"13,500",Semi-Furnished,3,1,3 BHK Apartment , Srinivasa Nagar Sikkarayapuram ,Chennai
+248,150000,Furnished,5,2,5 BHKHouse , Perumbakkam Main Road ,Chennai
+249,"10,000",Furnished,1,1,1 BHK Builder Floor , Old Perungalathur ,Chennai
+250,"11,500",Unfurnished,2,1,1 BHK Builder Floor , Choolaimedu ,Chennai
+251,"9,000",Unfurnished,1,1,1 BHKHouse , Pattara Vakkam ,Chennai
+252,"57,000",Furnished,4,2,4 BHK Apartment , Porur ,Chennai
+253,"12,500",Semi-Furnished,2,3,2 BHK Apartment , Mel Ayanambakkam Kil Ayanambakkam ,Chennai
+254,"9,000",Unfurnished,1,1,2 BHK Apartment , Mangadu ,Chennai
+255,"9,500",Unfurnished,2,1,2 BHK Apartment , Urapakkam ,Chennai
+256,"15,000",Unfurnished,2,2,3 BHK Builder Floor , Thirumullaivoyal ,Chennai
+257,"15,000",Semi-Furnished,2,1,2 BHK Builder Floor , Triplicane ,Chennai
+258,"8,800",Unfurnished,1,0,2 BHKHouse , Vaishnavi Nagar ,Chennai
+259,"20,000",Semi-Furnished,2,2,2 BHKHouse , Kothari Nagar ,Chennai
+260,"80,000",Unfurnished,3,2,3 BHK Apartment , Nandanam ,Chennai
+261,"75,000",Semi-Furnished,3,2,3 BHK Apartment , Anna Nagar ,Chennai
+262,"45,000",Semi-Furnished,3,2,3 BHK Apartment , Kalakshetra Colony ,Chennai
+263,"75,000",Furnished,3,1,3 BHK Apartment , Kilpauk ,Chennai
+264,"75,000",Semi-Furnished,4,3,4 BHK Apartment , Anna Nagar ,Chennai
+265,"60,000",Semi-Furnished,3,2,3 BHK Apartment , Block H Annanagar East ,Chennai
+266,"30,000",Semi-Furnished,2,1,1 BHK Apartment , Kilpauk ,Chennai
+267,"26,000",Semi-Furnished,3,1,3 BHK Apartment , Thoraipakkam ,Chennai
+268,"30,000",Unfurnished,3,1,3 BHK Builder Floor , Anna Nagar West ,Chennai
+269,180000,Semi-Furnished,3,2,4 BHK Villa , East Abhiramapuram ,Chennai
+270,400000,Semi-Furnished,4,2,4 BHK Apartment , Boat Club Road ,Chennai
+271,"60,000",Semi-Furnished,3,1,3 BHK Apartment , Vadapalani ,Chennai
+272,"35,000",Unfurnished,3,1,3 BHK Apartment , Kodambakkam ,Chennai
+273,"85,000",Unfurnished,4,2,4 BHK Apartment , Porur ,Chennai
+274,"18,000",Unfurnished,2,2,2 BHKHouse , Valasaravakkam ,Chennai
+275,"30,000",Unfurnished,3,1,3 BHK Apartment , Valasaravakkam ,Chennai
+276,"20,000",Semi-Furnished,1,0,1 BHK Apartment , T Nagar ,Chennai
+277,"16,000",Unfurnished,2,1,2 BHK Builder Floor , Thiruporur ,Chennai
+278,180000,Furnished,4,2,4 BHKHouse , Uthandi ,Chennai
+279,300000,Semi-Furnished,5,2,3 BHK Apartment , Boat Club Road ,Chennai
+280,"11,500",Semi-Furnished,2,1,2 BHK Apartment , Nandivaram Guduvancheri ,Chennai
+281,"60,000",Semi-Furnished,3,2,3 BHK Apartment , Kovilambakkam ,Chennai
+282,130000,Semi-Furnished,4,3,4 BHKHouse , Adyar ,Chennai
+283,"65,000",Semi-Furnished,3,2,3 BHK Apartment , Mandaveli ,Chennai
+284,"45,000",Semi-Furnished,2,1,2 BHK Apartment , Cathedral Road ,Chennai
+285,"65,000",Furnished,3,3,3 BHK Apartment , Nungambakkam ,Chennai
+286,"80,000",Semi-Furnished,3,1,3 BHK Apartment , Nungambakkam ,Chennai
+287,"27,000",Semi-Furnished,2,2,2 BHK Apartment , Velachery ,Chennai
+288,120000,Semi-Furnished,3,1,3 BHKHouse , Kasturba Nagar Adyar  ,Chennai
+289,"20,000",Semi-Furnished,4,3,4 BHK Apartment , Old Mahabalipuram Road  ,Chennai
+290,"38,000",Semi-Furnished,3,4,3 BHK Apartment , Thiruvanmiyur ,Chennai
+291,"60,000",Unfurnished,3,1,3 BHK Apartment , New Beach Road ,Chennai
+292,"20,000",Furnished,2,1,2 BHK Apartment , Ramapuram ,Chennai
+293,"40,000",Unfurnished,3,0,3 BHK Apartment , Nungambakkam ,Chennai
+294,"15,000",Semi-Furnished,2,0,2 BHK Apartment , Kil Ayanambakkam ,Chennai
+295,180000,Semi-Furnished,4,3,4 BHK Apartment , Velachery ,Chennai
+296,110000,Unfurnished,3,2,4 BHK Apartment , Kolathur ,Chennai
+297,"27,000",Semi-Furnished,2,2,3 BHK Apartment , Choolaimedu ,Chennai
+298,"7,500",Unfurnished,1,0,1 BHKHouse , Kattupakkam ,Chennai
+299,"20,000",Semi-Furnished,2,0,2 BHKHouse , Thoraipakkam ,Chennai
+300,"14,000",Semi-Furnished,2,0,2 BHK Builder Floor , Perambur ,Chennai
+301,"50,000",Unfurnished,4,1,5 BHKHouse , VGP Shanti Nagar ,Chennai
+302,"10,000",Unfurnished,1,1,1 BHK Builder Floor , Muthu Kumaran Nagar ,Chennai
+303,"27,000",Semi-Furnished,2,1,2 BHK Apartment ," Iyyappanthangal Bus Stop, Iyyappanthangal, PH Road ",Chennai
+304,"8,000",Semi-Furnished,1,0,Studio Apartment , Maraimalai Nagar ,Chennai
+305,"10,000",Unfurnished,1,1,2 BHK Apartment , Mugalivakkam ,Chennai
+306,"25,000",Unfurnished,2,0,3 BHK Apartment , Chromepet ,Chennai
+307,"10,500",Unfurnished,1,0,1 BHKHouse , GKM Colony Kolathur ,Chennai
+308,"85,000",Semi-Furnished,3,0,4 BHK Apartment , Anna Nagar ,Chennai
+309,"8,000",Unfurnished,1,0,1 BHKHouse , Guduvancherry ,Chennai
+310,"11,000",Unfurnished,1,0,1 BHKHouse , Royapettah ,Chennai
+311,"12,500",Semi-Furnished,2,0,2 BHKHouse , Pudur Ambattur ,Chennai
+312,"35,000",Semi-Furnished,5,0,5 BHKHouse , Nesapakkam ,Chennai
+313,"15,000",Semi-Furnished,2,0,2 BHKHouse , Ullagaram Madipakkam ,Chennai
+314,"8,500",Semi-Furnished,1,1,2 BHK Apartment , Urapakkam ,Chennai
+315,120000,Semi-Furnished,3,2,3 BHK Apartment , Adyar ,Chennai
+316,110000,Semi-Furnished,3,2,3 BHK Builder Floor , Annanagar East ,Chennai
+317,"55,000",Unfurnished,3,1,3 BHK Apartment , Anna Nagar ,Chennai
+318,"65,000",Semi-Furnished,2,2,3 BHK Apartment , T Nagar ,Chennai
+319,130000,Semi-Furnished,6,3,5 BHK Villa , Panaiyur ,Chennai
+320,"14,000",Unfurnished,1,1,1 BHK Apartment , Padur ,Chennai
+321,"20,000",Semi-Furnished,3,3,2 BHK Builder Floor , Pallavaram ,Chennai
+322,200000,Semi-Furnished,4,0,4 BHK Apartment , Alwarpet ,Chennai
+323,"17,000",Semi-Furnished,1,1,1 BHK Apartment , Shenoy Nagar ,Chennai
+324,"15,000",Unfurnished,2,1,3 BHKHouse , Guduvancheri ,Chennai
+325,"8,000",Unfurnished,2,2,2 BHK Builder Floor , Urapakkam ,Chennai
+326,"11,500",Semi-Furnished,2,1,2 BHK Apartment , Oragadam ,Chennai
+327,"12,000",Semi-Furnished,2,1,3 BHK Apartment , Mahindra World City ,Chennai
+328,"18,500",Unfurnished,2,0,2 BHK Builder Floor , Mylapore ,Chennai
+329,"22,000",Furnished,2,1,3 BHKHouse , Oragadam ,Chennai
+330,"15,000",Semi-Furnished,2,0,2 BHKHouse , Villivakkam ,Chennai
+331,"11,000",Semi-Furnished,2,0,2 BHK Apartment , Madambakkam ,Chennai
+332,"14,000",Unfurnished,2,0,2 BHKHouse , Puthagaram Korattur ,Chennai
+333,"8,100",Semi-Furnished,2,1,2 BHKHouse , Pattabiram ,Chennai
+334,"15,000",Unfurnished,3,0,3 BHKHouse , Nandivaram Guduvancheri ,Chennai
+335,"14,000",Semi-Furnished,2,2,2 BHK Apartment , Vijayalakshmi Puram ,Chennai
+336,"12,000",Unfurnished,2,1,2 BHK Builder Floor , Kolathur ,Chennai
+337,"16,000",Unfurnished,2,2,3 BHKHouse , Korattur ,Chennai
+338,"36,000",Unfurnished,3,2,3 BHK Apartment , Kotturpuram ,Chennai
+339,"20,000",Unfurnished,1,1,1 BHK Builder Floor , Indira Nagar Adyar ,Chennai
+340,"60,000",Unfurnished,3,4,3 BHK Apartment , Sholinganallur ,Chennai
+341,"35,000",Unfurnished,2,1,3 BHK Apartment , Velachery ,Chennai
+342,"30,000",Semi-Furnished,3,4,3 BHK Apartment , Kolathur ,Chennai
+343,"18,000",Unfurnished,2,0,2 BHKHouse , Saligramam ,Chennai
+344,"12,000",Unfurnished,2,0,2 BHKHouse , Avadi ,Chennai
+345,"16,000",Furnished,2,0,2 BHKHouse , Guduvancherry ,Chennai
+346,"12,500",Unfurnished,2,1,2 BHK Builder Floor , Porur ,Chennai
+347,"20,000",Unfurnished,2,0,2 BHK Builder Floor , Triplicane ,Chennai
+348,"55,000",Semi-Furnished,3,0,3 BHK Apartment , Annanagar East ,Chennai
+349,"22,000",Unfurnished,2,0,3 BHKHouse , Ambattur ,Chennai
+350,"9,000",Semi-Furnished,2,1,2 BHK Apartment , Muthapudupet ,Chennai
+351,"8,000",Unfurnished,2,0,2 BHK Builder Floor , Thirumullaivoyal ,Chennai
+352,"10,500",Semi-Furnished,2,1,1 BHKHouse , Ganapathy Colony ,Chennai
+353,"28,000",Unfurnished,2,1,2 BHK Apartment , Kellys Road ,Chennai
+354,"12,000",Unfurnished,2,0,2 BHKHouse , Kelambakkam Vandalur Road ,Chennai
+355,"6,500",Semi-Furnished,1,0,1 BHKHouse , Chitlapakkam ,Chennai
+356,"4,000",Furnished,1,1,1 BHKHouse , Ponneri ,Chennai
+357,"12,500",Unfurnished,1,0,2 BHKHouse , Kolathur ,Chennai
+358,"36,000",Unfurnished,3,0,3 BHKHouse , Kolathur ,Chennai
+359,"15,000",Furnished,2,0,2 BHKHouse , Kundrathur ,Chennai
+360,"15,000",Unfurnished,2,0,3 BHK Builder Floor , Urapakkam ,Chennai
+361,"15,000",Semi-Furnished,2,2,2 BHK Builder Floor , Villivakkam ,Chennai
+362,"8,500",Furnished,2,1,2 BHKHouse , Thiruninravur ,Chennai
+363,"11,500",Semi-Furnished,2,0,2 BHKHouse , Kundrathur ,Chennai
+364,110000,Semi-Furnished,6,0,8 BHKHouse , KK Nagar ,Chennai
+365,"20,000",Unfurnished,2,0,2 BHK Apartment , Choolai ,Chennai
+366,"12,000",Unfurnished,2,0,2 BHKHouse , Poonamallee ,Chennai
+367,"15,000",Semi-Furnished,2,0,2 BHK Apartment , Koyambedu ,Chennai
+368,"20,000",Semi-Furnished,1,1,1 BHKHouse , Kolathur ,Chennai
+369,"15,000",Semi-Furnished,3,1,2 BHKHouse , Thirumalai Nagar Sembakkam ,Chennai
+370,"60,000",Semi-Furnished,3,4,3 BHK Apartment , Anna Nagar ,Chennai
+371,"24,000",Semi-Furnished,3,0,3 BHK Villa , Semmancheri ,Chennai
+372,"18,000",Unfurnished,2,0,2 BHK Villa , Medavakkam ,Chennai
+373,"20,000",Unfurnished,2,1,2 BHKHouse , Venkata Subramanya Nagar ,Chennai
+374,"5,000",Unfurnished,2,1,2 BHKHouse , Thiruporur ,Chennai
+375,"21,000",Unfurnished,2,1,2 BHK Apartment , West Mambalam ,Chennai
+376,"9,000",Unfurnished,2,0,2 BHKHouse , Avadi ,Chennai
+377,"35,000",Semi-Furnished,3,1,2 BHKHouse , Mylapore ,Chennai
+378,"75,000",Semi-Furnished,6,0,6 BHKHouse , East Tambaram ,Chennai
+379,"8,500",Unfurnished,2,1,1 BHKHouse , Poonamallee Avadi High Road ,Chennai
+380,"18,000",Semi-Furnished,2,2,2 BHK Apartment , Porur ,Chennai
+381,"20,000",Unfurnished,2,0,2 BHK Builder Floor , Nolambur ,Chennai
+382,"12,000",Unfurnished,2,1,2 BHKHouse , Mehta Nagar Kundrathur ,Chennai
+383,"18,000",Semi-Furnished,2,0,2 BHKHouse , RE Nagar ,Chennai
+384,"12,000",Unfurnished,2,0,2 BHKHouse , Santhosapuram ,Chennai
+385,"9,500",Semi-Furnished,2,0,2 BHKHouse , Mangadu ,Chennai
+386,"10,000",Semi-Furnished,1,0,2 BHK Villa , Old Mahabalipuram Road  ,Chennai
+387,"9,000",Furnished,1,1,1 BHK Apartment , East Tambaram ,Chennai
+388,"9,000",Unfurnished,2,1,2 BHK Villa , Nanmangalam Manikandan Nagar ,Chennai
+389,"13,000",Unfurnished,2,0,2 BHK Builder Floor , Madipakkam ,Chennai
+390,"11,000",Semi-Furnished,2,0,2 BHKHouse , Avadi ,Chennai
+391,"6,500",Unfurnished,1,0,1 BHKHouse , Annanagar East ,Chennai
+392,"11,000",Unfurnished,1,0,2 BHKHouse , Pallikaranai ,Chennai
+393,"14,000",Semi-Furnished,2,2,3 BHKHouse , Vengaivasal Medavakkam ,Chennai
+394,"25,000",Semi-Furnished,3,1,3 BHK Apartment , Perumbakkam ,Chennai
+395,"8,500",Unfurnished,1,0,1 BHK Builder Floor , Madhavaram ,Chennai
+396,"8,500",Semi-Furnished,2,0,2 BHKHouse , Ambattur ,Chennai
+397,"19,000",Unfurnished,3,0,2 BHKHouse , Pallikaranai ,Chennai
+398,"10,000",Unfurnished,2,0,2 BHKHouse , Pallavaram ,Chennai
+399,"12,000",Semi-Furnished,1,0,2 BHKHouse , Balaji Nagar Tambaram East ,Chennai
+400,"20,000",Furnished,1,1,1 BHKHouse , Annanagar East ,Chennai
+401,"27,000",Semi-Furnished,2,1,4 BHKHouse , Kolathur ,Chennai
+402,"38,000",Unfurnished,3,1,3 BHKHouse , Manapakkam ,Chennai
+403,"35,000",Semi-Furnished,3,0,3 BHKHouse , KK Nagar West ,Chennai
+404,690000,Semi-Furnished,7,2,> 10 BHK Villa , Shastri Nagar Adyar ,Chennai
+405,"35,000",Furnished,1,1,2 BHK Villa , Annai Sathya Nagar Ramapuram ,Chennai
+406,"17,500",Semi-Furnished,3,2,2 BHKHouse ," West Tambaram,  ",Chennai
+407,"27,000",Semi-Furnished,2,1,3 BHK Apartment , Periyar Nagar West Perambur ,Chennai
+408,"25,000",Semi-Furnished,2,1,3 BHKHouse , Nolambur ,Chennai
+409,"20,000",Semi-Furnished,2,1,2 BHK Apartment , Pattara Vakkam ,Chennai
+410,"65,000",Semi-Furnished,2,2,3 BHK Villa , Injambakkam ,Chennai
+411,"20,000",Semi-Furnished,2,1,3 BHK Builder Floor , Pammal ,Chennai
+412,"19,500",Semi-Furnished,2,0,3 BHKHouse , Radha Nagar Chromepet ,Chennai
+413,"21,000",Semi-Furnished,2,0,2 BHK Apartment , Saligramam ,Chennai
+414,"30,000",Unfurnished,2,2,2 BHKHouse , Bharathi Salai Royapettah ,Chennai
+415,"7,500",Unfurnished,1,1,1 BHK Builder Floor , Perumbakkam ,Chennai
+416,"7,500",Unfurnished,1,1,2 BHK Builder Floor , Ayappakkam ,Chennai
+417,"35,000",Furnished,3,3,3 BHK Apartment , Oragadam ,Chennai
+418,"14,000",Unfurnished,1,1,1 BHK Apartment , Madipakkam ,Chennai
+419,"7,000",Unfurnished,1,1,1 BHKHouse , Villivakkam ,Chennai
+420,"6,500",Unfurnished,1,1,1 BHKHouse , Gerugambakkam ,Chennai
+421,"15,000",Semi-Furnished,3,1,3 BHK Villa , Vijayalakshmi Nagar Nanmangalam ,Chennai
+422,"16,000",Furnished,2,1,3 BHKHouse , Vandalur ,Chennai
+423,"8,000",Unfurnished,2,2,2 BHKHouse , TNHB ,Chennai
+424,"22,500",Semi-Furnished,2,2,2 BHK Apartment , Kasi Viswanathar Colony ,Chennai
+425,"22,000",Semi-Furnished,2,1,2 BHK Apartment , Mylapore ,Chennai
+426,"34,000",Semi-Furnished,4,0,3 BHKHouse , Perambur ,Chennai
+427,"9,500",Unfurnished,2,0,2 BHK Builder Floor , Kolathur ,Chennai
+428,"18,000",Unfurnished,3,1,3 BHKHouse , Iyyappanthangal ,Chennai
+429,"23,000",Unfurnished,2,2,2 BHK Apartment , Ayanavaram ,Chennai
+431,150000,Semi-Furnished,3,2,3 BHK Apartment , Nungambakkam ,Chennai
+432,"12,000",Unfurnished,1,1,1 BHK Apartment , Triplicane ,Chennai
+433,"16,000",Semi-Furnished,3,0,3 BHK Builder Floor , Pallikaranai ,Chennai
+434,100000,Unfurnished,4,0,4 BHK Builder Floor , Palavakkam ,Chennai
+435,"4,000",Unfurnished,1,0,1 BHKHouse , Poonamallee ,Chennai
+436,"15,000",Semi-Furnished,2,0,2 BHKHouse , Iyyappanthangal ,Chennai
+437,"10,000",Unfurnished,2,0,2 BHKHouse , Ambattur ,Chennai
+438,"10,000",Semi-Furnished,2,0,3 BHKHouse , Siruseri ,Chennai
+439,"20,000",Semi-Furnished,2,0,3 BHKHouse , Chandra Nagar ,Chennai
+440,"8,000",Unfurnished,1,0,1 BHKHouse , Avadi ,Chennai
+441,"30,000",Unfurnished,3,1,3 BHK Apartment , Karapakkam ,Chennai
+442,"24,000",Unfurnished,2,1,2 BHK Apartment , Velachery ,Chennai
+443,"16,000",Unfurnished,2,0,2 BHKHouse , Sarojini Nagar Kolathur ,Chennai
+444,"8,500",Unfurnished,2,0,2 BHKHouse , Ayappakkam ,Chennai
+445,"12,000",Unfurnished,2,2,2 BHK Apartment , Madambakkam ,Chennai
+446,"10,000",Unfurnished,2,1,2 BHK Apartment , Kovilambakkam ,Chennai
+447,"12,000",Semi-Furnished,2,1,2 BHK Builder Floor , Narayanapuram Pallikaranai ,Chennai
+448,"5,000",Unfurnished,1,0,1 BHKHouse , Pammal ,Chennai
+449,"9,000",Unfurnished,1,0,1 BHK Apartment , Medavakkam ,Chennai
+450,"18,000",Unfurnished,2,0,2 BHKHouse , Madhanandapuram ,Chennai
+451,"13,500",Semi-Furnished,1,0,1 BHK Apartment , Kelambakkam ,Chennai
+452,"38,000",Furnished,2,1,3 BHK Apartment , Kumaran Colony Vadapalani ,Chennai
+453,"25,000",Semi-Furnished,3,2,3 BHK Villa , Kelambakkam Vandalur Road ,Chennai
+454,"10,500",Semi-Furnished,2,0,3 BHKHouse , Hasthinapuram ,Chennai
+455,"9,000",Semi-Furnished,2,0,2 BHKHouse , Gerugambakkam ,Chennai
+456,"25,000",Semi-Furnished,3,1,3 BHK Apartment , Mugalivakkam ,Chennai
+457,"11,500",Semi-Furnished,2,1,2 BHKHouse , Kolathur ,Chennai
+458,"20,000",Semi-Furnished,2,0,2 BHK Apartment , Royapettah ,Chennai
+459,"40,000",Unfurnished,3,2,4 BHKHouse , Nanmangalam Manikandan Nagar ,Chennai
+460,"50,000",Unfurnished,2,2,3 BHK Apartment , Avvai Shanmugam Salai ,Chennai
+462,"10,000",Unfurnished,1,1,1 BHKHouse , Ayanavaram ,Chennai
+463,"95,000",Furnished,3,2,3 BHK Apartment , Nungambakkam ,Chennai
+464,"18,000",Unfurnished,1,0,1 BHKHouse , Saligramam ,Chennai
+465,"35,000",Semi-Furnished,2,0,3 BHKHouse , Valasaravakkam ,Chennai
+466,"35,000",Furnished,3,1,3 BHK Apartment , Kolapakkam ,Chennai
+467,"25,000",Unfurnished,1,1,2 BHKHouse , Ganapathipuram Chromepet ,Chennai
+468,"19,000",Unfurnished,3,0,2 BHK Builder Floor , Pallikaranai ,Chennai
+469,"13,000",Unfurnished,2,2,2 BHK Builder Floor , Natesan Nagar Madhavaram ,Chennai
+470,"48,000",Unfurnished,3,2,3 BHK Apartment , Iyyappanthangal ,Chennai
+471,"26,000",Unfurnished,2,2,2 BHK Apartment , Valasaravakkam ,Chennai
+472,"26,850",Semi-Furnished,2,1,2 BHK Apartment , Padur ,Chennai
+473,"17,000",Unfurnished,2,2,2 BHK Apartment , Kattupakkam ,Chennai
+474,"10,000",Unfurnished,2,0,2 BHKHouse , Thirumullaivoyal ,Chennai
+475,"25,000",Furnished,3,0,3 BHK Villa , Oragadam ,Chennai
+476,"13,500",Unfurnished,3,1,2 BHKHouse , Thandalam ,Chennai
+477,"27,000",Semi-Furnished,3,0,3 BHK Builder Floor , Periyar Nagar Korattur ,Chennai
+478,"20,000",Furnished,2,0,3 BHK Builder Floor , Urapakkam ,Chennai
+479,"30,000",Semi-Furnished,3,0,3 BHKHouse , Kattupakkam ,Chennai
+480,"18,000",Semi-Furnished,2,0,2 BHKHouse , Keelkattalai ,Chennai
+481,"20,000",Furnished,2,0,2 BHKHouse , Kodungaiyur ,Chennai
+482,"8,000",Unfurnished,1,0,1 BHKHouse , Madhavaram ,Chennai
+483,"20,000",Semi-Furnished,2,0,3 BHKHouse , Madhavaram ,Chennai
+484,"10,000",Semi-Furnished,2,1,2 BHK Builder Floor , Tambaram West Tambaram ,Chennai
+485,"7,500",Unfurnished,1,0,1 BHK Builder Floor , Ambattur ,Chennai
+486,"6,000",Unfurnished,1,1,1 BHKHouse , Pozhichalur ,Chennai
+487,"8,000",Semi-Furnished,2,0,2 BHKHouse , Mathur ,Chennai
+488,"7,500",Unfurnished,1,0,1 BHKHouse , Saligramam ,Chennai
+489,"8,000",Unfurnished,1,0,1 BHKHouse , Mangadu ,Chennai
+490,"20,000",Semi-Furnished,2,0,2 BHK Builder Floor , Adambakkam ,Chennai
+491,"27,000",Unfurnished,3,0,3 BHK Builder Floor , Aminjikarai ,Chennai
+492,"18,000",Semi-Furnished,2,0,2 BHKHouse , Paruthippattu ,Chennai
+493,"80,000",Furnished,5,2,5 BHK Apartment , East Coast Road ,Chennai
+494,"8,000",Unfurnished,1,0,1 BHKHouse , Thirumullaivoyal ,Chennai
+495,"11,000",Unfurnished,2,0,2 BHKHouse , Mangadu ,Chennai
+496,"14,000",Furnished,2,0,2 BHK Apartment ," mountain view, Pallavaram ",Chennai
+497,"11,000",Semi-Furnished,2,0,2 BHK Builder Floor , New Perungalathur ,Chennai
+498,"5,500",Unfurnished,1,0,1 BHKHouse , Kovur ,Chennai
+499,"12,500",Unfurnished,2,0,2 BHK Builder Floor , Ambattur ,Chennai
+500,"5,600",Unfurnished,1,0,1 BHKHouse , Red Hills ,Chennai
+501,"12,000",Semi-Furnished,3,1,3 BHKHouse , Mangadu ,Chennai
+502,"6,500",Unfurnished,2,0,1 BHKHouse , Sithalapakkam ,Chennai
+503,"14,000",Semi-Furnished,2,0,1 BHK Builder Floor , Gopalapuram ,Chennai
+504,"34,000",Furnished,2,0,2 BHK Apartment , Sholinganallur ,Chennai
+505,"11,000",Unfurnished,1,0,2 BHKHouse , Tambaram ,Chennai
+506,"6,600",Unfurnished,1,1,1 BHKHouse , Kundrathur ,Chennai
+507,"20,000",Semi-Furnished,3,3,3 BHKHouse , Mogappair East ,Chennai
+508,"17,000",Semi-Furnished,3,1,3 BHK Villa , Semmancheri ,Chennai
+509,"15,000",Semi-Furnished,2,0,1 BHKHouse , Velachery ,Chennai
+510,"10,000",Semi-Furnished,1,0,1 BHKHouse , Royapettah ,Chennai
+511,"15,800",Unfurnished,2,1,2 BHK Builder Floor , Kothari Nagar ,Chennai
+512,"20,000",Unfurnished,2,0,2 BHK Apartment , Choolaimedu ,Chennai
+513,"5,000",Unfurnished,1,0,1 BHKHouse , Poonamallee ,Chennai
+514,"7,000",Semi-Furnished,1,0,1 BHK Builder Floor , Perambur ,Chennai
+515,"13,000",Unfurnished,2,0,2 BHK Builder Floor , Thiruverkadu ,Chennai
+516,"11,000",Semi-Furnished,2,0,2 BHKHouse , Thirumullaivoyal ,Chennai
+517,"35,000",Unfurnished,3,2,3 BHK Apartment , Semmancheri ,Chennai
+518,"19,000",Unfurnished,2,2,2 BHKHouse , Peravallur ,Chennai
+519,"25,000",Unfurnished,3,2,3 BHKHouse , Chitlapakkam ,Chennai
+520,"32,000",Semi-Furnished,4,1,4 BHK Villa , Porur ,Chennai
+521,"16,000",Semi-Furnished,1,1,1 BHK Apartment , Thoraipakkam ,Chennai
+522,"14,500",Unfurnished,2,1,2 BHK Apartment , Mannivakkam ,Chennai
+523,"20,000",Unfurnished,2,0,2 BHKHouse , Ramapuram ,Chennai
+524,"9,800",Semi-Furnished,1,0,2 BHKHouse , Seven wells ,Chennai
+525,"14,000",Unfurnished,2,0,2 BHKHouse , Neelankarai ,Chennai
+526,"12,000",Semi-Furnished,2,0,1 BHKHouse , Sikkarayapuram ,Chennai
+528,"15,000",Semi-Furnished,2,0,2 BHKHouse , Mudichur ,Chennai
+529,"7,500",Unfurnished,1,0,1 BHKHouse , Mogappair East ,Chennai
+530,"16,000",Unfurnished,2,1,2 BHK Apartment , Kolathur ,Chennai
+531,"12,500",Unfurnished,1,1,1 BHK Builder Floor , Vadapalani ,Chennai
+532,"10,000",Unfurnished,1,0,1 BHKHouse , Kolathur ,Chennai
+533,"25,000",Furnished,2,0,2 BHKHouse , Saligramam ,Chennai
+534,"15,000",Semi-Furnished,2,1,2 BHK Apartment , Poonamallee ,Chennai
+535,"14,000",Unfurnished,1,0,1 BHKHouse , Royapettah ,Chennai
+536,"23,000",Semi-Furnished,2,1,2 BHK Apartment , Mylapore ,Chennai
+537,"12,000",Semi-Furnished,1,0,1 BHK Apartment , Old Mahabalipuram Road  ,Chennai
+538,"15,000",Semi-Furnished,3,0,3 BHKHouse , Thiruninravur ,Chennai
+539,"21,000",Semi-Furnished,2,0,2 BHK Apartment , Thoraipakkam ,Chennai
+540,"30,000",Semi-Furnished,2,1,2 BHK Apartment , Iyyappanthangal ,Chennai
+541,"25,000",Semi-Furnished,3,1,3 BHKHouse , Parthasarathy Nagar Sakthi Nagar ,Chennai
+542,"20,000",Unfurnished,3,3,3 BHK Apartment , Urapakkam ,Chennai
+543,"20,000",Semi-Furnished,3,2,3 BHK Apartment , Tambaram ,Chennai
+544,"10,000",Unfurnished,2,0,2 BHKHouse , Nerkundram ,Chennai
+545,"20,000",Unfurnished,2,0,2 BHKHouse , Nolambur ,Chennai
+546,"15,000",Semi-Furnished,2,0,2 BHKHouse , Moorthy Nagar Iyyappanthangal ,Chennai
+548,"12,000",Semi-Furnished,1,1,1 BHKHouse , Venkatraman Nagar ,Chennai
+549,"12,000",Unfurnished,2,0,2 BHKHouse , Veppambaattu ,Chennai
+550,"25,000",Furnished,2,1,2 BHK Apartment , United Colony Medavakkam ,Chennai
+552,"35,000",Unfurnished,3,3,3 BHK Apartment , Semmancheri ,Chennai
+553,"30,000",Semi-Furnished,2,2,2 BHK Builder Floor , Virugambakkam ,Chennai
+554,"12,500",Semi-Furnished,2,0,1 BHKHouse , Kamaraj Nagar Choolaimedu ,Chennai
+555,"18,000",Unfurnished,3,0,3 BHKHouse , Gerugambakkam ,Chennai
+556,"65,000",Semi-Furnished,4,2,4 BHK Builder Floor , Akkarai ,Chennai
+557,"25,000",Semi-Furnished,3,0,3 BHKHouse , Nandhakam homes ,Chennai
+559,"26,000",Furnished,3,2,2 BHK Apartment , Grand Southern Trunk Road ,Chennai
+560,"15,000",Semi-Furnished,2,0,2 BHK Apartment , Temple Waves ,Chennai
+561,"6,000",Unfurnished,2,0,2 BHKHouse , Pammal Prasanthi Nagar ,Chennai
+562,"12,500",Semi-Furnished,2,1,2 BHK Apartment , Madhavaram ,Chennai
+563,"12,000",Furnished,2,1,2 BHK Apartment , New Perungalathur ,Chennai
+564,"10,000",Unfurnished,1,1,2 BHK Apartment , Mangadu ,Chennai
+565,"20,000",Furnished,2,1,2 BHKHouse , Porur ,Chennai
+566,"20,000",Furnished,2,4,2 BHKHouse , Grant Lyon ,Chennai
+567,"24,000",Semi-Furnished,1,0,2 BHKHouse , Vadapalani ,Chennai
+568,"10,000",Semi-Furnished,2,0,1 BHKHouse , Manali New Town Manali ,Chennai
+569,"15,000",Unfurnished,2,0,2 BHKHouse , ICF Colony ,Chennai
+570,"16,000",Semi-Furnished,2,0,2 BHK Apartment , Perambur ,Chennai
+571,"12,000",Semi-Furnished,1,1,1 BHKHouse , Kosapet ,Chennai
+573,"11,000",Unfurnished,2,1,2 BHKHouse , Old Perungalathur ,Chennai
+574,"7,200",Semi-Furnished,2,2,2 BHK Apartment , Urapakkam ,Chennai
+575,"75,000",Furnished,3,2,3 BHK Apartment , Ethiraj Salai ,Chennai
+576,"25,000",Semi-Furnished,3,0,3 BHK Apartment ," Eminent Enclave, Tambaram,  ",Chennai
+577,"10,000",Unfurnished,2,0,2 BHKHouse , Kolapakkam ,Chennai
+578,"20,000",Unfurnished,2,2,2 BHK Builder Floor ," Venkatakrishna nagar, Arumbakkam ",Chennai
+579,"25,000",Unfurnished,2,1,2 BHK Apartment , pallikaranai abhinayam flats ,Chennai
+580,"6,000",Unfurnished,1,0,1 BHKHouse , New Colony Adambakkam ,Chennai
+581,"10,000",Unfurnished,2,1,2 BHK Villa , Unamancheri ,Chennai
+582,"25,000",Unfurnished,2,1,2 BHK Apartment , Railway Colony Aminjikarai ,Chennai
+583,"15,000",Unfurnished,2,0,2 BHKHouse , Rajakilpakkam ,Chennai
+584,"13,000",Semi-Furnished,1,0,2 BHK Villa , Ayanavaram ,Chennai
+585,"10,000",Semi-Furnished,2,1,2 BHK Builder Floor , Iyyappanthangal ,Chennai
+586,"11,500",Unfurnished,1,0,2 BHK Builder Floor , Purasaiwakkam ,Chennai
+587,"8,500",Unfurnished,2,1,2 BHKHouse , Thendral Nagar Kamarajapuram ,Chennai
+588,"9,000",Unfurnished,1,1,1 BHK Builder Floor , Poonamallee Avadi High Road ,Chennai
+590,"6,500",Unfurnished,1,0,1 BHKHouse , Tiru Vi Ka Nagar Perambur ,Chennai
+591,"15,000",Semi-Furnished,2,3,2 BHK Apartment , Selaiyur ,Chennai
+592,"7,500",Unfurnished,1,1,1 BHK Apartment , Sithalapakkam ,Chennai
+593,"12,000",Semi-Furnished,4,2,3 BHK Villa , Mahidhara central Nayapakkam ,Chennai
+594,"12,000",Semi-Furnished,1,0,1 BHKHouse , Thanikachalam Nagar ,Chennai
+595,"8,000",Unfurnished,2,0,2 BHKHouse , urapakkam   Vardhaman Nagar ,Chennai
+596,"12,000",Semi-Furnished,2,0,2 BHK Apartment , S.kulathur ,Chennai
+597,"11,000",Semi-Furnished,1,1,2 BHK Apartment , Avadi ,Chennai
+598,"17,999",Furnished,1,1,1 BHK Apartment , Pudupakkam ,Chennai
+599,"20,000",Unfurnished,2,3,2 BHK Apartment , virat sai krishna apts alandur ,Chennai
+600,"85,000",Semi-Furnished,3,2,4 BHK Apartment , Anna Nagar ,Chennai
+601,"11,000",Semi-Furnished,1,0,2 BHK Builder Floor ," Broadway, George Town ",Chennai
+602,"7,500",Semi-Furnished,1,0,1 BHK Builder Floor ," Balaji Nagar, Kolathur ",Chennai
+603,"12,000",Semi-Furnished,2,1,2 BHK Apartment , Urapakkam ,Chennai
+604,"16,000",Semi-Furnished,3,0,3 BHK Apartment , Chromepet ,Chennai
+605,"6,850",Semi-Furnished,2,0,2 BHKHouse , Pari Nagar Anakaputhur ,Chennai
+606,"13,500",Semi-Furnished,2,0,2 BHKHouse , Pallikkaranai ,Chennai
+607,"16,000",Furnished,1,1,1 BHK Apartment , Korattur ,Chennai
+608,"36,000",Semi-Furnished,3,0,3 BHKHouse , Saligramam ,Chennai
+609,"5,000",Unfurnished,1,1,1 BHKHouse , Chinna Kuzhandai ,Chennai
+610,"16,000",Semi-Furnished,2,0,2 BHK Apartment , Iyyappanthangal ,Chennai
+611,"3,500",Unfurnished,1,1,1 BHKHouse , Kovur ,Chennai
+612,"15,000",Furnished,2,2,2 BHK Apartment , sri ganga nivas ,Chennai
+613,"15,000",Unfurnished,2,1,2 BHKHouse , St Thomas Mount ,Chennai
+614,"45,000",Semi-Furnished,3,1,3 BHK Builder Floor , Santhome ,Chennai
+615,"5,000",Unfurnished,1,0,1 BHKHouse , West Saidapet ,Chennai
+616,"12,000",Unfurnished,3,1,3 BHK Apartment , Tambaram West Tambaram ,Chennai
+617,"16,000",Furnished,2,2,2 BHK Apartment , Ambattur ,Chennai
+618,"15,000",Unfurnished,1,0,1 BHKHouse , Purasaiwakkam ,Chennai
+619,"11,000",Unfurnished,1,0,1 BHKHouse , Kolathur ,Chennai
+620,"21,000",Semi-Furnished,4,1,3 BHK Villa , Ayappakkam ,Chennai
+621,"10,500",Unfurnished,1,0,2 BHKHouse , Senneer Kuppam ,Chennai
+622,"18,000",Semi-Furnished,2,1,3 BHK Apartment , Chromepet ,Chennai
+623,"45,000",Semi-Furnished,4,0,4 BHKHouse , ,Chennai
+624,"26,000",Furnished,2,1,3 BHKHouse , East Coast Road ,Chennai
+625,"24,000",Semi-Furnished,2,0,2 BHK Villa , Valasaravakkam ,Chennai
+626,"13,000",Semi-Furnished,2,0,3 BHKHouse , Vinayagapuram ,Chennai
+627,"5,000",Unfurnished,1,0,Studio Apartment , Ayanavaram ,Chennai
+628,"42,000",Semi-Furnished,2,0,2 BHK Builder Floor , Nungambakkam ,Chennai
+629,"11,000",Unfurnished,3,0,2 BHKHouse , Pattabiram ,Chennai
+630,"15,000",Unfurnished,2,0,2 BHKHouse , George Town ,Chennai
+631,"8,000",Unfurnished,1,0,1 BHKHouse , Tambaram Sanatoruim ,Chennai
+632,"75,000",Semi-Furnished,5,0,5 BHK Builder Floor , Guduvancheri ,Chennai
+633,"8,000",Unfurnished,1,0,1 BHK Builder Floor , Nerkundram ,Chennai
+634,"3,000",Unfurnished,1,0,1 BHKHouse , Tondiarpet ,Chennai
+635,"11,000",Unfurnished,1,0,1 BHK Builder Floor , Kattupakkam ,Chennai
+636,"20,500",Semi-Furnished,2,0,2 BHK Builder Floor , Mylapore ,Chennai
+637,"8,000",Unfurnished,1,0,1 BHKHouse , Lakshmipuram ,Chennai
+638,"11,000",Semi-Furnished,2,0,2 BHK Builder Floor , Madambakkam ,Chennai
+639,"16,000",Semi-Furnished,3,1,3 BHK Apartment , Kelambakkam ,Chennai
+640,"6,000",Unfurnished,1,0,1 BHKHouse , Manali ,Chennai
+641,"6,000",Unfurnished,1,0,1 BHKHouse , Puthagaram Korattur ,Chennai
+642,"10,500",Semi-Furnished,1,0,1 BHKHouse , Pallikaranai ,Chennai
+643,"7,500",Unfurnished,2,0,2 BHKHouse , Red Hills ,Chennai
+644,"35,000",Unfurnished,3,0,3 BHKHouse , Uthandi ,Chennai
+645,"15,000",Unfurnished,2,0,3 BHK Builder Floor , Selaiyur ,Chennai
+646,"15,000",Unfurnished,2,0,2 BHKHouse , Kolapakkam ,Chennai
+647,"20,000",Furnished,2,0,2 BHKHouse , Neelankarai ,Chennai
+648,"30,000",Semi-Furnished,3,0,3 BHKHouse , Perambur ,Chennai
+649,"17,000",Semi-Furnished,2,0,2 BHK Builder Floor , Saidapet ,Chennai
+650,"20,000",Unfurnished,2,0,2 BHK Apartment , Ramapuram ,Chennai
+651,"15,500",Unfurnished,2,0,2 BHKHouse , Tambaram ,Chennai
+653,"20,000",Semi-Furnished,2,0,3 BHK Builder Floor , Kolathur ,Chennai
+654,"40,000",Unfurnished,4,0,4 BHKHouse , Egmore ,Chennai
+655,"8,500",Furnished,1,0,1 BHKHouse , Ambattur ,Chennai
+656,"12,000",Semi-Furnished,1,0,2 BHKHouse , Choolaimedu ,Chennai
+657,"15,000",Semi-Furnished,2,0,2 BHK Apartment , Perungalathur ,Chennai
+658,"9,000",Unfurnished,1,0,1 BHKHouse , Saidapet ,Chennai
+659,"20,000",Semi-Furnished,2,0,2 BHKHouse , Tambaram ,Chennai
+660,"10,000",Semi-Furnished,1,0,1 BHKHouse , Choolaimedu ,Chennai
+661,"45,000",Semi-Furnished,3,0,5 BHKHouse , Vadapalani ,Chennai
+662,"10,500",Semi-Furnished,2,0,2 BHKHouse , Ayappakkam ,Chennai
+663,"20,000",Furnished,3,0,3 BHKHouse , Korattur ,Chennai
+664,"10,000",Semi-Furnished,1,0,1 BHK Builder Floor , Vepery ,Chennai
+665,"35,000",Semi-Furnished,2,2,3 BHK Builder Floor , Azad Nagar Royapettah ,Chennai
+666,"15,000",Unfurnished,2,0,3 BHK Apartment , Madipakkam ,Chennai
+667,"8,000",Semi-Furnished,1,0,1 BHKHouse , Perambur ,Chennai
+668,"12,000",Unfurnished,2,0,2 BHK Builder Floor , Porur ,Chennai
+669,"21,000",Semi-Furnished,2,0,2 BHKHouse , Kodambakkam ,Chennai
+670,"5,000",Unfurnished,1,0,1 BHKHouse , Ambattur ,Chennai
+671,"30,000",Unfurnished,2,0,2 BHK Builder Floor , Raja Annamalai Puram ,Chennai
+672,"15,000",Unfurnished,2,0,3 BHKHouse , Madhavaram ,Chennai
+673,"25,000",Unfurnished,2,1,2 BHK Apartment , Velappanchavadi ,Chennai
+674,"20,000",Unfurnished,2,0,2 BHK Builder Floor , Annamalai Colony ,Chennai
+675,"10,000",Semi-Furnished,2,0,2 BHKHouse , Madhavaram ,Chennai
+676,200000,Semi-Furnished,4,2,4 BHKHouse , Kalakshetra Colony ,Chennai
+677,"15,000",Semi-Furnished,1,1,Studio Apartment , Padur ,Chennai
+678,"27,500",Semi-Furnished,2,2,3 BHK Apartment , Old Mahabalipuram Road  ,Chennai
+679,"7,500",Unfurnished,1,1,1 BHKHouse , Poonamallee Avadi High Road ,Chennai
+680,"16,000",Semi-Furnished,2,1,3 BHKHouse , Jafferkhanpet ,Chennai
+681,"10,000",Unfurnished,2,1,2 BHKHouse , Kavankarai ,Chennai
+682,"30,000",Semi-Furnished,2,2,3 BHK Apartment , Kolathur ,Chennai
+683,"7,000",Unfurnished,1,0,1 BHK Apartment , Villivakkam ,Chennai
+684,"40,000",Semi-Furnished,3,1,3 BHK Apartment , Casa grand Royale sholinganallur ,Chennai
+685,"22,000",Semi-Furnished,1,0,2 BHK Apartment , Padur ,Chennai
+686,"65,000",Semi-Furnished,3,1,5 BHK Villa , Velachery ,Chennai
+687,"8,000",Unfurnished,1,0,2 BHKHouse , Kundrathur ,Chennai
+688,"18,000",Semi-Furnished,1,0,1 BHKHouse , Aminjikarai ,Chennai
+689,"60,000",Semi-Furnished,7,0,7 BHKHouse , Perumbakkam ,Chennai
+690,"18,000",Semi-Furnished,2,1,2 BHKHouse , Lakshmi Nagar Porur ,Chennai
+691,"25,000",Unfurnished,3,2,3 BHK Apartment , Oragadam ,Chennai
+692,"8,500",Unfurnished,2,0,2 BHKHouse , Kuthanur ,Chennai
+693,"40,000",Semi-Furnished,3,0,3 BHKHouse , Shenoy Nagar ,Chennai
+694,"60,000",Semi-Furnished,3,3,3 BHK Apartment , Harrington Road ,Chennai
+695,"22,000",Furnished,3,3,3 BHKHouse , Mahindra World City ,Chennai
+696,"25,000",Unfurnished,3,0,3 BHK Villa , Ayyapakkam ,Chennai
+697,"6,000",Unfurnished,2,1,1 BHKHouse , Madhavaram Milk Colony ,Chennai
+698,"11,000",Semi-Furnished,1,0,2 BHK Builder Floor ," Broadway, George Town ",Chennai
+699,"12,000",Unfurnished,2,1,2 BHK Builder Floor , Chepauk ,Chennai
+700,"10,000",Unfurnished,2,1,2 BHK Apartment , Kovilambakkam ,Chennai
+701,"10,000",Unfurnished,2,2,2 BHKHouse , Padappai ,Chennai
+702,"10,000",Unfurnished,1,1,2 BHKHouse , Muthapudupet ,Chennai
+703,"13,000",Furnished,2,0,2 BHKHouse , Gerugambakkam ,Chennai
+704,"14,000",Unfurnished,2,2,2 BHKHouse , Maraimalai Nagar ,Chennai
+705,160000,Furnished,3,2,3 BHK Apartment , Velachery ,Chennai
+706,"6,500",Unfurnished,2,1,1 BHKHouse , Gerugambakkam ,Chennai
+707,"15,000",Unfurnished,2,0,2 BHKHouse , Kodungaiyur ,Chennai
+708,"12,000",Unfurnished,1,0,1 BHKHouse , Karambakkam ,Chennai
+709,"25,000",Furnished,3,1,3 BHK Villa , Kazhipattur ,Chennai
+710,"20,000",Unfurnished,2,1,2 BHK Apartment , Avadi ,Chennai
+711,"20,000",Furnished,2,0,2 BHKHouse , Villivakkam ,Chennai
+712,"10,000",Unfurnished,1,0,2 BHK Builder Floor , Avadi ,Chennai
+713,"25,000",Semi-Furnished,3,0,3 BHKHouse , Jayachandran Nagar ,Chennai
+714,"16,000",Unfurnished,2,0,2 BHKHouse , Korattur ,Chennai
+715,"14,000",Semi-Furnished,2,3,2 BHKHouse , Sithalapakkam ,Chennai
+716,"7,500",Unfurnished,1,0,1 BHKHouse , Old Washermanpet ,Chennai
+717,"11,000",Unfurnished,2,1,2 BHKHouse , defence colony ,Chennai
+718,"6,000",Unfurnished,1,0,1 BHKHouse , Selaivayal ,Chennai
+719,"12,500",Unfurnished,3,0,2 BHKHouse , Madhavaram Milk Colony ,Chennai
+720,"5,000",Unfurnished,1,0,1 BHKHouse , Lakshmipuram ,Chennai
+721,"2,500",Semi-Furnished,1,0,1 BHKHouse , Avadi ,Chennai
+722,"7,000",Unfurnished,1,0,1 BHKHouse , Lakshmipuram ,Chennai
+723,"6,500",Unfurnished,1,1,1 BHKHouse , Padianallur ,Chennai
+724,"15,000",Semi-Furnished,1,0,1 BHKHouse , Ambattur Industrial Estate ,Chennai
+725,"25,000",Semi-Furnished,2,0,2 BHK Builder Floor , Virugambakkam ,Chennai
+726,"20,000",Unfurnished,2,0,2 BHK Builder Floor , Valasaravakkam ,Chennai
+727,"15,000",Semi-Furnished,3,0,3 BHK Villa , Valarpuram ,Chennai
+728,"22,000",Unfurnished,2,0,2 BHK Builder Floor , Ayanavaram ,Chennai
+729,"13,000",Semi-Furnished,2,0,2 BHKHouse , Ponniammanmedu ,Chennai
+730,"30,000",Semi-Furnished,3,0,3 BHK Builder Floor , Kodambakkam ,Chennai
+731,"30,000",Furnished,1,0,1 BHK Builder Floor , Neelankarai ,Chennai
+732,"15,000",Semi-Furnished,1,1,1 BHKHouse , CIT Nagar West ,Chennai
+733,"8,000",Unfurnished,1,0,1 BHK Builder Floor , Madhavaram ,Chennai
+734,"18,000",Semi-Furnished,2,0,2 BHKHouse , Madhavaram ,Chennai
+735,"28,000",Unfurnished,2,2,3 BHK Apartment , 100 Feet Road ,Chennai
+737,"14,000",Semi-Furnished,3,0,2 BHKHouse , Kovur ,Chennai
+738,"11,500",Unfurnished,1,0,1 BHKHouse , KK Nagar ,Chennai
+739,"9,000",Semi-Furnished,1,0,2 BHK Apartment , Poonamallee ,Chennai
+740,"10,000",Unfurnished,2,0,2 BHKHouse , Red Hills ,Chennai
+741,"8,400",Unfurnished,2,0,2 BHK Builder Floor , Thirumullaivoyal ,Chennai
+742,"15,000",Unfurnished,2,0,2 BHKHouse , Pozhichalur ,Chennai
+743,"18,000",Semi-Furnished,2,0,2 BHK Apartment , Manapakkam ,Chennai
+744,"15,000",Semi-Furnished,3,0,3 BHKHouse , Mugalivakkam ,Chennai
+745,"8,000",Semi-Furnished,2,0,2 BHK Builder Floor , Guduvancheri ,Chennai
+746,"20,000",Semi-Furnished,2,1,2 BHK Apartment , Thiruvanmiyur ,Chennai
+747,"10,000",Unfurnished,1,0,1 BHKHouse , Ponneri ,Chennai
+748,"20,000",Semi-Furnished,3,0,3 BHK Apartment , Saidapet ,Chennai
+749,"36,000",Semi-Furnished,2,2,3 BHKHouse , KK Nagar MGR Nagar ,Chennai
+750,"12,000",Unfurnished,1,1,1 BHKHouse , Kodambakkam ,Chennai
+751,"15,000",Semi-Furnished,2,0,2 BHK Apartment , Pammal ,Chennai
+752,"8,500",Unfurnished,1,0,1 BHK Builder Floor , Iyyappanthangal ,Chennai
+753,"15,000",Unfurnished,2,0,2 BHKHouse , Thoraipakkam ,Chennai
+754,"20,000",Semi-Furnished,2,0,2 BHK Builder Floor , Mylapore ,Chennai
+755,"6,500",Semi-Furnished,1,0,1 BHKHouse , Thirumullaivoyal ,Chennai
+756,"9,000",Furnished,1,1,Studio Apartment , Saligramam ,Chennai
+757,"22,000",Furnished,2,0,2 BHKHouse , Injambakkam ,Chennai
+758,"14,000",Semi-Furnished,2,1,2 BHK Apartment , Sendur Puram ,Chennai
+759,300000,Furnished,3,1,3 BHKHouse , Boat Club Road ,Chennai
+760,"8,000",Semi-Furnished,1,0,1 BHKHouse , Wimco Nagar ,Chennai
+761,"12,000",Furnished,2,1,2 BHK Villa , Poonamallee ,Chennai
+762,"15,000",Unfurnished,2,0,2 BHKHouse , Madhavaram ,Chennai
+763,"18,000",Semi-Furnished,2,1,2 BHKHouse , Thaiyur ,Chennai
+764,"35,000",Furnished,2,1,2 BHK Apartment , Thoraipakkam db jain college ,Chennai
+765,"6,000",Unfurnished,1,0,1 BHKHouse , Pozhichalur ,Chennai
+766,"8,500",Unfurnished,1,0,1 BHKHouse , Ayanavaram ,Chennai
+767,"13,000",Semi-Furnished,3,1,2 BHK Villa , Ponneri ,Chennai
+768,300000,Furnished,7,6,6 BHKHouse , Thiruvanmiyur ,Chennai
+769,"35,000",Semi-Furnished,3,2,3 BHK Apartment , Siruseri ,Chennai
+770,"10,000",Unfurnished,2,0,2 BHKHouse , Manali ,Chennai
+771,"17,000",Semi-Furnished,1,0,1 BHKHouse , Vadapalani ,Chennai
+772,"8,000",Unfurnished,1,1,1 BHKHouse , Avadi ,Chennai
+773,"15,000",Unfurnished,1,0,1 BHKHouse , Elango Nagar Virugambakkam ,Chennai
+774,"6,500",Semi-Furnished,1,0,1 BHKHouse , Vadaperumbakkam ,Chennai
+775,"28,000",Semi-Furnished,3,1,3 BHKHouse , Kelambakkam ,Chennai
+776,"14,000",Unfurnished,2,2,2 BHKHouse , Avadi ,Chennai
+777,"15,500",Unfurnished,2,0,2 BHKHouse , Lakshmipuram ,Chennai
+778,"28,000",Unfurnished,3,0,3 BHK Apartment , Mogappair East ,Chennai
+779,"10,000",Semi-Furnished,2,0,2 BHKHouse , Thirumullaivoyal ,Chennai
+780,"22,000",Semi-Furnished,3,1,3 BHK Villa , Mahindra World City ,Chennai
+781,"6,700",Unfurnished,1,1,2 BHKHouse , laxmi aveneu ,Chennai
+782,"9,500",Unfurnished,1,0,1 BHKHouse , Venkateswara Nagar Oragadam ,Chennai
+783,"14,000",Semi-Furnished,3,0,2 BHKHouse , Mangadu ,Chennai
+784,"25,000",Semi-Furnished,2,2,2 BHK Builder Floor , Natesan Nagar Virugambakkam ,Chennai
+785,280000,Semi-Furnished,4,2,4 BHK Villa , Akkarai ,Chennai
+786,"14,500",Semi-Furnished,2,2,2 BHK Builder Floor , Easwari Nagar Tambaram ,Chennai
+787,"15,000",Unfurnished,2,0,2 BHKHouse , Prakash Nagar Ponniammanmedu ,Chennai
+788,"85,000",Semi-Furnished,6,3,4 BHK Villa , Muthukadu ,Chennai
+789,"50,000",Semi-Furnished,4,2,4 BHK Builder Floor , Indiranagar Karapakkam ,Chennai
+790,"9,500",Semi-Furnished,1,0,2 BHK Apartment , Poonamallee ,Chennai
+791,"40,000",Unfurnished,3,2,3 BHK Villa , Oragadam ,Chennai
+792,"26,000",Unfurnished,2,1,2 BHK Apartment , Madha Nagar Madhanandapuram ,Chennai
+793,"8,000",Unfurnished,1,0,1 BHKHouse , Senneer Kuppam ,Chennai
+794,"18,000",Semi-Furnished,1,0,1 BHK Builder Floor , Jeth Nagar ,Chennai
+795,"13,500",Unfurnished,2,1,3 BHKHouse , Masilamani Nagar ,Chennai
+796,"25,000",Semi-Furnished,2,1,2 BHKHouse , Choolaimedu ,Chennai
+797,"22,000",Semi-Furnished,3,1,3 BHK Apartment , Kelambakkam ,Chennai
+798,"5,000",Unfurnished,1,1,1 BHKHouse , Morai ,Chennai
+799,"25,000",Unfurnished,3,1,3 BHK Villa , Maduravoyal ,Chennai
+800,"20,000",Unfurnished,2,0,3 BHKHouse , Kattupakkam ,Chennai
+801,"12,500",Semi-Furnished,2,2,2 BHK Villa , Kovur ,Chennai
+802,"11,000",Unfurnished,2,2,2 BHK Apartment , Avadi ,Chennai
+803,"5,000",Unfurnished,1,0,1 BHK Apartment , Veerapuram ,Chennai
+804,"60,000",Furnished,2,0,2 BHK Apartment , Fathima Apartments ,Chennai
+805,"16,000",Semi-Furnished,2,0,2 BHK Apartment , Ambattur ,Chennai
+806,"9,000",Unfurnished,2,2,2 BHKHouse , Individual house ,Chennai
+807,"11,000",Unfurnished,2,0,2 BHKHouse , Mangadu ,Chennai
+808,"10,000",Unfurnished,2,0,2 BHKHouse , Old Washermen Pet ,Chennai
+809,100000,Semi-Furnished,4,3,3 BHK Apartment , Thiruvidanthai ,Chennai
+810,"5,200",Unfurnished,1,0,1 BHKHouse , Sadayankuppam ,Chennai
+811,"26,000",Semi-Furnished,3,1,3 BHK Villa , Padapai ,Chennai
+812,"25,000",Semi-Furnished,3,3,3 BHK Apartment , Grand Southern Trunk Road ,Chennai
+813,"23,000",Furnished,3,2,3 BHKHouse , Poonamallee ,Chennai
+814,"11,000",Semi-Furnished,2,0,2 BHK Villa , Pattabiram ,Chennai
+815,"15,000",Unfurnished,2,1,2 BHK Apartment , Guduvancheri ,Chennai
+816,"10,500",Unfurnished,1,2,1 BHKHouse , Saligramam ,Chennai
+817,"40,000",Semi-Furnished,3,1,3 BHK Builder Floor , Semmancheri ,Chennai
+818,"75,000",Furnished,4,2,5 BHKHouse , West Balaji Nagar ,Chennai
+819,"28,000",Unfurnished,4,1,4 BHK Villa , Padur ,Chennai
+820,"20,000",Unfurnished,3,1,3 BHK Apartment , Camp Road ,Chennai
+821,150000,Furnished,5,4,4 BHK Apartment , Anna Nagar ,Chennai
+822,150000,Semi-Furnished,4,2,3 BHK Villa , Akkarai ,Chennai
+823,"30,000",Unfurnished,3,3,3 BHKHouse , Chitlapakkam ,Chennai
+824,"16,000",Semi-Furnished,4,2,2 BHK Villa , Madhavaram ,Chennai
+825,"15,000",Unfurnished,2,1,2 BHKHouse , Old Perungalathur ,Chennai
+826,"11,000",Unfurnished,1,0,1 BHKHouse , Lakshmi Nagar Kolathur ,Chennai
+827,"17,000",Semi-Furnished,3,2,3 BHKHouse , Kandigai ,Chennai
+828,"12,000",Unfurnished,1,0,2 BHK Apartment , Thirumudivakkam ,Chennai
+829,"5,500",Semi-Furnished,1,1,1 BHKHouse , Old Perungalathur ,Chennai
+830,"35,000",Unfurnished,2,2,2 BHK Apartment , KK Nagar ,Chennai
+831,"40,000",Semi-Furnished,3,0,4 BHK Builder Floor , Manapakkam ,Chennai
+832,"45,000",Semi-Furnished,3,2,3 BHKHouse , Kamakoti Nagar Pallikaranai ,Chennai
+833,"12,000",Unfurnished,2,1,2 BHK Apartment , Siva Sakthi Nagar Kolathur ,Chennai
+834,"14,000",Semi-Furnished,2,1,2 BHKHouse , Thiruninravur ,Chennai
+835,"19,000",Unfurnished,2,1,2 BHK Apartment , Ayyan vinayaka flats ,Chennai
+836,"15,000",Furnished,2,0,2 BHKHouse , Venkatamangalam ,Chennai
+837,"30,000",Furnished,3,1,3 BHK Villa , Vandalur ,Chennai
+838,"45,000",Furnished,3,0,3 BHK Villa , Mevalurkuppam ,Chennai
+839,"30,000",Semi-Furnished,2,0,2 BHKHouse , Tambaram ,Chennai
+840,"30,000",Semi-Furnished,2,0,2 BHKHouse , Tambaram ,Chennai
+841,"12,000",Semi-Furnished,2,0,2 BHKHouse , Sembakkam ,Chennai
+842,"18,000",Unfurnished,3,2,3 BHK Apartment , ,Chennai
+843,"5,000",Semi-Furnished,1,0,1 BHKHouse , Perungavoor ,Chennai
+844,"16,000",Unfurnished,2,1,2 BHKHouse , Kathirvedu ,Chennai
+845,"8,000",Semi-Furnished,1,1,2 BHKHouse , Mathur ,Chennai
+846,"19,500",Semi-Furnished,2,0,2 BHK Villa , Iyyappanthangal ,Chennai
+847,"27,000",Semi-Furnished,2,1,3 BHK Builder Floor , S Kolathur ,Chennai
+848,"18,000",Furnished,2,0,2 BHK Builder Floor , Kattupakkam ,Chennai
+849,"11,000",Semi-Furnished,2,0,2 BHK Builder Floor , Senneer Kuppam ,Chennai
+850,"18,000",Unfurnished,2,1,2 BHKHouse , Kodungaiyur East ,Chennai
+851,"11,000",Semi-Furnished,2,0,2 BHKHouse , Manali ,Chennai
+852,229999,Semi-Furnished,4,2,4 BHK Villa , Neelankarai ,Chennai
+853,"13,500",Semi-Furnished,2,0,2 BHKHouse , Vengambakkam ,Chennai
+854,"7,500",Unfurnished,1,0,1 BHK Builder Floor , Kattupakkam ,Chennai
+855,"5,000",Semi-Furnished,1,0,1 BHK Villa , Ayappakkam ,Chennai
+856,"7,000",Semi-Furnished,2,0,1 BHK Builder Floor , Tiruvottiyur ,Chennai
+857,"8,500",Unfurnished,1,0,1 BHK Builder Floor , Kattupakkam ,Chennai
+858,"11,000",Unfurnished,2,0,2 BHKHouse , Mannivakkam ,Chennai
+859,"7,500",Semi-Furnished,2,0,1 BHKHouse , Mangadu ,Chennai
+860,"13,000",Semi-Furnished,2,1,2 BHKHouse , Gerugambakkam ,Chennai
+861,"50,000",Semi-Furnished,3,0,3 BHK Apartment , Perumbakkam ,Chennai
+862,"15,000",Unfurnished,1,0,1 BHKHouse , Valasaravakkam ,Chennai
+863,"5,000",Unfurnished,1,0,Studio Apartment , Meenambakkam ,Chennai
+864,"22,000",Semi-Furnished,4,2,3 BHKHouse , Madhavaram Milk Colony ,Chennai
+865,"13,000",Unfurnished,2,0,2 BHK Builder Floor , Kolathur ,Chennai
+866,"16,000",Semi-Furnished,2,1,2 BHKHouse , Surappattu ,Chennai
+867,"24,500",Unfurnished,2,0,3 BHK Builder Floor , Porur ,Chennai
+868,"12,000",Unfurnished,2,1,2 BHKHouse , Puzhal ,Chennai
+869,"7,700",Unfurnished,2,0,2 BHK Builder Floor , Puzhal ,Chennai
+870,"10,000",Unfurnished,1,0,1 BHK Apartment , Madambakkam ,Chennai
+871,"8,000",Furnished,2,0,2 BHKHouse , Anakaputhur ,Chennai
+872,"14,000",Semi-Furnished,2,0,4 BHKHouse , Thiruninravur ,Chennai
+873,"22,000",Furnished,1,0,1 BHKHouse , Pammal ,Chennai
+874,"7,500",Unfurnished,1,0,2 BHKHouse , Kovur ,Chennai
+875,"10,000",Semi-Furnished,2,0,2 BHKHouse , Old Perungalathur ,Chennai
+876,"20,000",Unfurnished,1,1,1 BHKHouse , Pallavaram Kundrathur Road ,Chennai
+877,"5,500",Semi-Furnished,1,0,1 BHK Apartment , Kattupakkam ,Chennai
+878,"8,000",Semi-Furnished,2,1,2 BHKHouse , Assisi Nagar Madhavaram ,Chennai
+879,"20,000",Semi-Furnished,2,0,2 BHKHouse , Old Washermanpet ,Chennai
+880,"16,000",Semi-Furnished,1,0,2 BHK Builder Floor , Ashok Nagar ,Chennai
+881,"17,000",Unfurnished,1,0,2 BHKHouse , Villivakkam ,Chennai
+882,"14,000",Unfurnished,2,0,2 BHKHouse , Kallikuppam ,Chennai
+883,"25,000",Semi-Furnished,3,0,3 BHKHouse , Arumbakkam ,Chennai
+884,"12,000",Unfurnished,2,0,2 BHKHouse , Nungambakkam ,Chennai
+885,"10,000",Unfurnished,1,0,1 BHK Builder Floor , Ekkatuthangal ,Chennai
+886,"9,000",Unfurnished,1,0,1 BHKHouse , Ambattur ,Chennai
+887,"18,000",Unfurnished,2,0,2 BHK Builder Floor , Nungambakkam ,Chennai
+888,"10,000",Unfurnished,1,0,2 BHKHouse , Madhavaram ,Chennai
+889,"12,000",Unfurnished,2,1,2 BHK Builder Floor , Kolathur ,Chennai
+890,"8,500",Unfurnished,2,0,2 BHKHouse , Near Hastinapuram Govt school ,Chennai
+891,"15,000",Semi-Furnished,2,1,2 BHKHouse , Natesan Nagar Virugambakkam ,Chennai
+892,"20,000",Semi-Furnished,2,0,2 BHKHouse , Porur ,Chennai
+893,"50,000",Unfurnished,5,0,5 BHKHouse , Korattur ,Chennai
+894,"10,000",Unfurnished,2,1,2 BHKHouse , Thirumullaivoyal ,Chennai
+895,"18,000",Furnished,2,2,2 BHK Apartment , Madipakkam ,Chennai
+896,"32,000",Furnished,2,0,2 BHK Builder Floor , Vadapalani ,Chennai
+897,"14,000",Semi-Furnished,2,2,3 BHKHouse , Kamakoti Nagar Pallikaranai ,Chennai
+898,"20,000",Unfurnished,2,0,2 BHKHouse , Kambar Nagar ,Chennai
+899,"7,000",Unfurnished,1,0,1 BHKHouse , Manapakkam ,Chennai
+900,"7,000",Unfurnished,1,0,1 BHKHouse , Manapakkam ,Chennai
+901,"30,000",Semi-Furnished,2,0,2 BHK Apartment , Dr.Subbaraya Nagar Kodambakkam ,Chennai
+902,"14,000",Semi-Furnished,1,0,1 BHKHouse , Alwartirunagar ,Chennai
+903,"8,000",Unfurnished,1,0,1 BHKHouse , Thirumullaivoyal ,Chennai
+904,"14,000",Semi-Furnished,1,1,2 BHKHouse , South Thirumalai Nagar ,Chennai
+905,"7,750",Semi-Furnished,1,0,1 BHK Apartment , Kolathur ,Chennai
+906,"17,000",Semi-Furnished,3,1,3 BHK Apartment , East Tambaram ,Chennai
+907,"10,000",Unfurnished,2,0,2 BHKHouse , Thirumullaivoyal ,Chennai
+908,229999,Semi-Furnished,5,1,5 BHK Apartment , Shastri Nagar Adyar ,Chennai
+909,"9,000",Unfurnished,1,0,1 BHKHouse , Gerugambakkam ,Chennai
+910,"15,000",Furnished,1,1,2 BHKHouse , Guduvancheri ,Chennai
+911,"10,000",Unfurnished,2,1,2 BHK Apartment , Vigneshwara Nagar Tharapakkam ,Chennai
+912,150000,Furnished,4,0,5 BHKHouse , T Nagar ,Chennai
+913,"30,000",Semi-Furnished,2,0,2 BHK Apartment , Valmiki Nagar ,Chennai
+914,"15,000",Semi-Furnished,1,0,1 BHK Apartment , Saidapet ,Chennai
+915,"30,000",Semi-Furnished,3,2,3 BHK Apartment , Adayalampattu ,Chennai
+916,"35,000",Semi-Furnished,2,0,3 BHKHouse , Kalakshetra Colony ,Chennai
+917,"11,000",Unfurnished,2,1,2 BHKHouse , East Tambaram ,Chennai
+918,"22,500",Furnished,3,0,3 BHKHouse , Pallikaranai ,Chennai
+919,"8,000",Semi-Furnished,2,1,2 BHK Builder Floor , Guduvancheri ,Chennai
+920,"10,000",Semi-Furnished,1,1,1 BHK Apartment , Ullagaram Madipakkam ,Chennai
+921,"36,500",Unfurnished,4,0,4 BHKHouse , Kanathur ,Chennai
+922,"9,500",Unfurnished,2,1,2 BHKHouse , Guduvancherry ,Chennai
+923,"40,000",Unfurnished,3,0,3 BHKHouse , Egmore ,Chennai
+924,"15,000",Unfurnished,2,2,3 BHK Apartment , Urapakkam ,Chennai
+925,"13,000",Semi-Furnished,2,1,2 BHKHouse , Saraswathi Nagar Valasaravakkam ,Chennai
+926,120000,Semi-Furnished,4,0,3 BHK Apartment , Kotturpuram ,Chennai
+927,"11,500",Semi-Furnished,2,1,2 BHKHouse , Orathur ,Chennai
+928,"6,000",Semi-Furnished,1,0,1 BHKHouse , Red Hills ,Chennai
+929,"11,000",Semi-Furnished,2,0,2 BHK Builder Floor , Maduravoyal ,Chennai
+930,"13,000",Semi-Furnished,3,0,3 BHKHouse , Kolathur ,Chennai
+931,"10,000",Furnished,1,0,1 BHK Builder Floor , Madipakkam ,Chennai
+932,"7,500",Semi-Furnished,1,0,1 BHKHouse , Chitlapakkam ,Chennai
+933,"15,000",Unfurnished,3,0,3 BHKHouse , Porur ,Chennai
+934,"20,000",Unfurnished,2,0,3 BHKHouse , Pallavaram ,Chennai
+935,"15,000",Unfurnished,2,0,2 BHKHouse , Ambattur ,Chennai
+936,"17,000",Semi-Furnished,2,0,3 BHKHouse , Sithalapakkam ,Chennai
+937,"65,000",Furnished,2,0,3 BHK Apartment , Navalur ,Chennai
+938,"13,000",Semi-Furnished,2,0,3 BHK Apartment , Rajakilpakkam ,Chennai
+939,"11,000",Unfurnished,2,0,2 BHK Builder Floor , Guindy ,Chennai
+940,"12,000",Unfurnished,2,0,3 BHK Builder Floor , Iyyappanthangal ,Chennai
+941,"10,000",Unfurnished,2,0,2 BHK Builder Floor , Periyar Nagar West Perambur ,Chennai
+942,"10,000",Unfurnished,2,0,2 BHKHouse , Sithalapakkam ,Chennai
+943,"7,000",Unfurnished,1,0,1 BHKHouse , Pallikaranai ,Chennai
+944,"10,000",Unfurnished,3,0,3 BHK Villa , Guduvancheri ,Chennai
+945,"11,500",Semi-Furnished,2,0,2 BHKHouse , Medavakkam ,Chennai
+946,"10,000",Unfurnished,2,0,2 BHK Builder Floor , Nanmangalam Manikandan Nagar ,Chennai
+947,"11,000",Semi-Furnished,1,0,1 BHKHouse , KK Nagar ,Chennai
+948,"18,000",Semi-Furnished,2,0,2 BHKHouse , Maduravoyal ,Chennai
+949,"30,000",Semi-Furnished,3,0,3 BHKHouse , Korattur ,Chennai
+950,"19,000",Unfurnished,2,0,2 BHKHouse , Perambur ,Chennai
+951,"15,000",Semi-Furnished,2,0,2 BHKHouse , George Town ,Chennai
+952,"20,000",Semi-Furnished,2,0,2 BHK Villa , Sriperumbudur ,Chennai
+953,"9,000",Unfurnished,2,0,1 BHKHouse , Selaiyur ,Chennai
+954,"7,500",Semi-Furnished,1,0,1 BHKHouse , Valasaravakkam ,Chennai
+955,"18,000",Semi-Furnished,2,0,3 BHKHouse , Chromepet ,Chennai
+956,"9,000",Unfurnished,1,0,2 BHKHouse , Vandalur ,Chennai
+957,"13,000",Unfurnished,1,0,1 BHKHouse , Anna Nagar ,Chennai
+958,"15,000",Unfurnished,2,0,2 BHKHouse , Kodungaiyur ,Chennai
+959,"13,500",Semi-Furnished,2,2,2 BHK Villa , Chakrapani Nagar Kolapakkam ,Chennai
+960,"25,000",Furnished,2,0,2 BHKHouse , Porur ,Chennai
+961,"9,000",Unfurnished,2,0,2 BHKHouse , Kovur ,Chennai
+962,"9,000",Furnished,2,0,2 BHK Builder Floor , Korattur ,Chennai
+963,"10,000",Unfurnished,2,0,2 BHKHouse , Thirumullaivoyal ,Chennai
+964,"25,000",Semi-Furnished,2,0,2 BHK Builder Floor , Nungambakkam ,Chennai
+965,"12,000",Unfurnished,2,0,2 BHK Builder Floor , Pattara Vakkam ,Chennai
+966,"12,000",Unfurnished,2,0,2 BHKHouse , Surapet ,Chennai
+967,"10,000",Semi-Furnished,2,0,2 BHKHouse , Poonamallee ,Chennai
+968,"9,500",Semi-Furnished,1,0,1 BHKHouse , Triplicane ,Chennai
+969,"16,500",Furnished,1,0,1 BHK Builder Floor , Ramapuram ,Chennai
+970,"12,000",Unfurnished,1,0,1 BHK Apartment , Nungambakkam ,Chennai
+971,"60,000",Semi-Furnished,3,0,3 BHK Builder Floor , Anna Nagar ,Chennai
+972,"7,000",Unfurnished,2,0,2 BHKHouse , Pammal ,Chennai
+973,"17,000",Semi-Furnished,2,0,2 BHKHouse , Virugambakkam ,Chennai
+974,"10,000",Unfurnished,1,0,2 BHKHouse , Padapai ,Chennai
+975,"15,000",Unfurnished,2,0,2 BHKHouse , Korattur ,Chennai
+976,"12,000",Semi-Furnished,2,1,2 BHKHouse , Ambattur ,Chennai
+977,"15,000",Semi-Furnished,2,1,3 BHK Apartment , Ambattur ,Chennai
+978,100000,Furnished,4,1,3 BHKHouse , Anna Nagar ,Chennai
+979,"11,500",Semi-Furnished,2,0,2 BHK Builder Floor , New Perungalathur ,Chennai
+980,"8,500",Unfurnished,2,0,2 BHK Builder Floor , Avadi ,Chennai
+981,"17,000",Unfurnished,2,2,3 BHKHouse , Tondiarpet ,Chennai
+982,"12,500",Unfurnished,2,0,2 BHKHouse , Korattur ,Chennai
+983,"10,000",Unfurnished,1,0,2 BHKHouse , Puthagaram Korattur ,Chennai
+984,"25,000",Furnished,2,0,2 BHK Apartment , Porur ,Chennai
+985,"35,500",Unfurnished,2,1,3 BHK Apartment , Arumbakkam ,Chennai
+986,"13,000",Unfurnished,2,1,2 BHKHouse , Ambattur Estate ,Chennai
+987,"8,500",Semi-Furnished,1,0,1 BHK Apartment , Saligramam ,Chennai
+988,"11,500",Unfurnished,1,1,2 BHKHouse , Adambakkam ,Chennai
+989,"12,500",Semi-Furnished,1,0,1 BHKHouse , Kodambakkam ,Chennai
+990,"24,000",Semi-Furnished,2,1,2 BHK Apartment , Vadapalani ,Chennai
+991,"3,000",Unfurnished,1,0,1 BHKHouse , Sriperumbudur ,Chennai
+992,"14,000",Unfurnished,2,0,2 BHKHouse , Valasaravakkam ,Chennai
+993,"9,000",Semi-Furnished,2,0,2 BHKHouse , Vengapakkam ,Chennai
+995,"9,500",Unfurnished,1,0,1 BHKHouse , Perambur ,Chennai
+996,"4,000",Unfurnished,1,0,1 BHKHouse , Mogappair East ,Chennai
+997,"27,000",Unfurnished,2,0,2 BHK Apartment , Mandaveli ,Chennai
+998,"7,000",Unfurnished,1,0,1 BHKHouse , Tiruvottiyur ,Chennai
+999,"10,000",Furnished,1,0,1 BHKHouse , Ambattur ,Chennai
+1000,"30,000",Furnished,2,0,2 BHK Apartment , Korattur ,Chennai
+1001,"4,000",Unfurnished,1,0,1 BHK Apartment , Poonamallee ,Chennai
+1002,"14,000",Unfurnished,1,0,2 BHKHouse , Mugalivakkam ,Chennai
+1003,"8,000",Unfurnished,1,0,1 BHKHouse , Padi ,Chennai
+1004,"6,000",Furnished,1,0,1 BHKHouse , Ayappakkam ,Chennai
+1005,"9,000",Unfurnished,1,0,2 BHKHouse , Kolathur ,Chennai
+1006,"15,000",Semi-Furnished,2,0,2 BHKHouse , ,Chennai
+1007,"3,000",Unfurnished,1,0,1 BHKHouse , Perungudi ,Chennai
+1008,"22,000",Furnished,2,1,2 BHK Builder Floor , Perambur ,Chennai
+1009,"6,000",Unfurnished,2,1,2 BHKHouse , Kolathur ,Chennai
+1010,"25,000",Unfurnished,2,0,3 BHK Builder Floor , Kolapakkam ,Chennai
+1011,"20,000",Semi-Furnished,2,0,2 BHKHouse , Valasaravakkam ,Chennai
+1012,"15,000",Furnished,2,0,1 BHK Villa , Kolathur ,Chennai
+1013,100000,Unfurnished,3,2,3 BHK Builder Floor , Nungambakkam ,Chennai
+1014,"18,000",Semi-Furnished,2,0,2 BHK Builder Floor , T Nagar ,Chennai
+1015,"20,000",Unfurnished,3,1,3 BHKHouse , Nehru Nagar Perungudi ,Chennai
+1016,"12,000",Semi-Furnished,1,2,1 BHK Apartment , Kuthambakkam ,Chennai
+1017,"30,000",Semi-Furnished,2,1,3 BHK Apartment , abilasha Virugambakkam ,Chennai
+1018,"15,000",Semi-Furnished,2,1,2 BHK Builder Floor , Uthandi ,Chennai
+1019,"10,000",Semi-Furnished,2,0,2 BHKHouse , Porur ,Chennai
+1020,"32,000",Semi-Furnished,2,1,2 BHK Apartment , Koyambedu ,Chennai
+1021,"70,000",Furnished,3,1,3 BHK Apartment , Nandanam Extension ,Chennai
+1022,"16,000",Semi-Furnished,2,0,2 BHK Villa , Ponmar ,Chennai
+1023,"16,000",Semi-Furnished,3,2,3 BHKHouse , Madhavaram Milk Colony ,Chennai
+1024,"16,000",Semi-Furnished,2,0,2 BHK Apartment , East Tambaram ,Chennai
+1025,"16,000",Furnished,2,0,2 BHK Builder Floor , Medavakkam ,Chennai
+1026,"14,000",Semi-Furnished,2,0,2 BHK Builder Floor ," Rajakilpakkam, ",Chennai
+1027,"20,000",Semi-Furnished,3,0,3 BHK Villa , Porur garden phase 1 ,Chennai
+1028,"15,000",Semi-Furnished,2,0,3 BHKHouse ," Guduvancheri, ",Chennai
+1029,"7,000",Unfurnished,1,0,1 BHKHouse , Kodungaiyur East ,Chennai
+1030,"4,300",Semi-Furnished,1,0,1 BHKHouse , Kovur ,Chennai
+1031,"4,000",Unfurnished,1,1,1 BHKHouse , Tambaram ,Chennai
+1032,"17,000",Furnished,2,0,2 BHK Apartment ," G2, white rose apts, No:33/25, errikkarai street, nesapakkam, k k. Nagar west , chennai 6000078 ",Chennai
+1033,"10,000",Semi-Furnished,1,0,1 BHKHouse , Annanagar East ,Chennai
+1034,"7,500",Unfurnished,1,0,1 BHKHouse , Guduvancheri ,Chennai
+1035,"14,000",Unfurnished,2,0,2 BHKHouse ," Valasaravakkam, ",Chennai
+1036,"9,000",Unfurnished,2,0,2 BHKHouse , Ramapuram ,Chennai
+1037,"30,000",Semi-Furnished,3,0,3 BHK Builder Floor , Porur ,Chennai
+1038,"12,000",Unfurnished,2,1,2 BHK Apartment , Kelambakkam ,Chennai
+1039,"7,000",Semi-Furnished,1,0,1 BHKHouse , Tambaram ,Chennai
+1040,"15,000",Furnished,1,0,1 BHKHouse , Anna Nagar West Extension ,Chennai
+1041,"4,500",Unfurnished,1,0,1 BHKHouse , Ambattur ,Chennai
+1042,"12,000",Unfurnished,2,0,2 BHKHouse , Purasaiwakkam ,Chennai
+1043,"6,500",Semi-Furnished,1,0,1 BHKHouse , Anna Nagar ,Chennai
+1044,"12,000",Unfurnished,2,0,2 BHKHouse , Tambaram ,Chennai
+1045,"7,000",Unfurnished,1,0,1 BHKHouse , Mogappair East ,Chennai
+1046,"18,000",Unfurnished,2,0,2 BHKHouse , Royapettah ,Chennai
+1047,"7,500",Semi-Furnished,3,0,2 BHKHouse , TNHB Mig V Block ,Chennai
+1048,"60,000",Semi-Furnished,4,0,3 BHK Apartment , Egmore ,Chennai
+1049,"7,000",Unfurnished,1,0,1 BHKHouse , Kodungaiyur East ,Chennai
+1050,"15,500",Unfurnished,2,0,2 BHK Apartment , Ashok Nagar ,Chennai
+1051,"22,000",Semi-Furnished,2,2,2 BHK Apartment , Ramapuram ,Chennai
+1052,"80,000",Unfurnished,1,1,1 BHKHouse , Old Washermanpet ,Chennai
+1053,"8,500",Unfurnished,1,0,1 BHK Penthouse , Kamaraj Nagar Thiruvanmiyur ,Chennai
+1054,"12,500",Unfurnished,2,0,2 BHKHouse , New Perungalathur ,Chennai
+1055,"21,500",Semi-Furnished,2,1,2 BHK Villa , Saligramam ,Chennai
+1056,"16,000",Semi-Furnished,2,1,2 BHK Apartment , Kolathur ,Chennai
+1057,"35,000",Semi-Furnished,3,0,3 BHK Villa ," Rajanagar, Neelankarai ",Chennai
+1058,"24,000",Semi-Furnished,1,0,2 BHKHouse , KK Nagar ,Chennai
+1059,"5,000",Semi-Furnished,1,1,1 BHKHouse , Alwartirunagar ,Chennai
+1060,"26,000",Semi-Furnished,3,2,3 BHKHouse , Poompuhar Nagar Kolathur ,Chennai
+1061,"12,000",Unfurnished,2,0,2 BHKHouse , Maraimalai Nagar ,Chennai
+1062,"22,000",Unfurnished,2,2,2 BHK Apartment , aynavaram ,Chennai
+1063,"15,000",Unfurnished,1,0,2 BHKHouse , Perumal Nagar ,Chennai
+1064,"6,000",Furnished,1,1,Studio Apartment , Velachery ,Chennai
+1065,"12,000",Unfurnished,1,0,1 BHK Builder Floor , Vadapalani ,Chennai
+1066,"9,000",Unfurnished,2,0,2 BHK Apartment , Gowriwakkam ,Chennai
+1067,"7,000",Unfurnished,1,0,1 BHKHouse , 1bhk house rent at kolapkkam ,Chennai
+1068,"7,000",Unfurnished,1,0,1 BHKHouse , Kolapakkam ,Chennai
+1069,"35,000",Unfurnished,2,4,4 BHKHouse , Chindatripet ,Chennai
+1070,"20,000",Unfurnished,2,0,2 BHKHouse , Kattupakkam ,Chennai
+1071,"18,000",Unfurnished,3,0,3 BHK Apartment , Sriperumbudur ,Chennai
+1072,"5,500",Unfurnished,1,0,1 BHKHouse , Tondiarpet ,Chennai
+1073,"7,000",Unfurnished,1,0,1 BHK Apartment , Thirumullaivoyal Rajiv Gandhi Nagar ,Chennai
+1074,"25,000",Semi-Furnished,2,1,2 BHK Apartment , Lakshmi Sowjanya Apartment ,Chennai
+1076,"7,000",Semi-Furnished,2,1,2 BHK Builder Floor , Guduvancheri ,Chennai
+1077,"3,500",Semi-Furnished,1,0,2 BHKHouse , Karanodai ,Chennai
+1078,"16,000",Semi-Furnished,2,1,2 BHK Apartment , Meddavakkam Tank ,Chennai
+1079,"15,000",Semi-Furnished,3,1,3 BHK Villa , Tambaram ,Chennai
+1080,"5,000",Unfurnished,1,1,1 BHKHouse , Guduvancheri ,Chennai
+1081,"7,000",Semi-Furnished,2,0,2 BHKHouse , Urapakkam ,Chennai
+1082,"10,000",Semi-Furnished,1,1,2 BHKHouse , house ,Chennai
+1083,"15,000",Unfurnished,2,0,2 BHK Villa ," Chakrapani Nagar, Gerugambakkam ",Chennai
+1085,"15,000",Furnished,2,0,3 BHKHouse , Mannadi ,Chennai
+1086,"20,000",Semi-Furnished,3,0,3 BHKHouse , Madipakkam ,Chennai
+1087,"15,000",Unfurnished,2,1,2 BHK Apartment , Ambattur ,Chennai
+1088,"20,000",Unfurnished,1,0,2 BHKHouse , Jambulingam Street ,Chennai
+1089,"11,000",Semi-Furnished,1,1,1 BHKHouse , Rajshree building ,Chennai
+1090,"25,000",Furnished,2,0,2 BHK Builder Floor , Kotturpuram ,Chennai
+1091,"20,000",Unfurnished,2,0,2 BHK Villa ," Zamin Pallavaram, Near Vels University ",Chennai
+1092,"10,500",Unfurnished,2,0,1 BHKHouse , Mugalivakkam ,Chennai
+1093,"19,000",Semi-Furnished,3,1,2 BHKHouse , Ashok Nandhavanam ,Chennai
+1094,"20,000",Unfurnished,2,1,2 BHKHouse , Natesan Nagar Virugambakkam ,Chennai
+1095,"12,000",Semi-Furnished,2,0,2 BHKHouse , Poonamallee ,Chennai
+1096,"24,000",Semi-Furnished,2,0,2 BHK Apartment , Malles Raasi Enclave ,Chennai
+1097,"27,000",Furnished,3,1,3 BHK Villa , Navallur ,Chennai
+1099,"7,000",Unfurnished,1,1,1 BHK Apartment , pallikaranai jaladianpet ,Chennai
+1100,"50,001",Unfurnished,2,2,2 BHK Apartment ,  Bypass Road ,Chennai
+1101,"15,000",Unfurnished,2,0,2 BHKHouse ," Anna Nagar Madipakkam, Anna ",Chennai
+1102,"10,000",Semi-Furnished,1,0,1 BHKHouse , Kolathur ,Chennai
+1103,"15,000",Unfurnished,2,0,2 BHKHouse , Maraimalai Nagar ,Chennai
+1104,"6,000",Semi-Furnished,1,2,1 BHKHouse , Kaladipet ,Chennai
+1105,"20,000",Unfurnished,2,1,3 BHKHouse , East Tambaram ,Chennai
+1106,"30,000",Unfurnished,2,0,3 BHKHouse , TT Krishnamachari Road ,Chennai
+1107,"45,000",Semi-Furnished,3,4,3 BHK Apartment , Thiruvanmiyur ,Chennai
+1108,"12,000",Unfurnished,2,0,2 BHK Apartment ," TNHB, mugappair ",Chennai
+1109,"21,000",Unfurnished,2,1,2 BHKHouse , near Gill nagar  park ,Chennai
+1110,"6,000",Semi-Furnished,1,0,1 BHK Apartment , East Tambaram ,Chennai
+1111,"35,000",Furnished,2,0,3 BHK Apartment , RWD PALMGAYATRI NAGARMEDAVAKKAM ,Chennai
+1112,"6,500",Unfurnished,1,1,1 BHKHouse , Gandhi Nagar Avadi ,Chennai
+1113,"50,000",Furnished,3,2,3 BHK Apartment , Egmore ,Chennai
+1114,"18,000",Semi-Furnished,1,1,1 BHK Apartment , Iyyappanthangal ,Chennai
+1115,"7,500",Unfurnished,1,0,1 BHKHouse , Ponniammanmedu ,Chennai
+1116,"18,500",Unfurnished,2,0,2 BHK Builder Floor , Chintadripet ,Chennai
+1117,"10,000",Unfurnished,2,0,2 BHKHouse , Madipakkam ,Chennai
+1118,"25,000",Semi-Furnished,2,0,2 BHK Apartment , Saligramam ,Chennai
+1119,"17,000",Furnished,1,0,1 BHK Builder Floor , Nungambakkam ,Chennai
+1120,"42,000",Semi-Furnished,2,0,3 BHK Apartment , Pondy Bazaar ,Chennai
+1121,"26,000",Semi-Furnished,2,0,3 BHK Apartment , Perumbakkam ,Chennai
+1122,"6,500",Unfurnished,1,0,1 BHKHouse , Cholambedu ,Chennai
+1123,"60,000",Unfurnished,3,0,3 BHKHouse , Valasaravakkam ,Chennai
+1124,"10,000",Unfurnished,2,0,2 BHKHouse , Mangadu ,Chennai
+1125,"10,000",Unfurnished,1,0,1 BHKHouse , Sholinganallur ,Chennai
+1126,"7,500",Semi-Furnished,1,0,1 BHK Builder Floor , Villivakkam ,Chennai
+1127,"45,000",Semi-Furnished,3,0,3 BHKHouse , Manapakkam ,Chennai
+1128,"10,500",Semi-Furnished,1,0,1 BHK Builder Floor , Madhanandapuram ,Chennai
+1129,"25,000",Furnished,2,1,3 BHK Apartment , Medavakkam ,Chennai
+1130,"15,000",Furnished,1,0,1 BHKHouse , Tharamani ,Chennai
+1131,"10,000",Unfurnished,2,0,2 BHK Builder Floor , Banu Nagar ,Chennai
+1132,"15,000",Semi-Furnished,2,0,2 BHKHouse , borur ,Chennai
+1133,"10,500",Semi-Furnished,2,0,2 BHKHouse ," Ponniamman Koil Street, Madipakkam ",Chennai
+1134,"12,500",Unfurnished,2,0,2 BHKHouse , Manapakkam ,Chennai
+1135,"4,000",Unfurnished,1,0,1 BHKHouse , Tambaram ,Chennai
+1136,"65,000",Semi-Furnished,4,0,4 BHKHouse , Chetpet ,Chennai
+1137,"25,000",Semi-Furnished,4,3,5 BHKHouse , Thiruverkadu ,Chennai
+1138,"10,000",Unfurnished,2,2,2 BHK Builder Floor , Surappattu ,Chennai
+1139,"28,000",Semi-Furnished,2,0,3 BHKHouse , Perambur ,Chennai
+1140,"8,000",Semi-Furnished,1,0,1 BHKHouse , Moulivakkam ,Chennai
+1141,"17,000",Semi-Furnished,2,0,2 BHKHouse , Kolathur ,Chennai
+1142,"16,000",Semi-Furnished,2,1,3 BHKHouse , Madambakkam ,Chennai
+1143,"16,600",Unfurnished,3,1,3 BHKHouse , Selaiyur ,Chennai
+1144,"12,000",Unfurnished,1,1,2 BHKHouse , Kolathur ,Chennai
+1145,"7,500",Unfurnished,1,0,1 BHKHouse , Kolathur ,Chennai
+1146,"10,000",Furnished,3,0,3 BHKHouse , Tiruvottiyur ,Chennai
+1147,"9,000",Semi-Furnished,1,0,1 BHKHouse , Iyyappanthangal ,Chennai
+1148,"3,500",Unfurnished,1,1,1 BHKHouse , Ambattur ,Chennai
+1149,"14,000",Unfurnished,2,0,2 BHKHouse , Pallavaram ,Chennai
+1150,"4,000",Unfurnished,1,0,1 BHKHouse , ,Chennai
+1151,"13,000",Unfurnished,1,0,2 BHKHouse , Saligramam ,Chennai
+1152,"15,000",Unfurnished,2,0,2 BHKHouse , Madambakkam ,Chennai
+1153,"16,000",Semi-Furnished,2,0,2 BHK Builder Floor , Pozhichalur ,Chennai
+1154,"13,000",Unfurnished,2,0,2 BHKHouse , Ekkatuthangal ,Chennai
+1155,"7,500",Unfurnished,1,0,1 BHKHouse , Kattupakkam ,Chennai
+1156,"16,000",Unfurnished,2,0,3 BHKHouse , Adambakkam ,Chennai
+1157,"10,000",Unfurnished,1,0,2 BHKHouse , Kattupakkam ,Chennai
+1158,"12,000",Semi-Furnished,2,0,2 BHK Apartment , Karayanchavadi ,Chennai
+1159,"11,000",Semi-Furnished,1,0,1 BHKHouse , Ambattur ,Chennai
+1160,"6,000",Semi-Furnished,1,0,1 BHKHouse , Mogappair East ,Chennai
+1161,"8,500",Unfurnished,1,0,1 BHK Builder Floor , Ayanavaram ,Chennai
+1162,"20,000",Unfurnished,2,0,2 BHKHouse , Kolathur ,Chennai
+1163,"25,000",Semi-Furnished,2,0,2 BHKHouse , Royapettah ,Chennai
+1164,"6,000",Unfurnished,1,0,1 BHKHouse , Ponniammanmedu ,Chennai
+1165,"11,000",Semi-Furnished,1,0,2 BHKHouse , Old Washermanpet ,Chennai
+1166,"16,000",Unfurnished,1,0,1 BHKHouse , Adyar ,Chennai
+1167,"50,000",Furnished,2,0,2 BHK Builder Floor , T Nagar ,Chennai
+1168,"18,000",Unfurnished,1,0,1 BHKHouse , Adyar ,Chennai
+1169,"9,500",Unfurnished,1,0,1 BHKHouse , Korattur ,Chennai
+1170,"10,000",Semi-Furnished,2,0,1 BHKHouse , Mambalam West ,Chennai
+1171,"4,000",Unfurnished,1,0,1 BHKHouse , Adambakkam ,Chennai
+1172,"28,000",Semi-Furnished,3,0,3 BHK Builder Floor , Abiramapuram ,Chennai
+1173,"15,000",Unfurnished,2,1,2 BHK Builder Floor , Arul Nagar Madhavaram Milk Colony ,Chennai
+1174,"7,000",Semi-Furnished,1,0,1 BHKHouse , Choolai ,Chennai
+1175,"5,500",Semi-Furnished,1,0,1 BHKHouse , Puzhal ,Chennai
+1176,"10,000",Furnished,2,0,2 BHKHouse , Korattur ,Chennai
+1177,"15,000",Semi-Furnished,2,1,2 BHKHouse , Mangadu ,Chennai
+1178,"3,500",Unfurnished,1,0,1 BHKHouse , Iyyappanthangal ,Chennai
+1179,"15,000",Unfurnished,2,1,2 BHK Builder Floor , Choolaimedu ,Chennai
+1180,"9,000",Unfurnished,2,1,2 BHK Builder Floor , Iyyappanthangal ,Chennai
+1181,"9,000",Semi-Furnished,1,0,1 BHKHouse , Annanagar East ,Chennai
+1182,"11,000",Furnished,2,0,2 BHKHouse , Pallikaranai ,Chennai
+1183,"10,000",Unfurnished,3,1,3 BHK Villa , Urapakkam ,Chennai
+1184,"15,000",Semi-Furnished,3,1,3 BHK Apartment , Kelambakkam ,Chennai
+1185,"20,000",Unfurnished,2,0,2 BHK Builder Floor , Thorapakkamm ,Chennai
+1186,"6,000",Unfurnished,1,0,1 BHKHouse , Iyyappanthangal ,Chennai
+1187,"15,000",Furnished,2,0,3 BHKHouse , Konnur ,Chennai
+1188,"3,500",Semi-Furnished,1,0,1 BHK Builder Floor , Maduravoyal ,Chennai
+1189,"3,500",Unfurnished,1,1,1 BHKHouse , Meenambakkam ,Chennai
+1190,"22,000",Semi-Furnished,2,1,2 BHK Builder Floor , Pammal ,Chennai
+1191,"10,000",Unfurnished,1,0,1 BHKHouse , Old Washermanpet ,Chennai
+1192,"11,000",Furnished,2,0,2 BHKHouse , Puzhal ,Chennai
+1193,"7,000",Semi-Furnished,1,0,1 BHKHouse , Lakshmipuram ,Chennai
+1194,"12,000",Semi-Furnished,2,0,2 BHKHouse , Sithalapakkam ,Chennai
+1195,"15,000",Semi-Furnished,2,0,2 BHKHouse , Iyyappanthangal ,Chennai
+1196,"7,000",Unfurnished,1,0,2 BHKHouse , Guduvancheri ,Chennai
+1197,"15,000",Semi-Furnished,2,0,2 BHKHouse , Thiruporur ,Chennai
+1198,"22,000",Unfurnished,2,0,2 BHKHouse , Thirumangalam  ,Chennai
+1199,"16,500",Unfurnished,2,0,2 BHKHouse , Nanganallur ,Chennai
+1200,"10,000",Unfurnished,2,0,2 BHKHouse , Pammal ,Chennai
+1201,"10,000",Unfurnished,1,0,1 BHK Builder Floor , Avadi ,Chennai
+1202,"8,500",Semi-Furnished,1,0,1 BHKHouse , Kolathur ,Chennai
+1203,"13,500",Semi-Furnished,2,0,2 BHK Builder Floor , Ullagara madipakkam ,Chennai
+1204,"7,000",Semi-Furnished,1,0,1 BHKHouse , ,Chennai
+1205,"16,000",Unfurnished,2,0,2 BHKHouse , Vadapalani ,Chennai
+1206,"14,000",Unfurnished,1,0,1 BHK Builder Floor , Agaramthen ,Chennai
+1207,"17,000",Unfurnished,2,0,2 BHKHouse , Ponniammanmedu ,Chennai
+1208,"4,000",Furnished,1,0,1 BHKHouse , Nanmangalam Manikandan Nagar ,Chennai
+1209,"7,500",Unfurnished,1,0,2 BHKHouse , Annanur ,Chennai
+1210,"10,000",Unfurnished,1,0,2 BHKHouse , Santhosapuram ,Chennai
+1211,"7,500",Unfurnished,1,0,2 BHKHouse , Ambattur Industrial Estate ,Chennai
+1212,"21,000",Semi-Furnished,2,0,2 BHK Builder Floor , Valasaravakkam ,Chennai
+1213,"11,000",Unfurnished,1,0,2 BHKHouse , Iyyappanthangal ,Chennai
+1214,"7,000",Unfurnished,1,0,1 BHK Builder Floor , Porur ,Chennai
+1215,"8,000",Semi-Furnished,2,0,2 BHKHouse , Urapakkam ,Chennai
+1216,"27,000",Semi-Furnished,3,0,3 BHKHouse , Villivakkam ,Chennai
+1217,"11,000",Semi-Furnished,2,0,2 BHK Builder Floor , Perungalathur ,Chennai
+1218,"35,000",Semi-Furnished,3,0,3 BHK Builder Floor , West Mambalam ,Chennai
+1219,"20,000",Unfurnished,3,0,4 BHKHouse , Sithalapakkam ,Chennai
+1220,"13,000",Semi-Furnished,2,0,2 BHK Builder Floor , Kovilambakkam ,Chennai
+1221,"10,000",Semi-Furnished,2,0,2 BHK Builder Floor , Madambakkam ,Chennai
+1222,"8,500",Semi-Furnished,1,0,1 BHK Builder Floor , Ambattur ,Chennai
+1223,"6,500",Unfurnished,1,0,1 BHKHouse , Pallavaram ,Chennai
+1224,"8,000",Semi-Furnished,1,0,2 BHKHouse , Mangadu ,Chennai
+1225,"10,000",Unfurnished,2,0,2 BHKHouse , Sembakkam ,Chennai
+1226,"11,000",Semi-Furnished,2,0,2 BHKHouse , Rajakilpakkam ,Chennai
+1227,"14,000",Semi-Furnished,1,0,2 BHK Apartment , Chromepet ,Chennai
+1228,"12,000",Semi-Furnished,2,0,2 BHKHouse , Ayanavaram ,Chennai
+1229,"15,000",Semi-Furnished,3,0,3 BHKHouse , Kodungaiyur ,Chennai
+1230,"10,000",Unfurnished,2,0,2 BHKHouse , Lakshmipuram ,Chennai
+1231,"7,000",Semi-Furnished,1,0,1 BHKHouse , Puzhal ,Chennai
+1232,"12,000",Unfurnished,2,0,2 BHKHouse , Lakshmipuram ,Chennai
+1233,"6,500",Unfurnished,1,0,1 BHKHouse , Kovur ,Chennai
+1234,"7,500",Unfurnished,1,0,1 BHKHouse , Sithalapakkam ,Chennai
+1235,"7,000",Semi-Furnished,1,0,1 BHK Builder Floor , Puzhal ,Chennai
+1236,"4,000",Semi-Furnished,1,0,1 BHK Builder Floor , Keelkattalai ,Chennai
+1237,"9,000",Unfurnished,2,0,2 BHKHouse , Moulivakkam ,Chennai
+1238,"18,000",Semi-Furnished,2,0,3 BHKHouse , Selaiyur ,Chennai
+1239,"10,500",Unfurnished,2,0,2 BHKHouse , ,Chennai
+1240,"10,000",Unfurnished,2,0,2 BHKHouse , Ambattur ,Chennai
+1241,"12,000",Unfurnished,2,0,2 BHKHouse , Ambattur ,Chennai
+1242,"15,000",Unfurnished,2,0,2 BHKHouse , Porur ,Chennai
+1243,"11,000",Unfurnished,2,3,2 BHK Builder Floor , Mathur ,Chennai
+1244,"5,000",Unfurnished,1,1,1 BHKHouse , Vellakkal ,Chennai
+1245,"12,000",Semi-Furnished,2,0,2 BHKHouse , Parangi Malai ,Chennai
+1246,"8,000",Unfurnished,1,0,1 BHK Apartment , Kundrathur ,Chennai
+1247,"9,000",Unfurnished,2,0,1 BHKHouse , Virugambakkam ,Chennai
+1248,"30,000",Unfurnished,3,0,4 BHKHouse , Wall Tax Road ,Chennai
+1249,"14,500",Unfurnished,1,0,1 BHK Builder Floor , Kasthuribai Nagar Tambaram ,Chennai
+1250,"10,000",Unfurnished,2,0,2 BHK Builder Floor , Poonamalle ,Chennai
+1251,"25,000",Semi-Furnished,2,0,2 BHKHouse , Mylapore ,Chennai
+1252,"9,000",Semi-Furnished,2,0,2 BHK Builder Floor , Iyyappanthangal ,Chennai
+1253,"7,500",Unfurnished,1,0,1 BHKHouse , Kaladipet ,Chennai
+1254,"5,000",Semi-Furnished,1,0,2 BHKHouse , Kolathur ,Chennai
+1255,"15,000",Unfurnished,2,0,2 BHKHouse , Valasaravakkam ,Chennai
+1256,"12,000",Semi-Furnished,2,0,2 BHK Builder Floor , Moulivakkam ,Chennai
+1257,"21,000",Furnished,3,1,3 BHKHouse , Ramapuram ,Chennai
+1258,"10,500",Semi-Furnished,2,0,2 BHKHouse , Kolapakkam ,Chennai
+1259,"11,000",Unfurnished,2,1,2 BHK Builder Floor , Kattupakkam ,Chennai
+1260,"20,000",Furnished,2,0,2 BHK Builder Floor , Kundrathur ,Chennai
+1261,"15,000",Unfurnished,2,0,2 BHK Builder Floor , Annanur ,Chennai
+1262,"18,000",Semi-Furnished,2,0,2 BHK Builder Floor , West Saidapet ,Chennai
+1263,"7,500",Unfurnished,1,0,1 BHK Builder Floor , Selaivayal ,Chennai
+1264,"12,000",Semi-Furnished,2,0,2 BHK Builder Floor , Pallikaranai ,Chennai
+1265,"7,500",Semi-Furnished,2,0,2 BHK Apartment , Thiruporur ,Chennai
+1266,"20,000",Furnished,3,0,3 BHKHouse , Anakaputhur ,Chennai
+1267,130000,Semi-Furnished,3,1,3 BHK Villa , Kanathur ,Chennai
+1268,"22,000",Furnished,1,0,1 BHK Apartment , Anna Nagar ,Chennai
+1269,"11,000",Unfurnished,1,0,2 BHKHouse , Kil Ayanambakkam ,Chennai
+1270,"14,000",Unfurnished,2,0,2 BHKHouse , Manapakkam ,Chennai
+1271,"7,500",Semi-Furnished,1,0,1 BHKHouse , Iyyappanthangal ,Chennai
+1272,"16,000",Furnished,2,0,2 BHK Builder Floor , Pulianthope ,Chennai
+1273,"18,000",Semi-Furnished,2,0,2 BHKHouse , Mangadu ,Chennai
+1274,"50,000",Semi-Furnished,3,0,3 BHK Villa , Kottivakkam ,Chennai
+1275,"10,500",Semi-Furnished,2,0,2 BHKHouse , Mogappair West Ambattur Industrial Estate ,Chennai
+1276,"7,000",Unfurnished,1,0,2 BHKHouse , Padi ,Chennai
+1277,"10,000",Unfurnished,2,0,2 BHKHouse , Tiruneermalai ,Chennai
+1278,"9,500",Unfurnished,1,0,1 BHKHouse , Iyyappanthangal ,Chennai
+1279,"12,000",Unfurnished,2,1,2 BHK Builder Floor , KK Nagar ,Chennai
+1280,"8,500",Semi-Furnished,2,0,2 BHK Apartment , Porur ,Chennai
+1281,"12,500",Semi-Furnished,2,0,2 BHKHouse , Chromepet ,Chennai
+1282,"11,000",Unfurnished,2,0,2 BHKHouse , Maduravoyal ,Chennai
+1283,"14,000",Unfurnished,2,0,2 BHKHouse , Mylapore ,Chennai
+1284,"25,000",Unfurnished,2,0,2 BHKHouse , T Nagar ,Chennai
+1285,"8,000",Unfurnished,2,0,3 BHKHouse , Mudichur Road ,Chennai
+1286,"10,000",Unfurnished,1,0,1 BHKHouse , Nesapakkam ,Chennai
+1287,"9,500",Semi-Furnished,2,0,2 BHKHouse , Sathyamoorthy Nagar Tiruvottiyur ,Chennai
+1288,"12,500",Semi-Furnished,1,0,1 BHKHouse , Nungambakkam ,Chennai
+1289,"18,500",Unfurnished,2,0,2 BHKHouse , Mylapore ,Chennai
+1290,"6,000",Semi-Furnished,1,0,1 BHKHouse , Red Hills ,Chennai
+1291,"22,000",Semi-Furnished,2,0,2 BHKHouse , Secretariat Colony Thoraipakkam ,Chennai
+1292,"30,000",Furnished,3,0,3 BHK Villa , Thazhambur ,Chennai
+1293,"15,000",Unfurnished,1,0,2 BHKHouse , Virugambakkam ,Chennai
+1294,"17,000",Semi-Furnished,2,1,2 BHK Builder Floor , Sholinganallur ,Chennai
+1295,"20,000",Unfurnished,2,0,2 BHK Builder Floor , Trustpuram ,Chennai
+1296,"8,500",Unfurnished,2,0,2 BHKHouse , Paraniputhur ,Chennai
+1297,"13,000",Furnished,2,0,2 BHKHouse , ,Chennai
+1298,"10,500",Unfurnished,1,0,1 BHKHouse , Ayanavaram ,Chennai
+1299,"12,000",Unfurnished,2,0,2 BHK Builder Floor , Porur ,Chennai
+1300,"15,000",Semi-Furnished,1,0,1 BHKHouse , Choolaimedu ,Chennai
+1301,"12,000",Semi-Furnished,1,0,1 BHKHouse , Teynampet ,Chennai
+1302,"25,000",Furnished,3,0,3 BHKHouse , Mangadu ,Chennai
+1303,"15,000",Semi-Furnished,2,0,3 BHK Apartment , Kolapakkam ,Chennai
+1304,"7,000",Unfurnished,1,0,2 BHKHouse , Anakaputhur ,Chennai
+1305,"15,000",Semi-Furnished,3,0,2 BHKHouse , Sithalapakkam ,Chennai
+1306,"27,000",Unfurnished,1,0,1 BHKHouse , Raja Annamalai Puram ,Chennai
+1307,"8,200",Unfurnished,2,0,2 BHKHouse , Manali ,Chennai
+1308,"12,000",Unfurnished,2,0,2 BHK Builder Floor , West Tambaram ,Chennai
+1309,"19,000",Unfurnished,2,0,2 BHK Builder Floor , Raja Annamalai Puram ,Chennai
+1310,"7,000",Unfurnished,1,0,1 BHKHouse , Kattupakkam ,Chennai
+1311,"6,000",Semi-Furnished,1,0,1 BHKHouse , Puzhal ,Chennai
+1312,"12,000",Semi-Furnished,2,0,2 BHKHouse , Iyyappanthangal ,Chennai
+1313,"7,000",Unfurnished,1,0,2 BHKHouse , Pallikaranai ,Chennai
+1314,"13,000",Semi-Furnished,2,0,2 BHKHouse , Mahalakshmi Nagar Annexe ,Chennai
+1315,"22,000",Unfurnished,2,2,2 BHK Apartment , Anna Nagar ,Chennai
+1316,"40,000",Unfurnished,3,0,3 BHKHouse , Fathima Nagar Valasaravakkam ,Chennai
+1317,"12,000",Semi-Furnished,3,1,3 BHKHouse , Guduvancheri ,Chennai
+1319,"8,500",Unfurnished,1,0,2 BHKHouse , Natesan Nagar Iyyappanthangal ,Chennai
+1320,"17,500",Unfurnished,2,1,2 BHK Apartment , Guindy ,Chennai
+1321,"13,000",Unfurnished,2,2,2 BHK Apartment , Sholinganallur ,Chennai
+1322,"14,000",Semi-Furnished,2,2,2 BHK Apartment , Urapakkam ,Chennai
+1323,"75,000",Furnished,4,5,4 BHK Apartment , Anna Nagar ,Chennai
+1324,"7,500",Unfurnished,1,1,1 BHKHouse , Ambattur ,Chennai
+1325,"9,500",Semi-Furnished,2,1,2 BHKHouse , Jyothi Nagar Annanur ,Chennai
+1326,"36,000",Furnished,3,3,3 BHK Apartment , Navalur ,Chennai
+1327,"50,000",Semi-Furnished,3,2,3 BHK Apartment , Shastri Nagar Adyar ,Chennai
+1328,"16,000",Unfurnished,2,0,2 BHKHouse , Saligramam ,Chennai
+1329,"20,000",Unfurnished,2,0,2 BHK Builder Floor , Kodambakkam ,Chennai
+1330,"3,500",Unfurnished,1,0,1 BHKHouse , Ayanavaram ,Chennai
+1331,"14,500",Unfurnished,2,2,2 BHK Apartment , Rajaji Nagar Meenatchi Sundareswarar Koil ,Chennai
+1332,"9,000",Unfurnished,2,1,2 BHKHouse , Pozhichalur ,Chennai
+1333,"10,000",Unfurnished,1,0,2 BHKHouse , Perungalathur ,Chennai
+1334,"10,000",Unfurnished,2,1,2 BHKHouse , Ellaiyamman Nagar Korattur ,Chennai
+1335,"15,000",Furnished,2,0,2 BHK Builder Floor , Porur Gardens ,Chennai
+1336,"9,500",Unfurnished,2,1,2 BHKHouse , Thirumullaivoyal ,Chennai
+1337,110000,Semi-Furnished,3,1,3 BHK Apartment , Adyar ,Chennai
+1338,"25,000",Furnished,2,3,3 BHK Apartment , Iyyappanthangal ,Chennai
+1339,"8,500",Unfurnished,2,2,1 BHK Apartment , Tambaram West Tambaram ,Chennai
+1340,"9,000",Semi-Furnished,2,2,2 BHKHouse , Thiruverkadu ,Chennai
+1341,"6,500",Unfurnished,1,0,1 BHKHouse , Ayappakkam ,Chennai
+1342,"17,000",Unfurnished,2,1,3 BHKHouse , Guduvancheri ,Chennai
+1343,"13,000",Unfurnished,2,0,1 BHK Apartment , Sai Baba Colony ,Chennai
+1344,"11,000",Unfurnished,1,1,2 BHKHouse , Kolathur ,Chennai
+1345,"18,000",Unfurnished,2,1,2 BHK Apartment , Iyyappanthangal ,Chennai
+1346,"12,000",Unfurnished,2,2,2 BHK Apartment , Mahindra World City ,Chennai
+1347,"30,000",Unfurnished,2,3,3 BHKHouse , Virugambakkam ,Chennai
+1348,"7,000",Semi-Furnished,1,0,1 BHKHouse , Urapakkam ,Chennai
+1349,"35,000",Unfurnished,3,1,3 BHKHouse , Subasree Nagar Extension ,Chennai
+1350,"16,000",Semi-Furnished,4,1,3 BHK Villa , Kelambakkam ,Chennai
+1351,"27,000",Semi-Furnished,2,0,2 BHK Builder Floor , Nanganallur ,Chennai
+1352,"15,800",Unfurnished,1,2,2 BHKHouse , West Saidapet ,Chennai
+1353,"15,000",Semi-Furnished,2,0,2 BHK Builder Floor , Porur ,Chennai
+1354,"18,000",Semi-Furnished,3,0,3 BHKHouse , Kolathur ,Chennai
+1355,"18,000",Semi-Furnished,2,1,2 BHKHouse , Kolathur ,Chennai
+1356,"9,000",Semi-Furnished,2,2,2 BHK Apartment , Singaperumal Koil ,Chennai
+1357,"10,000",Unfurnished,2,0,2 BHKHouse , Mangadu ,Chennai
+1358,"11,000",Semi-Furnished,2,0,2 BHKHouse , Puthagaram Korattur ,Chennai
+1359,"4,000",Semi-Furnished,1,0,1 BHKHouse , Madambakkam ,Chennai
+1360,"18,000",Furnished,2,0,3 BHKHouse , Red Hills ,Chennai
+1361,"37,000",Unfurnished,4,0,4 BHK Apartment , Koyambedu ,Chennai
+1362,"8,000",Furnished,2,1,2 BHKHouse , Thiruninravur ,Chennai
+1363,"9,000",Unfurnished,1,0,1 BHKHouse , Perungalathur ,Chennai
+1364,"15,000",Unfurnished,2,0,2 BHKHouse , Kolathur ,Chennai
+1365,"9,000",Unfurnished,1,0,1 BHKHouse , Kodungaiyur ,Chennai
+1366,"10,000",Semi-Furnished,2,0,2 BHKHouse , Perambur ,Chennai
+1367,"8,000",Unfurnished,2,0,2 BHKHouse , Guduvancheri ,Chennai
+1368,"6,000",Unfurnished,1,1,1 BHK Builder Floor , Ambattur ,Chennai
+1369,"50,000",Semi-Furnished,3,2,3 BHK Apartment , Mylapore ,Chennai
+1370,"15,000",Unfurnished,2,1,2 BHK Builder Floor , Kannan House ,Chennai
+1371,"14,000",Semi-Furnished,2,2,2 BHK Apartment ," Avadi, Thirumalairajapuram ",Chennai
+1372,"7,000",Unfurnished,1,1,1 BHKHouse , Kamarajar Salai Tambaram ,Chennai
+1373,"35,000",Furnished,2,0,3 BHK Villa , Chitlapakkam ,Chennai
+1374,"40,000",Semi-Furnished,4,2,4 BHK Apartment , Pallikaranai ,Chennai
+1375,"13,500",Semi-Furnished,2,1,2 BHK Apartment , Iyyappanthangal ,Chennai
+1376,"12,500",Unfurnished,1,0,1 BHK Apartment , Nanganallur ,Chennai
+1377,"15,000",Unfurnished,1,0,1 BHKHouse , Saidapet ,Chennai
+1378,"40,000",Furnished,3,0,3 BHKHouse , Porur ,Chennai
+1379,"10,500",Unfurnished,1,1,2 BHKHouse , Tambaram ,Chennai
+1380,"15,000",Semi-Furnished,2,1,2 BHK Apartment , Ayanavaram ,Chennai
+1381,"12,000",Unfurnished,1,0,2 BHKHouse , Ayappakkam ,Chennai
+1382,"20,000",Furnished,2,0,2 BHKHouse , Chinna Neelankarai ,Chennai
+1383,"20,000",Unfurnished,2,1,2 BHKHouse , Madambakkam ,Chennai
+1384,"30,000",Unfurnished,2,0,2 BHKHouse , Valasaravakkam ,Chennai
+1385,"14,000",Unfurnished,2,0,1 BHKHouse , Tirusulam ,Chennai
+1386,"13,000",Unfurnished,1,0,1 BHKHouse , KK Nagar ,Chennai
+1387,100000,Unfurnished,7,0,7 BHKHouse , Ambattur ,Chennai
+1388,"35,000",Unfurnished,4,3,5 BHK Builder Floor , Arumbakkam ,Chennai
+1389,"12,000",Unfurnished,2,0,2 BHKHouse , Mathur ,Chennai
+1390,"9,000",Unfurnished,1,0,2 BHK Builder Floor , Tambaram ,Chennai
+1391,"5,000",Unfurnished,1,0,1 BHKHouse , Valasaravakkam ,Chennai
+1392,"10,000",Semi-Furnished,2,0,2 BHKHouse , Kil Ayanambakkam ,Chennai
+1393,"15,000",Unfurnished,2,0,2 BHKHouse , Nanmangalam ,Chennai
+1395,"12,000",Unfurnished,2,0,2 BHKHouse , Thiruverkadu ,Chennai
+1396,"12,000",Semi-Furnished,2,1,2 BHK Builder Floor , Madambakkam ,Chennai
+1397,"7,000",Semi-Furnished,1,0,1 BHKHouse , Arumbakkam ,Chennai
+1398,"12,000",Unfurnished,2,0,2 BHKHouse , Mangadu ,Chennai
+1399,"15,000",Semi-Furnished,2,0,2 BHKHouse , Madambakkam ,Chennai
+1400,"55,000",Semi-Furnished,3,2,3 BHK Apartment , Semmancheri ,Chennai
+1401,"13,000",Semi-Furnished,2,0,2 BHKHouse , Koyambedu ,Chennai
+1402,"6,500",Unfurnished,1,0,1 BHKHouse , Surappattu ,Chennai
+1403,"10,000",Semi-Furnished,1,0,1 BHKHouse , Chintadripet ,Chennai
+1404,"15,000",Semi-Furnished,2,0,2 BHK Builder Floor , Kolathur ,Chennai
+1405,"8,500",Unfurnished,2,0,2 BHKHouse , Madhavaram ,Chennai
+1406,"7,500",Unfurnished,1,0,1 BHKHouse , Mahakavi Bharathi Nagar ,Chennai
+1407,"30,000",Semi-Furnished,3,0,3 BHK Apartment , Medavakkam ,Chennai
+1408,"13,000",Unfurnished,2,0,2 BHKHouse , Ambattur ,Chennai
+1409,"8,000",Unfurnished,2,0,2 BHKHouse , Poonamallee ,Chennai
+1410,"10,200",Unfurnished,1,0,1 BHKHouse , Tambaram ,Chennai
+1411,"15,000",Unfurnished,2,0,2 BHKHouse , Villivakkam ,Chennai
+1412,"5,800",Semi-Furnished,1,0,1 BHK Apartment , Anakaputhur ,Chennai
+1413,"15,000",Semi-Furnished,2,0,3 BHKHouse ," Agastheeswar Nagar, Polichalur ",Chennai
+1414,"11,000",Unfurnished,2,0,2 BHKHouse , Madhanandapuram ,Chennai
+1415,"13,500",Unfurnished,2,0,2 BHK Builder Floor , Ambattur ,Chennai
+1416,"11,500",Semi-Furnished,1,0,2 BHKHouse , Jafferkhanpet ,Chennai
+1417,"8,000",Semi-Furnished,1,0,1 BHKHouse , Medavakkam ,Chennai
+1418,"13,000",Unfurnished,2,0,2 BHKHouse , Ullagaram ,Chennai
+1419,"17,000",Semi-Furnished,1,0,1 BHKHouse , Besant Nagar ,Chennai
+1420,"7,300",Semi-Furnished,2,0,1 BHK Builder Floor , Thirumullaivoyal ,Chennai
+1421,"9,000",Semi-Furnished,1,0,2 BHKHouse , Madavara ,Chennai
+1422,"3,500",Unfurnished,1,0,Studio Apartment , Vadapalani ,Chennai
+1423,"6,000",Unfurnished,2,0,2 BHK Villa ,  Tiruvallur High Road ,Chennai
+1424,"15,000",Unfurnished,2,0,2 BHK Builder Floor , Mogappair ,Chennai
+1425,"11,000",Unfurnished,2,0,2 BHK Builder Floor , Sithalapakkam ,Chennai
+1426,"45,000",Unfurnished,3,0,3 BHK Apartment , Porur ,Chennai
+1427,"11,000",Unfurnished,2,0,2 BHKHouse , Chromepet ,Chennai
+1428,"68,000",Furnished,3,0,3 BHK Builder Floor , Egmore ,Chennai
+1429,"9,000",Semi-Furnished,1,0,2 BHKHouse , Oragadam ,Chennai
+1430,"12,000",Unfurnished,1,0,2 BHKHouse , Thirumullaivoyal ,Chennai
+1431,"8,000",Unfurnished,1,0,1 BHKHouse , Ennore ,Chennai
+1432,"7,000",Unfurnished,1,0,1 BHKHouse , Tharapakkam ,Chennai
+1433,"7,500",Unfurnished,1,0,1 BHK Builder Floor , Kolapakkam ,Chennai
+1434,"7,500",Unfurnished,2,0,2 BHKHouse , Oragadam ,Chennai
+1435,"15,000",Unfurnished,2,0,2 BHKHouse , Pallavaram ,Chennai
+1436,"8,000",Unfurnished,2,0,2 BHK Builder Floor , Poonamallee ,Chennai
+1437,"9,500",Unfurnished,1,0,1 BHKHouse , Kolathur ,Chennai
+1438,"7,000",Unfurnished,1,0,2 BHKHouse , Selaivayal ,Chennai
+1439,"15,000",Unfurnished,2,0,2 BHK Builder Floor , Tiruvottiyur ,Chennai
+1440,"22,000",Unfurnished,2,0,2 BHKHouse , KK Nagar ,Chennai
+1441,"10,000",Furnished,2,0,2 BHKHouse , Cholambedu ,Chennai
+1442,"15,000",Semi-Furnished,2,0,3 BHK Builder Floor , Anakaputhur ,Chennai
+1443,"8,000",Semi-Furnished,2,0,2 BHK Builder Floor , Kundrathur ,Chennai
+1444,"8,000",Unfurnished,2,0,2 BHK Builder Floor , Banu Nagar ,Chennai
+1445,"30,000",Unfurnished,3,0,3 BHKHouse , Chromepet ,Chennai
+1446,"6,000",Semi-Furnished,1,0,1 BHKHouse , Ambattur ,Chennai
+1447,"11,000",Semi-Furnished,1,0,1 BHKHouse , Perambur ,Chennai
+1448,"20,000",Unfurnished,2,0,2 BHKHouse , Pozhichalur ,Chennai
+1449,"15,000",Furnished,2,0,2 BHK Apartment , muggappair ,Chennai
+1450,"12,500",Semi-Furnished,2,0,2 BHKHouse , Tirusulam ,Chennai
+1451,"6,000",Unfurnished,1,0,1 BHKHouse , Puzhal ,Chennai
+1452,"10,000",Semi-Furnished,1,0,1 BHKHouse , Nesapakkam ,Chennai
+1453,"8,000",Unfurnished,1,0,1 BHKHouse , Madhavaram ,Chennai
+1454,"10,000",Semi-Furnished,1,0,1 BHK Builder Floor , Old Washermanpet ,Chennai
+1455,"18,000",Semi-Furnished,2,0,3 BHKHouse , Madipakkam ,Chennai
+1456,"15,000",Unfurnished,2,0,2 BHK Builder Floor , Keelkattalai ,Chennai
+1457,"16,000",Semi-Furnished,2,0,3 BHK Builder Floor , Iyyappanthangal ,Chennai
+1458,"9,000",Semi-Furnished,1,0,2 BHKHouse , Moulivakkam ,Chennai
+1459,"10,000",Unfurnished,2,0,2 BHK Builder Floor , Madambakkam ,Chennai
+1460,"15,000",Semi-Furnished,2,0,2 BHKHouse , Gowriwakkam ,Chennai
+1461,"4,000",Semi-Furnished,1,0,1 BHK Builder Floor , Pallavaram ,Chennai
+1462,"10,000",Semi-Furnished,1,0,1 BHKHouse , West Mambalam ,Chennai
+1463,"11,000",Unfurnished,1,0,2 BHKHouse , Villivakkam ,Chennai
+1464,"15,000",Semi-Furnished,2,0,2 BHKHouse , Guduvancherry ,Chennai
+1465,"20,000",Semi-Furnished,2,0,2 BHK Builder Floor , Anna Nagar ,Chennai
+1466,"13,500",Semi-Furnished,1,0,2 BHKHouse , Perambur ,Chennai
+1467,"7,500",Unfurnished,2,0,2 BHK Builder Floor , Pammal ,Chennai
+1468,"12,000",Semi-Furnished,2,0,2 BHKHouse , Madhavaram ,Chennai
+1469,"7,000",Semi-Furnished,1,0,1 BHKHouse , Kolapakkam ,Chennai
+1470,"15,000",Unfurnished,2,0,2 BHKHouse , CIT Nagar ,Chennai
+1471,"11,500",Unfurnished,1,0,1 BHKHouse , Royapettah ,Chennai
+1472,"8,000",Furnished,1,0,1 BHKHouse , Maduravoyal ,Chennai
+1473,"5,500",Semi-Furnished,1,0,1 BHKHouse , Anakaputhur ,Chennai
+1474,"7,500",Semi-Furnished,1,0,2 BHKHouse , Thirumullaivoyal ,Chennai
+1475,"17,500",Semi-Furnished,2,0,2 BHK Builder Floor , Palavakkam ,Chennai
+1476,"5,700",Unfurnished,1,0,1 BHKHouse , Iyyappanthangal ,Chennai
+1477,"15,000",Unfurnished,2,1,1 BHKHouse , Saidapet ,Chennai
+1478,"6,000",Unfurnished,1,0,1 BHKHouse , Ambattur ,Chennai
+1479,"4,000",Semi-Furnished,1,0,1 BHKHouse , Pulianthope ,Chennai
+1480,"55,000",Furnished,2,1,3 BHK Apartment , Thoraipakkam ,Chennai
+1481,"15,000",Unfurnished,2,0,2 BHKHouse , Kolathur ,Chennai
+1482,"14,000",Unfurnished,2,0,2 BHKHouse , Madhavaram ,Chennai
+1483,"7,000",Unfurnished,1,0,1 BHKHouse , Ramapuram ,Chennai
+1484,"13,000",Unfurnished,2,2,2 BHKHouse , Puzhuthivakkam ,Chennai
+1485,"30,000",Unfurnished,2,1,2 BHK Apartment , Anna Nagar West ,Chennai
+1486,"20,000",Semi-Furnished,2,2,2 BHK Apartment , Thiruvanmiyur ,Chennai
+1487,"8,500",Unfurnished,2,1,2 BHKHouse , Poonamallee ,Chennai
+1488,"7,500",Semi-Furnished,2,1,2 BHK Builder Floor , Kattupakkam ,Chennai
+1489,"65,000",Semi-Furnished,2,1,3 BHK Apartment , Elliots ,Chennai
+1490,"12,500",Semi-Furnished,2,0,2 BHKHouse , Gerugambakkam ,Chennai
+1491,"25,000",Semi-Furnished,2,2,2 BHK Apartment , Saligramam ,Chennai
+1492,"18,000",Semi-Furnished,3,1,3 BHK Apartment , Kovilambakkam ,Chennai
+1493,190000,Unfurnished,5,0,4 BHK Apartment , East Coast Road ,Chennai
+1494,"19,000",Semi-Furnished,2,0,2 BHK Builder Floor , Thirunagar West Jafferkhanpet ,Chennai
+1495,"20,000",Semi-Furnished,4,1,4 BHKHouse , Gerugambakkam ,Chennai
+1496,"22,000",Furnished,3,2,3 BHK Villa , Mahindra World City ,Chennai
+1497,"7,500",Semi-Furnished,2,1,1 BHKHouse , Puzhal ,Chennai
+1498,"9,500",Unfurnished,1,0,1 BHKHouse , Kodungaiyur ,Chennai
+1499,"35,000",Semi-Furnished,3,0,3 BHKHouse , Iyyappanthangal ,Chennai
